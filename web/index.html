@@ -6,6 +6,14 @@
     <meta name="theme-color" content="#f5f2eb" />
     <meta name="description" content="从400条月榜记录、196个系列与3049条有效热评出发，追问AI短剧究竟有多少不同的故事。" />
     <title>换一部，还是这一个？｜AI短剧的故事重复实验</title>
+    <script id="local-preview">
+      if (location.protocol === 'file:') {
+        const preview = new URL('./dist/index.html', location.href);
+        preview.search = location.search;
+        preview.hash = location.hash;
+        location.replace(preview.href);
+      }
+    </script>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./src/style.css" />
     <link rel="stylesheet" href="./src/exhibits.css" />

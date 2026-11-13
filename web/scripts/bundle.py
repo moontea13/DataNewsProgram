@@ -45,6 +45,8 @@ def main():
     data_json = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     script = '\n'.join(blocks).replace('</script', '<\\/script')
     html = (ROOT / 'index.html').read_text(encoding='utf-8')
+    # 源码入口双击时跳到离线版；离线版本身不能再次跳转。
+    html = re.sub(r'    <script id="local-preview">[\s\S]*?</script>\n', '', html)
     html = html.replace('<script type="module" src="./src/main.js"></script>', '<script>window.__STORY_DATA__=' + data_json + ';\n' + script + '</script>')
     (ROOT / 'dist/index.html').write_text(html, encoding='utf-8')
     (ROOT / 'dist/src/offline-bundle.js').write_text(script, encoding='utf-8')
