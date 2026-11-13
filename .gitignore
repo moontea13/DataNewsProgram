@@ -20,3 +20,24 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Regenerable experiment files and large model/data artifacts.
+/outputs/
+/.local/
+/.cache/
+/analysis/.cache/
+/analysis/results/
+node_modules/
+*.npy
+*.npz
+*.onnx
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.webp

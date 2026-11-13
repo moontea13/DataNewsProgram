@@ -3,16 +3,19 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import os from 'node:os';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { createRequire } from 'node:module';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const runtimeDir = path.join(os.tmpdir(), 'datacrawl-delivery-export');
-const deps = path.join(os.homedir(), '.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules');
 await fs.mkdir(runtimeDir, {recursive: true});
-try { await fs.symlink(deps, path.join(runtimeDir, 'node_modules'), 'dir'); }
-catch (e) { if (e.code !== 'EEXIST') throw e; }
-const req = createRequire(path.join(runtimeDir, 'package.json'));
-const { Workbook, SpreadsheetFile, FileBlob } = await import(pathToFileURL(req.resolve('@oai/artifact-tool')).href);
+let artifact;
+try {
+  artifact = process.env.ARTIFACT_TOOL_MODULE
+    ? await import(pathToFileURL(path.resolve(process.env.ARTIFACT_TOOL_MODULE)).href)
+    : await import('@oai/artifact-tool');
+} catch (error) {
+  throw new Error('此历史Excel导出入口需要可选的 @oai/artifact-tool，或设置 ARTIFACT_TOOL_MODULE 为模块入口文件。主分析及CSV导出无需此依赖。', { cause: error });
+}
+const { Workbook, SpreadsheetFile, FileBlob } = artifact;
 if (process.argv.includes('--inspect-existing')) {
   const existing = await SpreadsheetFile.importXlsx(await FileBlob.load(path.join(root, 'outputs/采集交付清单.xlsx')));
   console.log((await existing.inspect({kind: 'sheet', include: 'id,name', maxChars: 2000})).ndjson);

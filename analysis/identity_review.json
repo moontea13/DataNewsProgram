@@ -1,0 +1,14 @@
+[
+  {
+    "series_a": "HG_7654193803485514777",
+    "series_b": "HG_7661930629965040664",
+    "reason": "近名且简介共有陆川、韩东、陈子昂等人物，关联疑点待核；保守排除配对，不合并系列",
+    "sources": ["https://hongguoduanju.com/player/7660927942305795097", "https://hongguoduanju.com/player/7668139363691154456"]
+  },
+  {
+    "series_a": "HG_7691669138665638937",
+    "series_b": "HG_7693134077129411646",
+    "reason": "近名且简介共有夏小柒、乔然、陆家妯娌、七零设定，关联疑点待核；保守排除配对，不合并系列",
+    "sources": ["https://hongguoduanju.com/player/7690195777649380414", "https://hongguoduanju.com/player/7692043430955863102"]
+  }
+]

@@ -15,7 +15,7 @@
 | 数据关联校验 | `python3 scripts/检查采集结果.py` | 否 |
 | 季数/版本规则检查 | `PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s scripts -p 'test_作品匹配.py'` | 否 |
 
-Python解析依赖：`beautifulsoup4`、`Pillow`。复用已存OCR不需要识别模型；重新OCR才需要`rapidocr-onnxruntime`。Excel导出沿用本机`@oai/artifact-tool`环境。
+Python解析依赖：`beautifulsoup4`、`Pillow`。复用已存OCR不需要识别模型；重新OCR才需要`rapidocr-onnxruntime`。历史Excel导出另需Node.js及可用的`@oai/artifact-tool`（或设置`ARTIFACT_TOOL_MODULE`指向其入口文件）；不再自动查找个人电脑缓存。此可选入口不属于根目录分析流水线，缺少该依赖时直接使用CSV。
 
 ## 单项处理脚本
 

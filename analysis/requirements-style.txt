@@ -1,0 +1,9 @@
+# Supplement to the existing pinned model environment. Install in an isolated env.
+-r requirements-models.txt
+rapidocr_onnxruntime==1.4.4
+onnxruntime==1.20.1
+pyclipper==1.3.0.post6
+coloredlogs==15.0.1
+flatbuffers==24.3.25
+humanfriendly==10.0
+Markdown>=3.4,<4
