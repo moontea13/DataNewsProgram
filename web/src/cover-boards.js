@@ -1,0 +1,6 @@
+import { esc } from './components.js';
+
+export function coverBoardsHTML(D) {
+  const gallery=new Map(D.gallery.map(row=>[row.series_id,row]));
+  return `<div class="cover-boards section-wrap"><p class="cover-boards-intro">相近的，不只有人物。标题放在哪里、字形怎样铺开、画面偏冷还是偏暖，也在反复出现。</p>${D.cover_groups.groups.map((group,index)=>`<section class="cover-board" data-reveal style="--board-tint:${group.color}" aria-labelledby="board-${group.id}"><div class="board-heading"><span class="board-number">${String(index+1).padStart(2,'0')}</span><h3 id="board-${group.id}">${esc(group.title)}</h3><p>${esc(group.description)}</p><div class="board-cues">${group.cues.map(cue=>`<span>${esc(cue)}</span>`).join('')}</div></div><div class="board-covers">${group.members.map((id,i)=>{const row=gallery.get(id);return `<div class="board-cover" style="--reveal-order:${i};--cover-lean:${[-3,1.5,-1,3][i]}deg"><button class="physical-cover" data-series="${id}" aria-label="查看${esc(row.title)}"><img src="./${row.cover}" alt="《${esc(row.title)}》封面" loading="lazy"><span class="cover-spine" aria-hidden="true"></span></button><span class="board-cover-title">${esc(row.title)}</span></div>`;}).join('')}</div></section>`).join('')}<p class="figure-note">封面分组展示 · 点击作品查看简介与来源</p></div>`;
+}

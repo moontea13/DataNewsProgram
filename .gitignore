@@ -10,6 +10,7 @@ __pycache__/
 /dataprocessing/outputs/
 /dataprocessing/资料/目录整理记录.json
 /交接包/
+/临时/
 *.zip
 *.tar.gz
 
