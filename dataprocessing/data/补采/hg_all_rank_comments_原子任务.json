@@ -1,0 +1,962 @@
+[
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7660437812851788862",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7660437812851788862.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7660437812851788862.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7660437812851788862.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7657568094017031192",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657568094017031192.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657568094017031192.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657568094017031192.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7661175350293957694",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661175350293957694.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661175350293957694.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661175350293957694.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7658588577797786648",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658588577797786648.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658588577797786648.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658588577797786648.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7653639205888724030",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7653639205888724030.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7653639205888724030.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7653639205888724030.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7654873097274657854",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654873097274657854.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654873097274657854.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654873097274657854.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7661192355390688280",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661192355390688280.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661192355390688280.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661192355390688280.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7661932974631291928",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661932974631291928.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661932974631291928.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661932974631291928.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7657022277468310553",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657022277468310553.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657022277468310553.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657022277468310553.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7665575787830987800",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665575787830987800.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665575787830987800.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665575787830987800.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7654979763613731864",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654979763613731864.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654979763613731864.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654979763613731864.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7657091876612230169",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657091876612230169.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657091876612230169.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657091876612230169.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7655330739981929497",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655330739981929497.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655330739981929497.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655330739981929497.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7659338485173586969",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7659338485173586969.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7659338485173586969.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7659338485173586969.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7655633797097999385",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655633797097999385.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655633797097999385.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7655633797097999385.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7658670507000073278",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658670507000073278.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658670507000073278.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658670507000073278.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7654967404312661016",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654967404312661016.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654967404312661016.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7654967404312661016.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7666817382987336729",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666817382987336729.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666817382987336729.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666817382987336729.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7657863395504311320",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657863395504311320.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657863395504311320.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657863395504311320.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7652306414982925374",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7652306414982925374.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7652306414982925374.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7652306414982925374.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7665694855149915161",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665694855149915161.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665694855149915161.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665694855149915161.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7661922145894665240",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661922145894665240.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661922145894665240.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661922145894665240.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7665645392955968537",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665645392955968537.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665645392955968537.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7665645392955968537.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7648598645096320024",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7648598645096320024.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7648598645096320024.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7648598645096320024.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7666324135290620953",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666324135290620953.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666324135290620953.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666324135290620953.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7664482624450071576",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7664482624450071576.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7664482624450071576.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7664482624450071576.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7658498883760180248",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658498883760180248.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658498883760180248.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7658498883760180248.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7657875771775519768",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657875771775519768.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657875771775519768.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7657875771775519768.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7666317951452056601",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666317951452056601.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666317951452056601.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7666317951452056601.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7661090294145764376",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661090294145764376.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661090294145764376.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7661090294145764376.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673810791547538494",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673810791547538494.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673810791547538494.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673810791547538494.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669384046295649342",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669384046295649342.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669384046295649342.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669384046295649342.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7672307890366975000",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672307890366975000.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672307890366975000.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672307890366975000.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675288927619533886",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675288927619533886.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675288927619533886.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675288927619533886.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677917481222032408",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677917481222032408.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677917481222032408.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677917481222032408.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677914379060251673",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677914379060251673.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677914379060251673.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677914379060251673.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7671115782083841048",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671115782083841048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671115782083841048.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671115782083841048.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7667585838749862937",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667585838749862937.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667585838749862937.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667585838749862937.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673807696302197784",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673807696302197784.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673807696302197784.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673807696302197784.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669373224148274238",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669373224148274238.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669373224148274238.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669373224148274238.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677588142009879577",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677588142009879577.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677588142009879577.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677588142009879577.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7674093733888936984",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674093733888936984.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674093733888936984.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674093733888936984.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7674968887099657241",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674968887099657241.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674968887099657241.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674968887099657241.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7667514730021391384",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667514730021391384.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667514730021391384.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667514730021391384.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669753608648281113",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669753608648281113.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669753608648281113.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669753608648281113.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669405695313202201",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669405695313202201.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669405695313202201.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669405695313202201.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670056645925276734",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670056645925276734.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670056645925276734.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670056645925276734.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7671604400095251480",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671604400095251480.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671604400095251480.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671604400095251480.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675284312551328792",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675284312551328792.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675284312551328792.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675284312551328792.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677874167550594110",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677874167550594110.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677874167550594110.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677874167550594110.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7678585410657733656",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678585410657733656.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678585410657733656.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678585410657733656.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669744336673721369",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669744336673721369.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669744336673721369.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669744336673721369.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7678704466123557912",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678704466123557912.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678704466123557912.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678704466123557912.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670948786889296921",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670948786889296921.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670948786889296921.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670948786889296921.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7674546759586024473",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674546759586024473.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674546759586024473.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674546759586024473.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673461357148130329",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673461357148130329.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673461357148130329.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673461357148130329.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675712595063475262",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675712595063475262.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675712595063475262.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675712595063475262.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7672610959436811326",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672610959436811326.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672610959436811326.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672610959436811326.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7669643806492331070",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669643806492331070.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669643806492331070.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7669643806492331070.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673008309510605848",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673008309510605848.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673008309510605848.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673008309510605848.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7668904735717477400",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668904735717477400.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668904735717477400.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668904735717477400.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673439713373473816",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673439713373473816.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673439713373473816.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673439713373473816.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7672626399097670681",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672626399097670681.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672626399097670681.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7672626399097670681.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7674246798768098329",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674246798768098329.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674246798768098329.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674246798768098329.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7671681680918203416",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671681680918203416.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671681680918203416.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671681680918203416.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7668583125479345176",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668583125479345176.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668583125479345176.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7668583125479345176.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670494218577529881",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670494218577529881.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670494218577529881.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670494218577529881.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7676408387281636414",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676408387281636414.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676408387281636414.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676408387281636414.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7676323355443596312",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676323355443596312.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676323355443596312.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676323355443596312.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7676317160037174297",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676317160037174297.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676317160037174297.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676317160037174297.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673512389072931865",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673512389072931865.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673512389072931865.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673512389072931865.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675734235356859417",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675734235356859417.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675734235356859417.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675734235356859417.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7667510086100601881",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667510086100601881.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667510086100601881.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667510086100601881.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7671650761280867352",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671650761280867352.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671650761280867352.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7671650761280867352.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677592804603726873",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677592804603726873.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677592804603726873.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677592804603726873.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670540606669589566",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670540606669589566.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670540606669589566.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670540606669589566.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670172622344178713",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670172622344178713.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670172622344178713.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670172622344178713.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7677164483571092504",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677164483571092504.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677164483571092504.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7677164483571092504.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670106171218332697",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670106171218332697.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670106171218332697.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670106171218332697.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7670014919999245336",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670014919999245336.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670014919999245336.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7670014919999245336.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673855639302442008",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673855639302442008.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673855639302442008.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673855639302442008.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7678591589773478936",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678591589773478936.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678591589773478936.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7678591589773478936.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7676309431444851737",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676309431444851737.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676309431444851737.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676309431444851737.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675717225428306968",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675717225428306968.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675717225428306968.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675717225428306968.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7667468332060134425",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667468332060134425.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667468332060134425.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667468332060134425.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7675590448932473881",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675590448932473881.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675590448932473881.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7675590448932473881.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7676383631534722073",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676383631534722073.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676383631534722073.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7676383631534722073.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7667556448867470398",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667556448867470398.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667556448867470398.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7667556448867470398.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7673433524459801625",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673433524459801625.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673433524459801625.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7673433524459801625.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7674274641149430808",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674274641149430808.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674274641149430808.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7674274641149430808.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7681495327056071704",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681495327056071704.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681495327056071704.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681495327056071704.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7680883072278989849",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680883072278989849.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680883072278989849.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680883072278989849.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686894628578020414",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686894628578020414.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686894628578020414.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686894628578020414.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7681903520873729048",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681903520873729048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681903520873729048.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681903520873729048.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687179113462778904",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687179113462778904.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687179113462778904.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687179113462778904.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7688558312157088793",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688558312157088793.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688558312157088793.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688558312157088793.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7681212396911741976",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681212396911741976.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681212396911741976.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681212396911741976.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7683036877804293144",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683036877804293144.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683036877804293144.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683036877804293144.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7684119218056350782",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684119218056350782.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684119218056350782.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684119218056350782.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7679411071647484953",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7679411071647484953.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7679411071647484953.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7679411071647484953.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7689374703357545497",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689374703357545497.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689374703357545497.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689374703357545497.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687237883010223166",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687237883010223166.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687237883010223166.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687237883010223166.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7682645700781296665",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682645700781296665.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682645700781296665.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682645700781296665.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7681277340327873560",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681277340327873560.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681277340327873560.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681277340327873560.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690059679510055960",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690059679510055960.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690059679510055960.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690059679510055960.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7680406821131013182",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680406821131013182.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680406821131013182.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7680406821131013182.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686704444179745816",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686704444179745816.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686704444179745816.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686704444179745816.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686506551271509017",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686506551271509017.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686506551271509017.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686506551271509017.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7682239041630129214",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682239041630129214.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682239041630129214.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682239041630129214.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7684657283552250942",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684657283552250942.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684657283552250942.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684657283552250942.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7685220106816719896",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685220106816719896.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685220106816719896.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685220106816719896.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687449697434209342",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687449697434209342.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687449697434209342.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687449697434209342.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7682637968472820798",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682637968472820798.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682637968472820798.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682637968472820798.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7688272285261630526",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688272285261630526.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688272285261630526.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688272285261630526.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690113785092131865",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690113785092131865.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690113785092131865.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690113785092131865.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687217786178784281",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687217786178784281.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687217786178784281.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687217786178784281.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686033393183624216",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686033393183624216.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686033393183624216.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686033393183624216.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7684198070774402110",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684198070774402110.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684198070774402110.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684198070774402110.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7685988556149361726",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685988556149361726.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685988556149361726.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7685988556149361726.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686351913100512281",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686351913100512281.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686351913100512281.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686351913100512281.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7682825049039965209",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682825049039965209.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682825049039965209.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682825049039965209.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7684111482522438680",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684111482522438680.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684111482522438680.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7684111482522438680.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687454336212814873",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687454336212814873.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687454336212814873.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687454336212814873.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7682726101671496729",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682726101671496729.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682726101671496729.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7682726101671496729.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7681271142396480536",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681271142396480536.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681271142396480536.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7681271142396480536.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7688553678864665624",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688553678864665624.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688553678864665624.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688553678864665624.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7683111114900507710",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683111114900507710.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683111114900507710.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7683111114900507710.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686444695785835582",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686444695785835582.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686444695785835582.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686444695785835582.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690163276214176792",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690163276214176792.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690163276214176792.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690163276214176792.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7691228619774905368",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691228619774905368.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691228619774905368.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691228619774905368.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7696095984266251326",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696095984266251326.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696095984266251326.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696095984266251326.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7696437705822981182",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696437705822981182.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696437705822981182.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696437705822981182.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7701567939715025944",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701567939715025944.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701567939715025944.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701567939715025944.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7695704804978330649",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695704804978330649.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695704804978330649.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695704804978330649.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7697852455970671678",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697852455970671678.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697852455970671678.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697852455970671678.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7697209269287914521",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697209269287914521.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697209269287914521.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7697209269287914521.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690409104472296510",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690409104472296510.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690409104472296510.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690409104472296510.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7691717179049249854",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691717179049249854.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691717179049249854.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691717179049249854.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7689482965906099262",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689482965906099262.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689482965906099262.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689482965906099262.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7689844778497739800",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689844778497739800.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689844778497739800.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689844778497739800.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690112243203050521",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690112243203050521.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690112243203050521.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690112243203050521.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7700436139546512408",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7700436139546512408.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7700436139546512408.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7700436139546512408.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690413747721997336",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690413747721997336.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690413747721997336.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690413747721997336.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7687650704235711513",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687650704235711513.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687650704235711513.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7687650704235711513.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7691978484985383960",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691978484985383960.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691978484985383960.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7691978484985383960.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7688726871877356606",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688726871877356606.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688726871877356606.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7688726871877356606.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7693753523955043353",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693753523955043353.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693753523955043353.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693753523955043353.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7696737673263713304",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696737673263713304.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696737673263713304.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696737673263713304.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7699809932706597913",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7699809932706597913.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7699809932706597913.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7699809932706597913.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7695709445933763646",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695709445933763646.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695709445933763646.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7695709445933763646.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7689391734379269144",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689391734379269144.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689391734379269144.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7689391734379269144.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690596204589091864",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690596204589091864.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690596204589091864.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690596204589091864.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7693492249157438489",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693492249157438489.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693492249157438489.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693492249157438489.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690800298331212825",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690800298331212825.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690800298331212825.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690800298331212825.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7693909683811126296",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693909683811126296.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693909683811126296.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693909683811126296.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7701303541440187416",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701303541440187416.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701303541440187416.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7701303541440187416.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7693090206953507864",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693090206953507864.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693090206953507864.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7693090206953507864.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7690928620021238808",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690928620021238808.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690928620021238808.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7690928620021238808.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7686430794469887001",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686430794469887001.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686430794469887001.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7686430794469887001.html.hg_all_rank_comments.part.result.json"
+  },
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7696071263730551870",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696071263730551870.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696071263730551870.html.hg_all_rank_comments.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/hongguo_comments/all_ranked_20261112/detail_7696071263730551870.html.hg_all_rank_comments.part.result.json"
+  }
+]

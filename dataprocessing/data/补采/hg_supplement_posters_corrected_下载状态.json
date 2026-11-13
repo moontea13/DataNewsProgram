@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.tvlab.ai/short/covers/yi-kuai-qian-ying-bi-wan-chu-wan-yi-shang-ye-di-720x1080.webp",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_067_poster.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_067_poster.jpg.hg_supplement_posters_corrected.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_067_poster.jpg.hg_supplement_posters_corrected.part.result.json",
+    "finalized_at": "2026-11-12T05:41:20.163495+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "28d71c756643df644898f9039e39c6e1ba7ef85a5683c92d11364012e3934d86",
+    "http_code": 200
+  },
+  {
+    "url": "https://fadk27.xyz/m/YmYyUjTjrO2EaekpIsq-rdpO8FqbFABHjPq_o31zEJg/rs:fit:240:0:0:0/wm:gg/sr:0/czM6Ly9ndW9ndW8vc2VyaWVzL3c5N2ppaWV6bTZoOTQ3d2s2NmJ3a2hubi9jb3Zlci5qcGc.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_071_poster.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_071_poster.jpg.hg_supplement_posters_corrected.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/supplement_2026-10_红果_071_poster.jpg.hg_supplement_posters_corrected.part.result.json",
+    "finalized_at": "2026-11-12T05:41:20.164067+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "b67470e460d80173ad38ecef3451acc14b961728dc5f611c3568b6259808f717",
+    "http_code": 200
+  }
+]

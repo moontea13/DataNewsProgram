@@ -1,0 +1,1976 @@
+[
+  {
+    "brand_id": "BRAND_6cf8495ba9e0a6b9",
+    "brand_name": "不鸣文化",
+    "original_tokens": [
+      "不鸣文化",
+      "不鸣文化剧场",
+      "不鸣文化官方号"
+    ],
+    "ranking_count": 37,
+    "work_count": 37,
+    "series_unit_count": 10,
+    "series_ids": [
+      "HG_7640040862889544729",
+      "HG_7654557025887587353",
+      "HG_7656047949343902745",
+      "HG_7657863530753821721",
+      "HG_7660800379382156312",
+      "HG_7661252682811706430",
+      "HG_7663003241210203161",
+      "HG_7677170418364451864",
+      "HG_7684621284428254232",
+      "TMP_eef05655c1315441"
+    ],
+    "entity_names_supported": [
+      "深圳不鸣文化科技有限公司"
+    ],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_65dcf03d6d4fe2c1",
+    "brand_name": "半亩文剧社",
+    "original_tokens": [
+      "半亩文剧社"
+    ],
+    "ranking_count": 10,
+    "work_count": 8,
+    "series_unit_count": 5,
+    "series_ids": [
+      "HG_7674619299784297496",
+      "HG_7679383226309168190",
+      "HG_7683485096849984536",
+      "HG_7685734122307734553",
+      "HG_7688225768719010840"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_9e23e35fcae75763",
+    "brand_name": "火牙文化",
+    "original_tokens": [
+      "火牙文化"
+    ],
+    "ranking_count": 7,
+    "work_count": 7,
+    "series_unit_count": 5,
+    "series_ids": [
+      "HG_7657875907813575704",
+      "HG_7659265152386092057",
+      "HG_7681924895587961880",
+      "HG_7691669138665638937",
+      "HG_7693134077129411646"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_42faa2b098c3b989",
+    "brand_name": "万序光影",
+    "original_tokens": [
+      "万序光影"
+    ],
+    "ranking_count": 7,
+    "work_count": 7,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7683128465725328408",
+      "HG_7684230492845001752",
+      "HG_7687910242989919256"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_49aebbdf16157fab",
+    "brand_name": "瑾叶剧场",
+    "original_tokens": [
+      "瑾叶剧场"
+    ],
+    "ranking_count": 7,
+    "work_count": 7,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7676739369444576281",
+      "HG_7698358552682843160",
+      "HG_7699857554641275966"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_553dc20e1a944e9d",
+    "brand_name": "惊人科技",
+    "original_tokens": [
+      "惊人科技"
+    ],
+    "ranking_count": 6,
+    "work_count": 6,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7660800379382156312",
+      "HG_7670117824450284569",
+      "HG_7677170418364451864"
+    ],
+    "entity_names_supported": [
+      "深圳惊人科技有限公司"
+    ],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b00b4ae18537d175",
+    "brand_name": "云梦动漫",
+    "original_tokens": [
+      "云梦动漫"
+    ],
+    "ranking_count": 6,
+    "work_count": 5,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7663690676885802009",
+      "HG_7674610687179492376",
+      "HG_7686025755343457305"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_32fb75ab971a983d",
+    "brand_name": "红泥剧场",
+    "original_tokens": [
+      "红泥剧场"
+    ],
+    "ranking_count": 4,
+    "work_count": 4,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7646999617925565464",
+      "HG_7654193803485514777",
+      "HG_7689417441885047870"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_a73ae495fb67ae28",
+    "brand_name": "快创剧场",
+    "original_tokens": [
+      "快创剧场"
+    ],
+    "ranking_count": 4,
+    "work_count": 3,
+    "series_unit_count": 3,
+    "series_ids": [
+      "TMP_0daca40ad24129ba",
+      "TMP_c14adb28aff6fcf7",
+      "TMP_d9dcc0705d72cbc1"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_a4d83e4f3397325f",
+    "brand_name": "顾北动画",
+    "original_tokens": [
+      "顾北动画"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 3,
+    "series_ids": [
+      "HG_7660522049697221657",
+      "HG_7661133812180454462",
+      "HG_7689810490012224574"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_754795c501f31ab1",
+    "brand_name": "九天漫剧",
+    "original_tokens": [
+      "九天漫剧"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 3,
+    "series_ids": [
+      "TMP_33d1767a5a529378",
+      "TMP_6a453a50edb93393",
+      "TMP_f3b4fa657e12f84f"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_788b54b06673077b",
+    "brand_name": "小语剧场",
+    "original_tokens": [
+      "小语剧场"
+    ],
+    "ranking_count": 12,
+    "work_count": 9,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7663096556081384472",
+      "HG_7683804874831580184"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_f61b53d2e1e2bbbc",
+    "brand_name": "沐境灵心",
+    "original_tokens": [
+      "沐境灵心"
+    ],
+    "ranking_count": 9,
+    "work_count": 7,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7662030523253918744",
+      "HG_7674554522668108824"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_38b3fae5bb435fdf",
+    "brand_name": "有鱼漫剧",
+    "original_tokens": [
+      "有鱼漫剧"
+    ],
+    "ranking_count": 8,
+    "work_count": 8,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7665691216951905305",
+      "HG_7696355440598191166"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_9c07134c2ac902b9",
+    "brand_name": "青风漫剧",
+    "original_tokens": [
+      "青风漫剧"
+    ],
+    "ranking_count": 7,
+    "work_count": 7,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7661625413092789310",
+      "HG_7686091657669790745"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_185db03e411d272d",
+    "brand_name": "扶摇上",
+    "original_tokens": [
+      "扶摇上"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7661935525506337854",
+      "HG_7663331446282538008"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_576ba84858b3fab7",
+    "brand_name": "灵龙创作",
+    "original_tokens": [
+      "灵龙创作"
+    ],
+    "ranking_count": 3,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7663110396244397081",
+      "HG_7688265718504098878"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_bd67e460dd20a938",
+    "brand_name": "云梭映彩",
+    "original_tokens": [
+      "云梭映彩"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7656396141042355225",
+      "TMP_9dcb181ddd73f31e"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7b7e648b73f04035",
+    "brand_name": "回声匣子",
+    "original_tokens": [
+      "回声匣子"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7656037517099027480",
+      "HG_7665932561306111000"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_e10e03a8cbdceaf8",
+    "brand_name": "次元奇点",
+    "original_tokens": [
+      "次元奇点"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7689703541341948952",
+      "TMP_1e591ed2cf705d71"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b280d9285a3f449b",
+    "brand_name": "心跳漫剧",
+    "original_tokens": [
+      "心跳漫剧"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7680889691972848664",
+      "HG_7683863321832868888"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_71122b700471e465",
+    "brand_name": "韵皓小剧场",
+    "original_tokens": [
+      "韵皓小剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 2,
+    "series_ids": [
+      "HG_7649963398494440510",
+      "HG_7696095278008388633"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_0005e164d0534150",
+    "brand_name": "陈柯文化",
+    "original_tokens": [
+      "陈柯文化"
+    ],
+    "ranking_count": 13,
+    "work_count": 10,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7619198149772446782"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7be33671b2057d48",
+    "brand_name": "四川天漫传媒",
+    "original_tokens": [
+      "四川天漫传媒"
+    ],
+    "ranking_count": 9,
+    "work_count": 5,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7660352389433543705"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_38c6bbf91f489602",
+    "brand_name": "风云剧场",
+    "original_tokens": [
+      "风云剧场"
+    ],
+    "ranking_count": 9,
+    "work_count": 9,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7661930629965040664"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1e73e8eaf8fd20d3",
+    "brand_name": "大多多动画",
+    "original_tokens": [
+      "大多多动画"
+    ],
+    "ranking_count": 8,
+    "work_count": 7,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7650036610884455448"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_35f627919869b345",
+    "brand_name": "七秒传媒",
+    "original_tokens": [
+      "七秒传媒"
+    ],
+    "ranking_count": 8,
+    "work_count": 6,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7642249516577459225"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_abd2de3a2925e6ec",
+    "brand_name": "梦绘星界",
+    "original_tokens": [
+      "梦绘星界"
+    ],
+    "ranking_count": 7,
+    "work_count": 7,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7655969486985514008"
+    ],
+    "entity_names_supported": [
+      "贵州梦绘星界动漫有限公司"
+    ],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_24f17e394adb94ca",
+    "brand_name": "光宇出品",
+    "original_tokens": [
+      "光宇出品"
+    ],
+    "ranking_count": 6,
+    "work_count": 6,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7624475539960499262"
+    ],
+    "entity_names_supported": [
+      "贵州梦绘星界动漫有限公司"
+    ],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c2dcaec1c60650b2",
+    "brand_name": "江屿剧场",
+    "original_tokens": [
+      "江屿剧场"
+    ],
+    "ranking_count": 6,
+    "work_count": 6,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7663420941174574105"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_a3bbd7d5dc27174e",
+    "brand_name": "魔王AI剧场",
+    "original_tokens": [
+      "魔王AI剧场"
+    ],
+    "ranking_count": 6,
+    "work_count": 5,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7670484913375693849"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ce5c3e4a9daeef4c",
+    "brand_name": "畅语网络科技",
+    "original_tokens": [
+      "畅语网络科技"
+    ],
+    "ranking_count": 5,
+    "work_count": 4,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7659031398174428222"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_95f5f820b1cd0ee9",
+    "brand_name": "小旺仔动画",
+    "original_tokens": [
+      "小旺仔动画"
+    ],
+    "ranking_count": 5,
+    "work_count": 5,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7652988417692666904"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c658f495a44bf3cc",
+    "brand_name": "青椒漫剧",
+    "original_tokens": [
+      "青椒漫剧"
+    ],
+    "ranking_count": 5,
+    "work_count": 4,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7679320873681030168"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7d5b85efdf1666d9",
+    "brand_name": "巨映剧场",
+    "original_tokens": [
+      "巨映剧场"
+    ],
+    "ranking_count": 4,
+    "work_count": 4,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7654967541093108760"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4216160a908db65e",
+    "brand_name": "情境剧场",
+    "original_tokens": [
+      "情境剧场"
+    ],
+    "ranking_count": 4,
+    "work_count": 4,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7649600241263463448"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d09b0b5873485cb2",
+    "brand_name": "化境文化",
+    "original_tokens": [
+      "化境文化"
+    ],
+    "ranking_count": 4,
+    "work_count": 4,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7674918785786072088"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_3c716486f8b1dae5",
+    "brand_name": "孤灵文化",
+    "original_tokens": [
+      "孤灵文化"
+    ],
+    "ranking_count": 4,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681286468311976984"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d376c96d569d89cd",
+    "brand_name": "嗷嗷剧场",
+    "original_tokens": [
+      "嗷嗷剧场"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7646998683908574232"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b8fa9b346f2b87d7",
+    "brand_name": "蓝天剧场",
+    "original_tokens": [
+      "蓝天剧场"
+    ],
+    "ranking_count": 3,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7677959169915243545"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ccc18e1b42a04ee6",
+    "brand_name": "嘉里动漫",
+    "original_tokens": [
+      "嘉里动漫"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7672696469815561240"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c25c525a7e4758d3",
+    "brand_name": "青风剧场",
+    "original_tokens": [
+      "青风剧场"
+    ],
+    "ranking_count": 3,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7687195740057127960"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_529b56e7b717e551",
+    "brand_name": "鑫瑞影视",
+    "original_tokens": [
+      "鑫瑞影视"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7674619299784297496"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_95afc776993749dc",
+    "brand_name": "地保短剧",
+    "original_tokens": [
+      "地保短剧"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7644850685896313881"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c8193d82ad706de8",
+    "brand_name": "麦麦漫剧",
+    "original_tokens": [
+      "麦麦漫剧"
+    ],
+    "ranking_count": 3,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7689107151679147032"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4692a267ddbf4d0c",
+    "brand_name": "雪之舞剧场",
+    "original_tokens": [
+      "雪之舞剧场"
+    ],
+    "ranking_count": 3,
+    "work_count": 3,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7682690668602346520"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_f97b2a3dfd45c89a",
+    "brand_name": "艺海星合剧场",
+    "original_tokens": [
+      "艺海星合剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7663422725028842520"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1c729e613aa2907c",
+    "brand_name": "韵皓",
+    "original_tokens": [
+      "韵皓"
+    ],
+    "ranking_count": 2,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7662378339578940441"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7ed5842346299090",
+    "brand_name": "萌聚漫剧",
+    "original_tokens": [
+      "萌聚漫剧"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7660718753717439512"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_33c23703d545629d",
+    "brand_name": "火钳漫剧场-女频专用",
+    "original_tokens": [
+      "火钳漫剧场-女频专用"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7659688411862666264"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_af2bc67166803766",
+    "brand_name": "讯迈安看漫剧",
+    "original_tokens": [
+      "讯迈安看漫剧"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7671148259649260568"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_cb33fbeab183fc7c",
+    "brand_name": "鼓象剧场",
+    "original_tokens": [
+      "鼓象剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7674918785786072088"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ac155573c578b343",
+    "brand_name": "一鸣剧场",
+    "original_tokens": [
+      "一鸣剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7683491381976763416"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4721f7bf1b5bdcab",
+    "brand_name": "闪漫数字",
+    "original_tokens": [
+      "闪漫数字"
+    ],
+    "ranking_count": 2,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7689000294050450456"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b4f4fc2c98384af2",
+    "brand_name": "九州短剧官方",
+    "original_tokens": [
+      "九州短剧官方"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7674220249842994200"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_01c6b699f270b2b0",
+    "brand_name": "酒辰文化传媒",
+    "original_tokens": [
+      "酒辰文化传媒"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681590830263454782"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7cb078a8da25e27d",
+    "brand_name": "美光短剧",
+    "original_tokens": [
+      "美光短剧"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7677934706649746456"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c0cc13490b02a941",
+    "brand_name": "次元千川剧场",
+    "original_tokens": [
+      "次元千川剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7690056402181573657"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1bdcbf4ff70fac20",
+    "brand_name": "无幻动漫剧场",
+    "original_tokens": [
+      "无幻动漫剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7687196114121935896"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_93e8a4bde82ffd4c",
+    "brand_name": "动量脉冲",
+    "original_tokens": [
+      "动量脉冲"
+    ],
+    "ranking_count": 2,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7690426815780752408"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1c41da8a548bfb59",
+    "brand_name": "溪文影视",
+    "original_tokens": [
+      "溪文影视"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681286035292048408"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_e6b246dc55afb410",
+    "brand_name": "圆梦剧场",
+    "original_tokens": [
+      "圆梦剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7691305180414872600"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d4739093e6e8f552",
+    "brand_name": "鲸跃AI剧场",
+    "original_tokens": [
+      "鲸跃AI剧场"
+    ],
+    "ranking_count": 2,
+    "work_count": 2,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7690218438014274622"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_a6298cbdbeae1da1",
+    "brand_name": "木冉动画",
+    "original_tokens": [
+      "木冉动画"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7662264724901334040"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_71329d3084fb31cb",
+    "brand_name": "墨子动漫",
+    "original_tokens": [
+      "墨子动漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7659693463193013272"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7fa916559f92d941",
+    "brand_name": "半夏繁华剧场",
+    "original_tokens": [
+      "半夏繁华剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7661948405131775001"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_2340165b97fcb896",
+    "brand_name": "甜宠剧场",
+    "original_tokens": [
+      "甜宠剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7654215277525077016"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_420ab3d944e47fa1",
+    "brand_name": "漫剧制造局",
+    "original_tokens": [
+      "漫剧制造局"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7657127556528753688"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_13e0da31afc622ce",
+    "brand_name": "七七动漫剧场",
+    "original_tokens": [
+      "七七动漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7667884627209489432"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_e4b58bacaa444e91",
+    "brand_name": "天阅剧场",
+    "original_tokens": [
+      "天阅剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7676064749108349977"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_86e80d0eea45da46",
+    "brand_name": "花生小短剧",
+    "original_tokens": [
+      "花生小短剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_b5084c5923057ef4"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ca99261c9f3b825b",
+    "brand_name": "麟文剧场",
+    "original_tokens": [
+      "麟文剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7658530311193496600"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4ee260f9aa53c5ec",
+    "brand_name": "清秋剧场",
+    "original_tokens": [
+      "清秋剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_fccd8d00163e84e6"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_949c1550b7ff37ad",
+    "brand_name": "星耀文化",
+    "original_tokens": [
+      "星耀文化"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7662667624169344024"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_05cc874ec1f31723",
+    "brand_name": "山河剧场",
+    "original_tokens": [
+      "山河剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7658563956746751038"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_a84b4310573dfc21",
+    "brand_name": "格境AI梦工厂",
+    "original_tokens": [
+      "格境AI梦工厂"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7668585000979139646"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_2b3a06687a89ae76",
+    "brand_name": "扶光AI剧场",
+    "original_tokens": [
+      "扶光AI剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7662581101709249598"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_25370012c27a05dd",
+    "brand_name": "云间好剧",
+    "original_tokens": [
+      "云间好剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7665291843621375000"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_53379520a25c8a36",
+    "brand_name": "云牧剧场",
+    "original_tokens": [
+      "云牧剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7675600333963267096"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_771c4719d8672ee0",
+    "brand_name": "初循剧场",
+    "original_tokens": [
+      "初循剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_70c64790e5220012"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d465a51919b8886a",
+    "brand_name": "夏寻动漫剧场",
+    "original_tokens": [
+      "夏寻动漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7666420877688327192"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_e7197d32d8d4ed03",
+    "brand_name": "桃悦剧场",
+    "original_tokens": [
+      "桃悦剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7674529594656967705"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b795f32dba53ee50",
+    "brand_name": "青风帧造剧场",
+    "original_tokens": [
+      "青风帧造剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7667170646199110681"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_baa182717e7b07f8",
+    "brand_name": "叁次方动漫",
+    "original_tokens": [
+      "叁次方动漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7664167384596352024"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_59f031d0ccd1e8eb",
+    "brand_name": "扶摇动漫",
+    "original_tokens": [
+      "扶摇动漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7664586541355781145"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d1889b6078922cd9",
+    "brand_name": "优漫星河",
+    "original_tokens": [
+      "优漫星河"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7657779760566635545"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_49815836b3907c73",
+    "brand_name": "白桃剧场",
+    "original_tokens": [
+      "白桃剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7686465915717700633"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_9a6e1cb7ba380b9d",
+    "brand_name": "光知文化",
+    "original_tokens": [
+      "光知文化"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681878478324501528"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_b9e48196f010f023",
+    "brand_name": "悦星文化",
+    "original_tokens": [
+      "悦星文化"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7685660180331105304"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4bb05c8c0d0b355b",
+    "brand_name": "卓宣剧场",
+    "original_tokens": [
+      "卓宣剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681905064142703640"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_dacf24cf0eaccb31",
+    "brand_name": "无忧树影视",
+    "original_tokens": [
+      "无忧树影视"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7684473977544133656"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ed9ac4df77ec3f4a",
+    "brand_name": "创壹文化",
+    "original_tokens": [
+      "创壹文化"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7673106960958360600"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_88d5a2753f9a3649",
+    "brand_name": "栩阳动漫",
+    "original_tokens": [
+      "栩阳动漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7662638045216132121"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_66c7b773c3d411b5",
+    "brand_name": "千浪影视",
+    "original_tokens": [
+      "千浪影视"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7686411617113738264"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_8a84bd2867b15a74",
+    "brand_name": "塑研文化",
+    "original_tokens": [
+      "塑研文化"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7687169040510372888"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1ee08ad2a98a10c4",
+    "brand_name": "恐龙园赞奇剧场",
+    "original_tokens": [
+      "恐龙园赞奇剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7687169040510372888"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_948004ea62d27247",
+    "brand_name": "落蒂漫剧",
+    "original_tokens": [
+      "落蒂漫剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7683465671992167486"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ba44fb30f434b8f1",
+    "brand_name": "泡漫精选短剧",
+    "original_tokens": [
+      "泡漫精选短剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7679697969733438488"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d07858a7f7527b87",
+    "brand_name": "星河剧场",
+    "original_tokens": [
+      "星河剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7683482128255831065"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d1a294ee3a762631",
+    "brand_name": "爆款剧场",
+    "original_tokens": [
+      "爆款剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7676376048786754622"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c88f4df34c7e77a0",
+    "brand_name": "笔尖动漫剧场",
+    "original_tokens": [
+      "笔尖动漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7676743877360880702"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_f22f4eed5620a604",
+    "brand_name": "闲余撩剧",
+    "original_tokens": [
+      "闲余撩剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7698946793580530750"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_1591586d38f981d3",
+    "brand_name": "奥利不是猪口",
+    "original_tokens": [
+      "奥利不是猪口"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_9a80b55e7950fc59"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_478940c820de5ff9",
+    "brand_name": "潮汐剧场",
+    "original_tokens": [
+      "潮汐剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7687841226178972696"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_5948a3cc008cb89b",
+    "brand_name": "七七剧场",
+    "original_tokens": [
+      "七七剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_be5588a35977ba30"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c088c2fd7cf63607",
+    "brand_name": "三夜剧场",
+    "original_tokens": [
+      "三夜剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_d95e7cf3da944acd"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_0e3841b3fb382a1d",
+    "brand_name": "青芒剧场",
+    "original_tokens": [
+      "青芒剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7689115198329736216"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_7637458a7d3b9154",
+    "brand_name": "吱吱漫剧场",
+    "original_tokens": [
+      "吱吱漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7689840609309248536"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_6a4c26a19e78dacc",
+    "brand_name": "轻畅剧社",
+    "original_tokens": [
+      "轻畅剧社"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681676634155404312"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_8ce18b3da6dec10d",
+    "brand_name": "创象影视",
+    "original_tokens": [
+      "创象影视"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7693061703096863768"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_58a0b3e81ee80d9d",
+    "brand_name": "零点文化剧场",
+    "original_tokens": [
+      "零点文化剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_d2da3bd73c06586d"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_035ee983b722c019",
+    "brand_name": "星芒漫",
+    "original_tokens": [
+      "星芒漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7698248430509886488"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_570a8f7737c1d7b1",
+    "brand_name": "漫不经心剧场",
+    "original_tokens": [
+      "漫不经心剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7681640646347590680"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_5f9f43d9ca264aac",
+    "brand_name": "七猫漫剧",
+    "original_tokens": [
+      "七猫漫剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7690139407063485465"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4563b001de2f3e5b",
+    "brand_name": "木易帆剧场",
+    "original_tokens": [
+      "木易帆剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7697226911704960062"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_4da3bf79c15566bf",
+    "brand_name": "掌读短剧",
+    "original_tokens": [
+      "掌读短剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_44e1024b74e14d79"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_e41a785643cfbd6b",
+    "brand_name": "灵漫剧场",
+    "original_tokens": [
+      "灵漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_2feb42a0ff240639"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ada0e853ae31286e",
+    "brand_name": "第五说",
+    "original_tokens": [
+      "第五说"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7694238410122202136"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_c7c160c480a29920",
+    "brand_name": "九筒影业",
+    "original_tokens": [
+      "九筒影业"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "TMP_58961aed29853311"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_862fa54ae7726ee0",
+    "brand_name": "感知漫剧",
+    "original_tokens": [
+      "感知漫剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7692730550871657496"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_19e34cd3d2881b00",
+    "brand_name": "繁星视界",
+    "original_tokens": [
+      "繁星视界"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7702344943003503641"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_95c9b6c3c5108ccb",
+    "brand_name": "大禹剧场",
+    "original_tokens": [
+      "大禹剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7701264124868561944"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_5f8961c69a311d55",
+    "brand_name": "天圆漫剧-动漫剧场",
+    "original_tokens": [
+      "天圆漫剧-动漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7690107600024636441"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_ce1e781b7ee688ab",
+    "brand_name": "元初动漫",
+    "original_tokens": [
+      "元初动漫"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7693428323606613016"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_6870c1878b7508a4",
+    "brand_name": "小鱼儿剧场",
+    "original_tokens": [
+      "小鱼儿剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7694134033696951358"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_623b459e81dbfed8",
+    "brand_name": "风起漫剧",
+    "original_tokens": [
+      "风起漫剧"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7677123967135534142"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_d07ab74de4710ef8",
+    "brand_name": "最漫剧场",
+    "original_tokens": [
+      "最漫剧场"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7696396072456817688"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  },
+  {
+    "brand_id": "BRAND_27f24a2fc8ec5989",
+    "brand_name": "山海星辰",
+    "original_tokens": [
+      "山海星辰"
+    ],
+    "ranking_count": 1,
+    "work_count": 1,
+    "series_unit_count": 1,
+    "series_ids": [
+      "HG_7695291705150426174"
+    ],
+    "entity_names_supported": [],
+    "counting_note": "仅品牌署名候选统计，不等于企业家数；联合署名各方保留，不可直接将各方占比相加"
+  }
+]

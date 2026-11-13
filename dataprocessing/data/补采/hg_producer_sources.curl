@@ -1,0 +1,65 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.lg.gov.cn/lgwtlyj/gkmlpt/content/12/12806/post_12806656.html"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_龙岗企业名单.html.hg_producer_sources.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_龙岗企业名单.html.hg_producer_sources.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.sznews.com/news/content/2026-05/15/content_32051419.htm"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_惊人文博会.html.hg_producer_sources.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_惊人文博会.html.hg_producer_sources.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.thepaper.cn/newsDetail_forward_34001023"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_半亩文报道.html.hg_producer_sources.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_半亩文报道.html.hg_producer_sources.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://tm.aliyun.com/detail/56c8_93924795_41"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇商标线索.html.hg_producer_sources.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇商标线索.html.hg_producer_sources.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.chenkecc.com/post/64.html"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_陈柯同名公司待排除.html.hg_producer_sources.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_陈柯同名公司待排除.html.hg_producer_sources.part.result.json}%{json}\n"

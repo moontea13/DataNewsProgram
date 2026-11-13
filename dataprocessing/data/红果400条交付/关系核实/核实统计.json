@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-11-12T11:32:32.272978+00:00",
+  "scope": "仅红果7—10月",
+  "ranking_rows": 400,
+  "series_units": 196,
+  "new_official_book_pages": 7,
+  "original_candidate_books_now_with_official_pages": 77,
+  "original_candidate_books": 77,
+  "all_candidate_books_after_new_evidence": 79,
+  "all_candidate_books_with_official_pages": 79,
+  "official_authors_in_current_relations": 78,
+  "book_relation_series_units": 79,
+  "series_book_candidate_edges": 80,
+  "direct_work_adaptation_statements": 1,
+  "official_book_series_adaptation_statements": 6,
+  "media_series_adaptation_reports": 1,
+  "work_adaptation_self_claims": 2,
+  "detail_pages_scanned": 360,
+  "producer_self_claim_cards": 38,
+  "ranking_rows_named_producer": 367,
+  "producer_placeholder_counts": {
+    "待认领": 20,
+    "": 1,
+    "待确认": 12
+  },
+  "producer_credit_edges": 372,
+  "work_project_role_statements": 5,
+  "missing_producer_work_self_claim_candidates": 1,
+  "brand_names_after_limited_normalization": 128,
+  "supported_entity_names": [
+    "深圳不鸣文化科技有限公司",
+    "深圳惊人科技有限公司",
+    "贵州梦绘星界动漫有限公司"
+  ],
+  "ranking_adaptation_status_counts": {
+    "系列有媒体改编报道，未确认本季": 6,
+    "本季有主创账号改编自述，账号身份待核": 3,
+    "尚无独立改编确认；不等于原创": 373,
+    "系列有原著官方改编声明，未点名本季": 17,
+    "平台作品简介有本季直接改编声明": 1
+  },
+  "limits": "平台作品改编声明、原著系列声明、媒体报道、主创账号自述与第三方线索分层。书目全覆盖不等于改编全确认；公司关系不合并为别名；月榜OCR和历史版本身份仍按原状态保留。"
+}

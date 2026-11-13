@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta charset="utf-8">
+    <meta name="referrer" content="always">
+    <meta name="keywords" content="微信公众号，精彩内容独家收录，一搜即达">
+    <meta name="description" content="微信公众号，精彩内容独家收录，一搜即达">
+    <title>搜狗微信搜索_订阅号及文章内容独家收录，一搜即达</title>
+    <link rel="shortcut icon" href="https://www.sogou.com/images/logo/new/favicon.ico?nv=1&v=3" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="/pcindex/new/css/index_style_weixin_20230731.css">
+    <link href="//www.sogou.com/sug/css/m3.min.v.7.css" rel="stylesheet" type="text/css">
+    <script src="//dlweb.sogoucdn.com/common/lib/jquery/jquery-1.11.0.min.js"></script> 
+    <style>
+        .index-content {
+            height: 100%;
+        }
+        .suggestion{top:42px;left: -1px;width: 765px;}
+    </style>
+  </head>
+  <body id="loginWrap">
+    <div class="wrapper">
+      <div class="header">
+        <div class="top-nav">
+          <ul>
+            <li><a href="http://www.sogou.com/web?ie=utf8&query=" onclick="navBar(this,'query=');" uigs="nav_wangye">网页</a></li>
+            <li class="cur"><span>微信</span></li>
+            <li><a href="http://zhihu.sogou.com/zhihu?ie=utf8&p=73351201&query=" onclick="navBar(this,'query=')" uigs="nav_zhihu">知乎</a></li>
+            <li><a href="http://pic.sogou.com/pics?ie=utf8&p=40230504&query=" onclick="navBar(this,'query=')" uigs="nav_tupian">图片</a></li>
+            <li><a href="https://v.sogou.com/v?ie=utf8&p=40230608&query=" onclick="navBar(this,'query=')" uigs="nav_shipin">视频</a></li>
+            <li><a href="https://www.sogou.com/web?m2web=mingyi.sogou.com&ie=utf8&query=" onclick="navBar(this,'query=')" uigs="nav_mingyi">医疗</a></li>
+            <li><a href="http://hanyu.sogou.com/result?fr=pcweixin_index_nav&query=" data-index="https://hanyu.sogou.com/?fr=pcweixin_index_nav" uigs="nav_hanyu" onclick="navBar(this,'query=')">汉语</a></li>
+            <li><a href="https://fanyi.sogou.com/text?fr=pcweixin_index_nav&ie=utf8&keyword=" onclick="navBar(this,'keyword=')"  uigs="nav_fanyi">翻译</a></li>
+            <li><a href="http://wenwen.sogou.com/s/?ch=weixinsearch&w=" data-index="http://wenwen.sogou.com/?ch=weixinsearch" onclick="navBar(this,'w=')" uigs="nav_wenwen">问问</a></li>
+            <li><a href="https://www.sogou.com/sogou?fr=pcweixin_index_nav&ie=utf8&insite=baike.sogou.com&pid=sogou-wsse-17737832ac17be52&query=" data-index="https://baike.sogou.com/Home.v?fr=pcweixin_index_nav" onclick="navBar(this,'query=')" uigs="nav_baike">百科</a></li>
+            <li><a href="http://map.sogou.com" uigs="nav_map" id="map">地图</a></li>
+            <li class="show-more">
+              <a id="more-product" href="javascript:void(0);">更多<i class="m-arr"></i></a>
+              <div id="products-box" class="pos-more" style="display:none">
+                <a href="http://zhishi.sogou.com" uigs="nav_zhishi" id="index_more_zhishi">知识</a>
+                <a href="http://as.sogou.com/" uigs="nav_app" id="index_more_appli">应用</a>
+                <span class="all">
+                  <a href="http://www.sogou.com/docs/more.htm?v=1" uigs="nav_all" target="_blank">全部</a>
+                </span>
+              </div>
+            </li>
+          </ul>
+        </div>
+	      <div class="user-box">
+		      <a href="javascript:void(0)" id="cniil_wza" style="float:left;text-decoration:none;color:#000;opacity:.75;padding-right:20px;margin-right:0px;border-right:0px solid #e7e7e7;line-height:14px;position:relative;top:5px">无障碍</a>
+        </div>
+	    </div>
+      <div class="index-content" id="vrResultContainer">
+        <div class="mask-layer" style="display:none"></div>
+        <div class="content">
+          <div class="logo">
+            <span></span>
+          </div>
+          <div class="search-box">
+            <form name="searchForm" id="searchForm" action="/weixin">
+              <input type="hidden" name="ie" value="utf8"/>
+              <input type="hidden" name="s_from" value="input"/>
+              <input type="hidden" name="_sug_" id="_sug_" value="n"/>
+              <input type="hidden" name="_sug_type_" id="_sug_type_" value=""/>
+              
+              <div class="search-in-box">
+                <span class="sec-input-box">
+                  <input type="hidden" name="type" id="type" value="2"/>
+                  <input type="text" class="sec-input" value="" id="query" name="query" autocomplete="off" maxlength="80">
+                </span>
+                <span class="enter-input article"><input type="submit" value="搜文章" onclick="weinxinfilter(this, 2)" uigs="search_article"></span>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="ft" id="footer">
+          <a href="https://e.qq.com?from=sougou01" target="_blank" uigs-id="footer_tuiguang">企业推广</a>
+          <span class="line"></span>
+          <a href="http://www.sogou.com/docs/terms.htm?v=1" target="_blank" uigs-id="footer_disclaimer">免责声明</a>
+          <span class="line"></span>
+          <a href="https://fankui.sogou.com/index.php/web/web/index/type/4" target="_blank" uigs-id="footer_feedback">意见反馈及投诉</a>
+          <span class="line"></span>
+          <a href="http://corp.sogou.com/private.html" target="_blank" uigs-id="footer_private">隐私政策</a>
+          <br>
+          ©&nbsp;<span id="footer-year"><script type="text/javascript" src="//www.sogou.com/websearch/features/year.jsp"></script></span>&nbsp;SOGOU&nbsp;-&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" class="g" uigs="bottom_icp">京ICP证050897号</a>&nbsp;-&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" class="g" uigs="bottom_icp2">京ICP备11001839号-1</a>&nbsp;-&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000025" target="_blank" class="ba" uigs="bottom_jgwab">京公网安备11000002000025号</a>
+        </div>
+      </div>
+    </div>
+
+    <script src="//weixin.sogou.com/pcindex/new/js/uigs.min.js?v=20180607"></script>
+    <script src="/pcindex/new/js/newindex.js?v=20250728"></script>
+    <script src="/pcindex/new/js/suggestion.js?v=20231218"></script>
+    <script defer async type="text/javascript" src="//dlweb.sogoucdn.com/barrier_free/pc/wzaV10/aria.js?appid=c4d5562ec7daa12a5a351cbe1a292da1" charset="utf-8"></script>
+  </body>
+</html>
+<!--zly--><!--weixin-->

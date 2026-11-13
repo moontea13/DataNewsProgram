@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://lf-fe.fqnovelstatic.com/obj/novel-fanqie-fe/growth/incentive-h5-monorepo/apps/hongguo/static/js/j.5d1f4b76d6.js",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_j.5d1f4b76d6.js",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_j.5d1f4b76d6.js.hg_comment_ui_components.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_j.5d1f4b76d6.js.hg_comment_ui_components.part.result.json",
+    "finalized_at": "2026-11-12T06:58:42.185377+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "a484ee9f76d71103461e84cefa34af2fe755abef31fc5fe0cfdec5c7c8330a99",
+    "http_code": 200
+  },
+  {
+    "url": "https://lf-fe.fqnovelstatic.com/obj/novel-fanqie-fe/growth/incentive-h5-monorepo/apps/hongguo/static/js/yv.6780044d9e.js",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_yv.6780044d9e.js",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_yv.6780044d9e.js.hg_comment_ui_components.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_yv.6780044d9e.js.hg_comment_ui_components.part.result.json",
+    "finalized_at": "2026-11-12T06:58:42.185963+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "3ab5a0884adff47ace7380e60426b8478589fb52acefb824c29684892384756d",
+    "http_code": 200
+  }
+]

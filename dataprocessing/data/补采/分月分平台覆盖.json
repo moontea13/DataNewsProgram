@@ -1,0 +1,38 @@
+[
+  {
+    "month": "2026-07",
+    "platform": "红果",
+    "ranking_rows": 100,
+    "verified_ocr": 100,
+    "has_hongguo_candidate_description": 95,
+    "has_hongguo_cover_file": 95,
+    "has_third_party_book_candidate": 14
+  },
+  {
+    "month": "2026-08",
+    "platform": "红果",
+    "ranking_rows": 100,
+    "verified_ocr": 100,
+    "has_hongguo_candidate_description": 100,
+    "has_hongguo_cover_file": 100,
+    "has_third_party_book_candidate": 14
+  },
+  {
+    "month": "2026-09",
+    "platform": "红果",
+    "ranking_rows": 100,
+    "verified_ocr": 100,
+    "has_hongguo_candidate_description": 100,
+    "has_hongguo_cover_file": 100,
+    "has_third_party_book_candidate": 49
+  },
+  {
+    "month": "2026-10",
+    "platform": "红果",
+    "ranking_rows": 100,
+    "verified_ocr": 100,
+    "has_hongguo_candidate_description": 97,
+    "has_hongguo_cover_file": 97,
+    "has_third_party_book_candidate": 54
+  }
+]

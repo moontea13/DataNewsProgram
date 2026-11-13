@@ -1,0 +1,52 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/detail?series_id=7658670507000073278"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7658670507000073278.html.hg_last_detail_priority.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7658670507000073278.html.hg_last_detail_priority.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/detail?series_id=7687650704235711513"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7687650704235711513.html.hg_last_detail_priority.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7687650704235711513.html.hg_last_detail_priority.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/detail?series_id=7689391734379269144"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7689391734379269144.html.hg_last_detail_priority.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7689391734379269144.html.hg_last_detail_priority.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/detail?series_id=7690596204589091864"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7690596204589091864.html.hg_last_detail_priority.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果优先详情_7690596204589091864.html.hg_last_detail_priority.part.result.json}%{json}\n"

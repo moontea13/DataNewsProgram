@@ -1,0 +1,3 @@
+﻿ranking_id,field,before,after,source_image,source_image_sha256,review_notes
+2026-10_红果_039,rank_ocr,,39,data/raw/monthly_rankings/2026-10_红果.jpg,c94ab6985318d298786b61845088e53f71a6f6d979debb06c9d6792ae98ca226,已对照原图放大核查：该行原图名次39，补回OCR漏识的名次；出品署名为吱吱漫剧场，原表将首字吱误识为岐，已修正。
+2026-10_红果_039,producer_raw,岐吱漫剧场,吱吱漫剧场,data/raw/monthly_rankings/2026-10_红果.jpg,c94ab6985318d298786b61845088e53f71a6f6d979debb06c9d6792ae98ca226,已对照原图放大核查：该行原图名次39，补回OCR漏识的名次；出品署名为吱吱漫剧场，原表将首字吱误识为岐，已修正。

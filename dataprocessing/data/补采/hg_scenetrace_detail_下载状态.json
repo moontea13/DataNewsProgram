@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://shortdramacast.com/dramas/zeng-wu-de-chang-sheng",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zeng-wu-de-chang-sheng.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zeng-wu-de-chang-sheng.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zeng-wu-de-chang-sheng.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.157323+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "130d8aa2bb47592930a5240b5ab4d3e289eaa03ecfbde46c11c93e8f6caf1c73",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/dramas/zhao-re-du-jun-ta-gao-diao-qiu-qu-wo-wei-qi",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zhao-re-du-jun-ta-gao-diao-qiu-qu-wo-wei-qi.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zhao-re-du-jun-ta-gao-diao-qiu-qu-wo-wei-qi.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_zhao-re-du-jun-ta-gao-diao-qiu-qu-wo-wei-qi.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.159562+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "66b3ed3f63f500b6099c57ea59ffac6edfa9df0e7a3284e2bf78fa18338c42a8",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/dramas/lao-yu-meng-chen-du-shi-qi-feng-yun-season-1",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_lao-yu-meng-chen-du-shi-qi-feng-yun-season-1.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_lao-yu-meng-chen-du-shi-qi-feng-yun-season-1.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_lao-yu-meng-chen-du-shi-qi-feng-yun-season-1.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.159914+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "35f09ec0bd61eee31ee54f71e1b8dd76efd452df1f032c4382114a807b85220c",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/dramas/yi-kuai-qian-ying-bi-wan-chu-wan-yi-shang-ye-di-guo",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_yi-kuai-qian-ying-bi-wan-chu-wan-yi-shang-ye-di-guo.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_yi-kuai-qian-ying-bi-wan-chu-wan-yi-shang-ye-di-guo.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_yi-kuai-qian-ying-bi-wan-chu-wan-yi-shang-ye-di-guo.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160085+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "2142e12e49ca092df78c5948ae5d0abd8f2b56b9e992b54f4edcd9d58e10d0b2",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/dramas/ren-dao-zhong-nian-xi-tong-bi-wo-nian-shao-qing-kuang",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_ren-dao-zhong-nian-xi-tong-bi-wo-nian-shao-qing-kuang.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_ren-dao-zhong-nian-xi-tong-bi-wo-nian-shao-qing-kuang.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace作品_ren-dao-zhong-nian-xi-tong-bi-wo-nian-shao-qing-kuang.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160251+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "169dc303892aa78c4574466a3c9e61647e09491ef2ed2314b6a3984a71a7edcc",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%B8%BA%E4%BB%96%E5%AE%88%E6%A3%BA",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_0.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_0.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_0.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160416+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "08bad162bdad767927120cd679eb38a57323384be00dd5471038687a2e182d6c",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_1.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_1.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_1.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160513+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "4a05e6d72c8e67c144d3c9a29c66af7aed4d9a76df7004afda0f1812817710a8",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%B8%AD%E5%B9%B4%E5%9B%A7%E9%80%94",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_2.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_2.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_2.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160608+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "6141cb29a7ddc7d60b054eb007f74837013955c9fff614516ec8088e8080b7e5",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E8%BF%99%E4%B8%AA%E7%A5%9E%E5%8C%BB",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_3.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_3.html.hg_scenetrace_detail.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace短词_3.html.hg_scenetrace_detail.part.result.json",
+    "finalized_at": "2026-11-12T05:45:48.160707+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "f94464abba2a1cc8d8365a113f7d23a39c04664fc039e243f7362bc64b4557e9",
+    "http_code": 200
+  }
+]

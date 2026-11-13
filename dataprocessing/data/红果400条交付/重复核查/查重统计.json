@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-11-12T11:32:48.458810+00:00",
+  "scope": "红果2026年7—10月，不同季分别计作品候选；尚有5条来源及1条版本待核",
+  "ranking_rows": 400,
+  "single_selected_work_candidates": 367,
+  "unresolved_ranking_rows_with_multiple_versions": 1,
+  "provisional_work_count_treating_unresolved_row_as_one": 368,
+  "repeated_work_candidates": 31,
+  "ranking_rows_of_repeated_work_candidates": 63,
+  "extra_ranking_rows": 32,
+  "cover_material_files": 369,
+  "unique_file_contents": 366,
+  "unique_decoded_images": 366,
+  "exact_same_image_groups_across_materials": 1,
+  "materials_using_exact_same_image": 4,
+  "extra_material_files_with_same_pixels": 3,
+  "exact_image_pairs": 6,
+  "dhash_similar_but_not_pixel_equal_pairs": 336,
+  "dhash_threshold": 6,
+  "note": "369份按作品候选版本保留的封面文件，内容去重为366张图。多出的一个候选版本来自同名未定作品。跨月重复上榜、同系列不同季、同图和近似图分别记录。相似候选尚未用DINOv2分析或逐对人工确认。"
+}

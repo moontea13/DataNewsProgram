@@ -1,0 +1,351 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7656077803883858969"
+output = "data/raw/work_catalogs/player_7656077803883858969.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7656077803883858969.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7657127420100611097"
+output = "data/raw/work_catalogs/player_7657127420100611097.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7657127420100611097.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7657832473237146648"
+output = "data/raw/work_catalogs/player_7657832473237146648.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7657832473237146648.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7660128561839229976"
+output = "data/raw/work_catalogs/player_7660128561839229976.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7660128561839229976.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7660847549258927128"
+output = "data/raw/work_catalogs/player_7660847549258927128.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7660847549258927128.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7661578883925281816"
+output = "data/raw/work_catalogs/player_7661578883925281816.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7661578883925281816.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7663847143525862462"
+output = "data/raw/work_catalogs/player_7663847143525862462.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7663847143525862462.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7665240271629601816"
+output = "data/raw/work_catalogs/player_7665240271629601816.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7665240271629601816.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7665255732891110425"
+output = "data/raw/work_catalogs/player_7665255732891110425.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7665255732891110425.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7666041184548031550"
+output = "data/raw/work_catalogs/player_7666041184548031550.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7666041184548031550.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7666096860674673688"
+output = "data/raw/work_catalogs/player_7666096860674673688.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7666096860674673688.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7667126645328710718"
+output = "data/raw/work_catalogs/player_7667126645328710718.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7667126645328710718.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7669815464469466136"
+output = "data/raw/work_catalogs/player_7669815464469466136.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7669815464469466136.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7675013712389868606"
+output = "data/raw/work_catalogs/player_7675013712389868606.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7675013712389868606.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7676371273500347416"
+output = "data/raw/work_catalogs/player_7676371273500347416.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7676371273500347416.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7680471779340471320"
+output = "data/raw/work_catalogs/player_7680471779340471320.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7680471779340471320.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7680793359144733721"
+output = "data/raw/work_catalogs/player_7680793359144733721.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7680793359144733721.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7683785246940072984"
+output = "data/raw/work_catalogs/player_7683785246940072984.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7683785246940072984.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7687547128595369022"
+output = "data/raw/work_catalogs/player_7687547128595369022.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7687547128595369022.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7687975414706228286"
+output = "data/raw/work_catalogs/player_7687975414706228286.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7687975414706228286.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7689826227858721854"
+output = "data/raw/work_catalogs/player_7689826227858721854.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7689826227858721854.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7690487981513116696"
+output = "data/raw/work_catalogs/player_7690487981513116696.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7690487981513116696.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7693186092358454296"
+output = "data/raw/work_catalogs/player_7693186092358454296.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7693186092358454296.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7697832352050859070"
+output = "data/raw/work_catalogs/player_7697832352050859070.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7697832352050859070.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7699032921524407358"
+output = "data/raw/work_catalogs/player_7699032921524407358.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7699032921524407358.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7704292325572250648"
+output = "data/raw/work_catalogs/player_7704292325572250648.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7704292325572250648.html.hongguo_priority_knownids.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://hongguoduanju.com/player/7704708687700446233"
+output = "data/raw/work_catalogs/player_7704708687700446233.html.hongguo_priority_knownids.part"
+write-out = "%output{data/raw/work_catalogs/player_7704708687700446233.html.hongguo_priority_knownids.part.result.json}%{json}\n"

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://hongguoduanju.com/player/7690186465237535768",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690186465237535768.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690186465237535768.html.hg_middle_new.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690186465237535768.html.hg_middle_new.part.result.json",
+    "finalized_at": "2026-11-12T05:46:27.975470+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "e9c373d207f9a51c64e25bfed417c0f16216be75d3fba65927f165ecd9140b0b",
+    "http_code": 200
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://gz.cri.cn/n/20260824/6d04214e-637e-41e6-8d8c-033bc2d43084.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇天眼实地报道.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇天眼实地报道.html.hg_company_more.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇天眼实地报道.html.hg_company_more.part.result.json",
+    "finalized_at": "2026-11-12T06:29:42.457003+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "0eeff1ee4e81c3ccbfd7224a300eebb8e43b70eb64888304935fdf3b40d5afc1",
+    "http_code": 200
+  },
+  {
+    "url": "https://szbuming.com/ai-short-drama",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_不鸣官网新快照.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_不鸣官网新快照.html.hg_company_more.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_不鸣官网新快照.html.hg_company_more.part.result.json",
+    "finalized_at": "2026-11-12T06:29:42.457775+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "b4264d400554129a97006a6acd216619aee59d13d1ae79ddc10bab5e1a132210",
+    "http_code": 200
+  }
+]

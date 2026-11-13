@@ -1,0 +1,271 @@
+[
+  {
+    "evidence_id": "ADAPT_WORK_001",
+    "series_id": "HG_7687169040510372888",
+    "work_id": "HG_7687169040510372888-S01",
+    "scope": "具体季",
+    "book_id": "7652765843931024446",
+    "book_title": "万人迷神颜顶流只想演炮灰",
+    "author": "番茄土豆楠",
+    "author_id": "1741236020447006",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_红果作品简介直接声明",
+    "claim_excerpt": "改编自番茄小说《万人迷神颜顶流只想演炮灰》番茄土豆楠著。",
+    "plot_identity_anchor_terms": [
+      "宋时安"
+    ],
+    "source_url": "https://hongguoduanju.com/player/7686064327693962264",
+    "source_file": "data/raw/work_catalogs/player_7686064327693962264.html",
+    "source_sha256": "ea5971bc8e3d4f0761dbf734f029b548b0e6b8b74c1efbded655ca2be6778244",
+    "captured_at": "2026-11-11T16:48:09.053748+00:00",
+    "validation_terms": [
+      "改编自番茄小说《万人迷神颜顶流只想演炮灰》番茄土豆楠著。"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7652765843931024446",
+    "book_source_file": "data/补采/raw/原著_7652765843931024446.html",
+    "book_source_sha256": "a49e40f2a147de2fd70feb5157f06559bf9b09045a792392a03b7f7245437613",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_001",
+    "series_id": "HG_7676739369444576281",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7616151491132279832",
+    "book_title": "持械入宋",
+    "author": "茶根儿",
+    "author_id": "237118151999891",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "本书已改编动态漫，在红果上线",
+    "plot_identity_anchor_terms": [
+      "林昭",
+      "马振邦"
+    ],
+    "source_url": "https://fanqienovel.com/page/7616151491132279832",
+    "source_file": "data/补采/raw/原著_7616151491132279832.html",
+    "source_sha256": "00c9893145922e104a502bd94953f6546ea7574b0e6a960334bdc65d9ed2d742",
+    "captured_at": "2026-11-11T17:20:00.474764+00:00",
+    "validation_terms": [
+      "本书已改编动态漫，在红果上线"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7616151491132279832",
+    "book_source_file": "data/补采/raw/原著_7616151491132279832.html",
+    "book_source_sha256": "00c9893145922e104a502bd94953f6546ea7574b0e6a960334bdc65d9ed2d742",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_002",
+    "series_id": "HG_7681286468311976984",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7609931463961627710",
+    "book_title": "一心求死，反倒成为千古一帝？",
+    "author": "me小气猪",
+    "author_id": "4155781116605531",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "改编剧名《废物垫底皇子，反倒成为千古一帝》",
+    "plot_identity_anchor_terms": [
+      "李承泽"
+    ],
+    "source_url": "https://fanqienovel.com/page/7609931463961627710",
+    "source_file": "data/补采/raw/原著_7609931463961627710.html",
+    "source_sha256": "6ad5604f5487403bbb41827497e67696423548f6e1f501ac72d887e228ec9dc9",
+    "captured_at": "2026-11-11T17:31:25.243762+00:00",
+    "validation_terms": [
+      "改编剧名《废物垫底皇子，反倒成为千古一帝》"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7609931463961627710",
+    "book_source_file": "data/补采/raw/原著_7609931463961627710.html",
+    "book_source_sha256": "6ad5604f5487403bbb41827497e67696423548f6e1f501ac72d887e228ec9dc9",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_003",
+    "series_id": "HG_7677959169915243545",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7652183687085165593",
+    "book_title": "古代将军市场打零工，养活大军",
+    "author": "破春风",
+    "author_id": "246743722101165",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "已改编短剧【大将军扛楼养活百万大军】",
+    "plot_identity_anchor_terms": [
+      "萧镇北"
+    ],
+    "source_url": "https://fanqienovel.com/page/7652183687085165593",
+    "source_file": "data/补采/raw/原著_7652183687085165593.html",
+    "source_sha256": "c85f26f493c5d002febdfee570178c52179c36e9fc42a0654b149449a7e7e1ca",
+    "captured_at": "2026-11-11T17:39:44.361233+00:00",
+    "validation_terms": [
+      "已改编短剧【大将军扛楼养活百万大军】"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7652183687085165593",
+    "book_source_file": "data/补采/raw/原著_7652183687085165593.html",
+    "book_source_sha256": "c85f26f493c5d002febdfee570178c52179c36e9fc42a0654b149449a7e7e1ca",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_004",
+    "series_id": "HG_7675600333963267096",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7645220011115547710",
+    "book_title": "大秦我带秦始皇长生不老",
+    "author": "快乐的守村人",
+    "author_id": "3628011246851843",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "本书改编的红果漫剧上线了，《不朽仙秦！》",
+    "plot_identity_anchor_terms": [
+      "秦天"
+    ],
+    "source_url": "https://fanqienovel.com/page/7645220011115547710",
+    "source_file": "data/补采/raw/原著_7645220011115547710.html",
+    "source_sha256": "21b1895e1047926267f3078bb334a82dc8ba839d9b66b76f8dfd99d78859c222",
+    "captured_at": "2026-11-11T17:45:28.523996+00:00",
+    "validation_terms": [
+      "本书改编的红果漫剧上线了，《不朽仙秦！》"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7645220011115547710",
+    "book_source_file": "data/补采/raw/原著_7645220011115547710.html",
+    "book_source_sha256": "21b1895e1047926267f3078bb334a82dc8ba839d9b66b76f8dfd99d78859c222",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_005",
+    "series_id": "HG_7691305180414872600",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7652970460308589592",
+    "book_title": "伪人降临！我是全场唯一预言家",
+    "author": "蘑菇炖猪头",
+    "author_id": "3856736309751707",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "红果已改编同名漫剧",
+    "plot_identity_anchor_terms": [
+      "林羊"
+    ],
+    "source_url": "https://fanqienovel.com/page/7652970460308589592",
+    "source_file": "data/补采/raw/原著_7652970460308589592.html",
+    "source_sha256": "715c76dbfc9682d6b8da7052812ac014fb3ca13dfa05163708946627726bccba",
+    "captured_at": "2026-11-11T17:20:14.416176+00:00",
+    "validation_terms": [
+      "红果已改编同名漫剧"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7652970460308589592",
+    "book_source_file": "data/补采/raw/原著_7652970460308589592.html",
+    "book_source_sha256": "715c76dbfc9682d6b8da7052812ac014fb3ca13dfa05163708946627726bccba",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_SERIES_006",
+    "series_id": "HG_7690056402181573657",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7602139476386663449",
+    "book_title": "人在古代，修为金丹",
+    "author": "开心理所当然",
+    "author_id": "2638417686180791",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "A_原著官方改编自述",
+    "claim_excerpt": "同名改编漫剧【人在古代，修为金丹】已上线",
+    "plot_identity_anchor_terms": [
+      "陈玄"
+    ],
+    "source_url": "https://fanqienovel.com/page/7602139476386663449",
+    "source_file": "data/补采/raw/原著补核_7602139476386663449.html",
+    "source_sha256": "54c0585ff6edafe99030b7d1b0408ef35cf7f032a885e4dc210be9c5caedf55e",
+    "captured_at": "2026-11-12T06:32:36.935767+00:00",
+    "validation_terms": [
+      "同名改编漫剧【人在古代，修为金丹】已上线"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7602139476386663449",
+    "book_source_file": "data/补采/raw/原著补核_7602139476386663449.html",
+    "book_source_sha256": "54c0585ff6edafe99030b7d1b0408ef35cf7f032a885e4dc210be9c5caedf55e",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_MEDIA_001",
+    "series_id": "HG_7624475539960499262",
+    "work_id": "",
+    "scope": "系列",
+    "book_id": "7544766518324644889",
+    "book_title": "从变身少女开始斩妖除魔",
+    "author": "八爪触手怪",
+    "author_id": "2386402072606202",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "B_实地采访报道",
+    "claim_excerpt": "免费申请到了《那妖魔是姜大人！》改编权",
+    "plot_identity_anchor_terms": [
+      "姜月初"
+    ],
+    "source_url": "https://gz.cri.cn/n/20260824/6d04214e-637e-41e6-8d8c-033bc2d43084.html",
+    "source_file": "data/补采/raw/出品_光宇天眼实地报道.html",
+    "source_sha256": "0eeff1ee4e81c3ccbfd7224a300eebb8e43b70eb64888304935fdf3b40d5afc1",
+    "captured_at": "2026-11-12T06:29:14.295745+00:00",
+    "validation_terms": [
+      "万妖图录传",
+      "那妖魔是姜大人",
+      "改编权"
+    ],
+    "book_source_url": "https://fanqienovel.com/page/7544766518324644889",
+    "book_source_file": "data/补采/raw/原著_7544766518324644889.html",
+    "book_source_sha256": "72715382cc1f9d5d8bbd3062cdf34e88e6d7907547e6df6e14e062b289a4ce7f",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_POST_001",
+    "series_id": "HG_7619198149772446782",
+    "work_id": "HG_7619198149772446782-S07",
+    "scope": "具体季",
+    "book_id": "7445188900496083992",
+    "book_title": "聚宝仙盆",
+    "author": "香果味奶茶",
+    "author_id": "1454007415484009",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "B_平台主创账号自述；账号认证及书名别名待核",
+    "claim_excerpt": "香果味奶茶老师的《聚宝仙盆》",
+    "plot_identity_anchor_terms": [
+      "贺平生"
+    ],
+    "source_url": "https://hongguoduanju.com/detail?series_id=7665257305725750297",
+    "source_file": "data/raw/hongguo_comments/detail_7665257305725750297.html",
+    "source_sha256": "bb096ca5b297ae7e3d87d65aacf5ccb9318708f717b81b50f7bb3be6ec3f7f9f",
+    "captured_at": "2026-11-11T17:07:36.429564+00:00",
+    "validation_terms": [],
+    "book_source_url": "https://fanqienovel.com/page/7445188900496083992",
+    "book_source_file": "data/补采/raw/原著_7445188900496083992.html",
+    "book_source_sha256": "d7b92738603f784e693ac5aa9003182dd7ce09acabc1d6086e3176bff96f950f",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  },
+  {
+    "evidence_id": "ADAPT_POST_002",
+    "series_id": "HG_7692730550871657496",
+    "work_id": "HG_7692730550871657496-S02",
+    "scope": "具体季",
+    "book_id": "7232639406639680516",
+    "book_title": "女修穿越年代收了宝藏下乡了",
+    "author": "时代久久",
+    "author_id": "3830321599227582",
+    "relation_direction": "小说→短剧/漫剧",
+    "evidence_level": "B_平台主创账号自述；账号认证及书名别名待核",
+    "claim_excerpt": "改编自番茄小说《家主是修仙者》",
+    "plot_identity_anchor_terms": [
+      "程君意"
+    ],
+    "source_url": "https://hongguoduanju.com/detail?series_id=7696419143196609561",
+    "source_file": "data/补采/raw/关系核实详情_7696419143196609561.html",
+    "source_sha256": "495207c7d314f5cc9a2d8fa72a4e9b797092ec965016d28c4395c4efdea3bcbb",
+    "captured_at": "2026-11-12T06:31:08.005464+00:00",
+    "validation_terms": [],
+    "book_source_url": "https://fanqienovel.com/page/7232639406639680516",
+    "book_source_file": "data/补采/raw/原著补核_7232639406639680516.html",
+    "book_source_sha256": "80e9c174e8b87ca3f85cef151303cbae6c8be90557870532ac0d6b3996b67362",
+    "limit": "声明与剧情锚点支持该系列；未点名单季不外推单季，未核授权合同或收益关系。上榜身份/OCR状态保留。"
+  }
+]

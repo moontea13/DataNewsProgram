@@ -1,0 +1,90 @@
+[
+  {
+    "book_id": "7579515681180224536",
+    "book_title": "开局断亲住荒洞，转身就吃香喝辣",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "【已改编短剧、漫剧、真人有声】",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7579515681180224536",
+    "source_file": "data/补采/raw/原著_7579515681180224536.html",
+    "source_sha256": "a408c6830c565eac8c9e8c7e0711e4d6b5aa203e705f4a01ea0715d8e29ae5b5"
+  },
+  {
+    "book_id": "7609931463961627710",
+    "book_title": "一心求死，反倒成为千古一帝？",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "（改编剧名《废物垫底皇子，反倒成为千古一帝》本书已改编成红果爆款动态漫，非常感谢各位喜爱）",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7609931463961627710",
+    "source_file": "data/补采/raw/原著_7609931463961627710.html",
+    "source_sha256": "6ad5604f5487403bbb41827497e67696423548f6e1f501ac72d887e228ec9dc9"
+  },
+  {
+    "book_id": "7616151491132279832",
+    "book_title": "持械入宋",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "本书已改编动态漫，在红果上线，感谢各位读者喜爱！",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7616151491132279832",
+    "source_file": "data/补采/raw/原著_7616151491132279832.html",
+    "source_sha256": "00c9893145922e104a502bd94953f6546ea7574b0e6a960334bdc65d9ed2d742"
+  },
+  {
+    "book_id": "7645220011115547710",
+    "book_title": "大秦我带秦始皇长生不老",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "本书改编的红果漫剧上线了，《不朽仙秦！》，直接搜本书名字也可以。有兴趣的宝子们可以看看。",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7645220011115547710",
+    "source_file": "data/补采/raw/原著_7645220011115547710.html",
+    "source_sha256": "21b1895e1047926267f3078bb334a82dc8ba839d9b66b76f8dfd99d78859c222"
+  },
+  {
+    "book_id": "7652183687085165593",
+    "book_title": "古代将军市场打零工，养活大军",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "已改编短剧【大将军扛楼养活百万大军】，可放心观看。",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7652183687085165593",
+    "source_file": "data/补采/raw/原著_7652183687085165593.html",
+    "source_sha256": "c85f26f493c5d002febdfee570178c52179c36e9fc42a0654b149449a7e7e1ca"
+  },
+  {
+    "book_id": "7652970460308589592",
+    "book_title": "伪人降临！我是全场唯一预言家",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "【红果已改编同名漫剧】",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7652970460308589592",
+    "source_file": "data/补采/raw/原著_7652970460308589592.html",
+    "source_sha256": "715c76dbfc9682d6b8da7052812ac014fb3ca13dfa05163708946627726bccba"
+  },
+  {
+    "book_id": "7672694244322053145",
+    "book_title": "二嫁甜蜜蜜，前夫追悔莫及",
+    "relation_direction": "短剧→小说",
+    "scope": "样本外书目",
+    "claim_excerpt": "吾里短剧原创短剧《二嫁甜蜜蜜，前夫追悔莫及》官方授权改编小说",
+    "decision": "不可倒置计为短剧原著",
+    "source_url": "https://fanqienovel.com/page/7672694244322053145",
+    "source_file": "data/补采/raw/原著_7672694244322053145.html",
+    "source_sha256": "3885f3d7dbf1d4a94f2649d9fe15a4335e4285f50ad0f38f5d41572ca3627e52"
+  },
+  {
+    "book_id": "7602139476386663449",
+    "book_title": "人在古代，修为金丹",
+    "relation_direction": "小说→其他形态；具体剧名依证据核对",
+    "scope": "样本内候选",
+    "claim_excerpt": "（同名改编漫剧【人在古代，修为金丹】已上线）",
+    "decision": "泛称已改编但不点名作品的，不自动关联某部短剧",
+    "source_url": "https://fanqienovel.com/page/7602139476386663449",
+    "source_file": "data/补采/raw/原著补核_7602139476386663449.html",
+    "source_sha256": "54c0585ff6edafe99030b7d1b0408ef35cf7f032a885e4dc210be9c5caedf55e"
+  }
+]

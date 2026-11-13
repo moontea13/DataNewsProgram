@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://hongguoduanju.com/player/7657047014751865881",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657047014751865881.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657047014751865881.html.hg_doctor_publicpages.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657047014751865881.html.hg_doctor_publicpages.part.result.json",
+    "finalized_at": "2026-11-12T05:39:29.984339+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "fb5f71c9fc0e8e7191ecdcd31d01061704dca98ef9802f9104cf1065e0adcd2a",
+    "http_code": 200
+  },
+  {
+    "url": "https://hongguoduanju.com/player/7657769083256982552",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657769083256982552.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657769083256982552.html.hg_doctor_publicpages.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/神医版本公开页_7657769083256982552.html.hg_doctor_publicpages.part.result.json",
+    "finalized_at": "2026-11-12T05:39:29.984879+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "529523f36dbec38dd26d470e5938619c8c9babf7a7c3ed756efbd9a60df500f3",
+    "http_code": 200
+  }
+]

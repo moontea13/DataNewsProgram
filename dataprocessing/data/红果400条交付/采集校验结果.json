@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-11-12T11:32:22.626410+00:00",
+  "ranking_rows": 400,
+  "rows_with_description_and_cover_materials": 400,
+  "rows_with_single_selected_material": 399,
+  "source_counts": {
+    "红果原始HTML": 392,
+    "其他公开来源": 5,
+    "同名多版本待判定": 1,
+    "红果网页工具快照": 2
+  },
+  "material_links": 401,
+  "unique_materials_and_valid_covers": 369,
+  "pending_primary_or_version_rows": 6,
+  "limits": "材料覆盖400条不代表400条红果版本已核实。392条原始HTML候选、2条网页工具快照候选、5条其他来源、1条两个同名版本。封面和简介为采集时或工具可读快照，不代表上榜当月版本。",
+  "validation": "400条主键与原始红果榜表一致；每条至少一套完整简介和可解码封面；原始来源及封面SHA256逐项一致；同名版本未强制选择；复制后封面哈希一致"
+}

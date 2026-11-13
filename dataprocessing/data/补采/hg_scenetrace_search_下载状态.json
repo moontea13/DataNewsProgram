@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://shortdramacast.com/discover?q=%E8%B5%A0%E7%89%A9%E5%BE%97%E9%95%BF%E7%94%9F%EF%BC%8C%E8%80%81%E5%A4%B4%E4%BF%AE%E4%BB%99%E8%AE%B0%EF%BC%81",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_0.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_0.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_0.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.899884+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "4db89ac7c8fceff372ce8ecc2cc945ce32423dd9218484e3801107a6965501c3",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%B8%BA%E4%BB%96%E5%AE%88%E6%A3%BA%EF%BC%8C%E5%87%BA%E4%B8%96%E5%8D%B3%E9%87%91%E7%9C%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_1.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_1.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_1.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.900272+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "c9b241b760cf1e95624a0e696e402b1f4f7c4ff00b726e51c27025f392ab7625",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%EF%BC%8C%E6%88%91%E9%9D%A0%E7%B3%BB%E7%BB%9F%E6%88%90%E6%B8%94%E7%8E%8B",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_2.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_2.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_2.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.900631+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "46746f33273a290b39908ed6bc509af8360e43048a43399e15c91092528d96f7",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%B8%AD%E5%B9%B4%E5%9B%A7%E9%80%94%EF%BC%9A%E6%88%91%E9%9D%A0%E9%80%8F%E8%A7%86%E9%80%86%E8%A2%AD",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_3.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_3.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_3.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.900847+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "076752a19a85246c7483bbad19e87ec6fbd09c2df31429133e89a07def2b8b74",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E6%8B%9B%E6%83%B9%E7%9D%A3%E5%86%9B%EF%BC%8C%E4%BB%96%E9%AB%98%E8%B0%83%E6%B1%82%E5%A8%B6%E6%88%91%E4%B8%BA%E5%A6%BB",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_4.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_4.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_4.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.900960+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "d44edd195f226183ec86f582139291eb4055990a00d3c5c3f408234d8bb80474",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E7%89%A2%E7%8B%B1%E8%92%99%E5%B0%98%EF%BC%8C%E9%83%BD%E5%B8%82%E8%B5%B7%E9%A3%8E%E4%BA%91%E7%AC%AC%E4%B8%80%E5%AD%A3",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_5.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_5.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_5.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.901075+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "a8831f6d23bf88a94f88f8c7da21c5c02b0f8bc2acabeacf882a268a0f71f885",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%B8%80%E5%9D%97%E9%92%B1%E7%A1%AC%E5%B8%81%EF%BC%8C%E7%8E%A9%E5%87%BA%E4%B8%87%E4%BA%BF%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_6.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_6.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_6.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.901186+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "de5150aeaced3b8292fb25f020ae044a545009244f45d8f082eef0dfaa15afbd",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E7%B3%BB%E7%BB%9F%E9%80%BC%E6%88%91%E5%B9%B4%E5%B0%91%E8%BD%BB%E7%8B%82",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_7.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_7.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_7.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.901459+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "6e000cb7f8e6986b98462e51c5532a3201528ba9ee7a0ae06ed7d957df91a865",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E7%9C%9F%E5%8D%83%E9%87%91%E5%A5%B9%E7%9C%9F%E6%B2%A1%E6%9C%89%E8%83%8C%E6%99%AF%E9%80%9A%E5%A4%A9",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_8.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_8.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_8.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.901608+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "b2e99e4e60a0cc9ddbaa05e632f47a0bcb90d3166a9ec12e077c0e613e4ba6c5",
+    "http_code": 200
+  },
+  {
+    "url": "https://shortdramacast.com/discover?q=%E8%BF%99%E4%B8%AA%E7%A5%9E%E5%8C%BB%E4%BC%9A%E5%8A%9F%E5%A4%AB%EF%BC%81",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_9.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_9.html.hg_scenetrace_search.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/SceneTrace检索_9.html.hg_scenetrace_search.part.result.json",
+    "finalized_at": "2026-11-12T05:45:14.901722+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "34c2baff4f82205da3d399111170dae434b7eac27e4c23c7dcdf845f8a94804a",
+    "http_code": 200
+  }
+]

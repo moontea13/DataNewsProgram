@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.lg.gov.cn/lgwtlyj/gkmlpt/content/12/12806/post_12806656.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_龙岗企业名单.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_龙岗企业名单.html.hg_producer_sources.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_龙岗企业名单.html.hg_producer_sources.part.result.json",
+    "finalized_at": "2026-11-12T06:29:20.210140+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "5887aace9a5b0f0330dc0c95d59b37f951f955a4b4afba7635b78b0440ee357c",
+    "http_code": 200
+  },
+  {
+    "url": "https://www.sznews.com/news/content/2026-05/15/content_32051419.htm",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_惊人文博会.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_惊人文博会.html.hg_producer_sources.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_惊人文博会.html.hg_producer_sources.part.result.json",
+    "finalized_at": "2026-11-12T06:29:20.210787+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "912272fbf1b22227786449efd41172f22c2b58937ae6aa8dbf5099af6b773eca",
+    "http_code": 200
+  },
+  {
+    "url": "https://www.thepaper.cn/newsDetail_forward_34001023",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_半亩文报道.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_半亩文报道.html.hg_producer_sources.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_半亩文报道.html.hg_producer_sources.part.result.json",
+    "finalized_at": "2026-11-12T06:29:20.211187+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "205e7d7b1be4ae48730f006026525a1bbd4afa6554178297a007b8e68061739d",
+    "http_code": 200
+  },
+  {
+    "url": "https://tm.aliyun.com/detail/56c8_93924795_41",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇商标线索.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇商标线索.html.hg_producer_sources.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_光宇商标线索.html.hg_producer_sources.part.result.json",
+    "finalized_at": "2026-11-12T06:29:20.211732+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "e0d4fdaedc972d68153476ae35bde2f030d8d02b1d301623dc2bdfb35fa3cd35",
+    "http_code": 200
+  },
+  {
+    "url": "https://www.chenkecc.com/post/64.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_陈柯同名公司待排除.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_陈柯同名公司待排除.html.hg_producer_sources.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/出品_陈柯同名公司待排除.html.hg_producer_sources.part.result.json",
+    "finalized_at": "2026-11-12T06:29:20.212326+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "9fbb74d2316bb472232c7abea09aa8fb367d209b271674ca6b53fdf9637112e2",
+    "http_code": 200
+  }
+]

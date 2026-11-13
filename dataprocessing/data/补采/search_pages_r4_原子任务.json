@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7683474457603607576.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683474457603607576.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生4",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683474457603607576.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683474457603607576.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7683474457603607576",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7683474457603607576.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生4",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7683474457603607576.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7683474457603607576.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7678971951934606361.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678971951934606361.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生3",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678971951934606361.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678971951934606361.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7678971951934606361",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678971951934606361.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生3",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678971951934606361.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678971951934606361.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7674086006219361342.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7674086006219361342.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7674086006219361342.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7674086006219361342.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7674086006219361342",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7674086006219361342.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7674086006219361342.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7674086006219361342.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7664157941179632665.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664157941179632665.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664157941179632665.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664157941179632665.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7664157941179632665",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664157941179632665.html",
+    "candidate_title": "完美人设撑不住，坐等亲姐接手负重人生",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_064.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664157941179632665.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664157941179632665.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7666288582440537113.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7666288582440537113.html",
+    "candidate_title": "同学聚会他装阔反手曝光他偷我设计",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7666288582440537113.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7666288582440537113.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7666288582440537113",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7666288582440537113.html",
+    "candidate_title": "同学聚会他装阔反手曝光他偷我设计",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7666288582440537113.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7666288582440537113.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7662297872523594814.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662297872523594814.html",
+    "candidate_title": "同学聚会他装大款，结账时他慌了",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662297872523594814.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662297872523594814.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7662297872523594814",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662297872523594814.html",
+    "candidate_title": "同学聚会他装大款，结账时他慌了",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662297872523594814.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662297872523594814.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7658563817961425982.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7658563817961425982.html",
+    "candidate_title": "同学聚会他装大方，我结账后他慌了第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7658563817961425982.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7658563817961425982.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7658563817961425982",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7658563817961425982.html",
+    "candidate_title": "同学聚会他装大方，我结账后他慌了第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7658563817961425982.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7658563817961425982.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7655924479473765401.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7655924479473765401.html",
+    "candidate_title": "同学聚会他装大方，我结账后他慌了",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7655924479473765401.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7655924479473765401.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7655924479473765401",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7655924479473765401.html",
+    "candidate_title": "同学聚会他装大方，我结账后他慌了",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_072.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7655924479473765401.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7655924479473765401.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7684579981736823832.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7684579981736823832.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第五季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7684579981736823832.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7684579981736823832.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7684579981736823832",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7684579981736823832.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第五季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7684579981736823832.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7684579981736823832.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7675288929108511806.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7675288929108511806.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第四季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7675288929108511806.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7675288929108511806.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7675288929108511806",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7675288929108511806.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第四季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7675288929108511806.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7675288929108511806.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7663737371250134078.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7663737371250134078.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7663737371250134078.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7663737371250134078.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7663737371250134078",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7663737371250134078.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7663737371250134078.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7663737371250134078.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7661090294145764376.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7661090294145764376.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7661090294145764376.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7661090294145764376.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7661090294145764376",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7661090294145764376.html",
+    "candidate_title": "塑料兄妹俩不语，一味拿大哥颜面扫地第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_087.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7661090294145764376.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7661090294145764376.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7693820019175607321.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7693820019175607321.html",
+    "candidate_title": "闪婚老公这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7693820019175607321.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7693820019175607321.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7693820019175607321",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7693820019175607321.html",
+    "candidate_title": "闪婚老公这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7693820019175607321.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7693820019175607321.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7680547521021611070.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680547521021611070.html",
+    "candidate_title": "青云入世这个神医会功夫2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680547521021611070.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680547521021611070.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7680547521021611070",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680547521021611070.html",
+    "candidate_title": "青云入世这个神医会功夫2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680547521021611070.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680547521021611070.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7678681331462589465.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678681331462589465.html",
+    "candidate_title": "这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678681331462589465.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678681331462589465.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7678681331462589465",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678681331462589465.html",
+    "candidate_title": "这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678681331462589465.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678681331462589465.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7676382140237368344.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676382140237368344.html",
+    "candidate_title": "这个神医会功夫第四季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676382140237368344.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676382140237368344.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7676382140237368344",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676382140237368344.html",
+    "candidate_title": "这个神医会功夫第四季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676382140237368344.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676382140237368344.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7671848673931709464.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671848673931709464.html",
+    "candidate_title": "下山先结婚这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671848673931709464.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671848673931709464.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7671848673931709464",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671848673931709464.html",
+    "candidate_title": "下山先结婚这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671848673931709464.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671848673931709464.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7671626035128978494.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671626035128978494.html",
+    "candidate_title": "青云入世这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671626035128978494.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7671626035128978494.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7671626035128978494",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671626035128978494.html",
+    "candidate_title": "青云入世这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671626035128978494.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7671626035128978494.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7670099943767411736.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7670099943767411736.html",
+    "candidate_title": "下山即无敌，这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7670099943767411736.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7670099943767411736.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7670099943767411736",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7670099943767411736.html",
+    "candidate_title": "下山即无敌，这个神医会功夫",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7670099943767411736.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7670099943767411736.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7664552229222763544.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664552229222763544.html",
+    "candidate_title": "这个神医会功夫第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664552229222763544.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7664552229222763544.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7664552229222763544",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664552229222763544.html",
+    "candidate_title": "这个神医会功夫第二季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664552229222763544.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7664552229222763544.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7662968911033273369.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662968911033273369.html",
+    "candidate_title": "这个神医会功夫第一季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662968911033273369.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7662968911033273369.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7662968911033273369",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662968911033273369.html",
+    "candidate_title": "这个神医会功夫第一季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662968911033273369.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7662968911033273369.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7657769083256982552.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657769083256982552.html",
+    "candidate_title": "这个神医会功夫！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657769083256982552.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657769083256982552.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7657769083256982552",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657769083256982552.html",
+    "candidate_title": "这个神医会功夫！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657769083256982552.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657769083256982552.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7657047014751865881.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657047014751865881.html",
+    "candidate_title": "这个神医会功夫！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657047014751865881.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7657047014751865881.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7657047014751865881",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657047014751865881.html",
+    "candidate_title": "这个神医会功夫！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657047014751865881.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7657047014751865881.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7617690351276395544.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7617690351276395544.html",
+    "candidate_title": "这个神医会功夫第1季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7617690351276395544.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7617690351276395544.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7617690351276395544",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7617690351276395544.html",
+    "candidate_title": "这个神医会功夫第1季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-07_红果_096.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7617690351276395544.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7617690351276395544.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7699400314490735678.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7699400314490735678.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道43季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7699400314490735678.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7699400314490735678.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7699400314490735678",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7699400314490735678.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道43季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7699400314490735678.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7699400314490735678.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7695230118729354265.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7695230118729354265.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第42季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7695230118729354265.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7695230118729354265.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7695230118729354265",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7695230118729354265.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第42季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7695230118729354265.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7695230118729354265.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7694653395486919705.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694653395486919705.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道41季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694653395486919705.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694653395486919705.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7694653395486919705",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694653395486919705.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道41季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694653395486919705.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694653395486919705.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7694116863835376664.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694116863835376664.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道40季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694116863835376664.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7694116863835376664.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7694116863835376664",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694116863835376664.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道40季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694116863835376664.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7694116863835376664.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7690809573896113177.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690809573896113177.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第39季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690809573896113177.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690809573896113177.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7690809573896113177",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690809573896113177.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第39季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690809573896113177.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690809573896113177.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7690560660337347609.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690560660337347609.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第38季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690560660337347609.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690560660337347609.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7690560660337347609",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690560660337347609.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第38季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690560660337347609.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690560660337347609.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7688553678864665624.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688553678864665624.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第37季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688553678864665624.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688553678864665624.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7688553678864665624",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688553678864665624.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第37季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688553678864665624.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688553678864665624.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7688272305901800510.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688272305901800510.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第36季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688272305901800510.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7688272305901800510.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7688272305901800510",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688272305901800510.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第36季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688272305901800510.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7688272305901800510.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7660842901529693208.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7660842901529693208.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第五季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7660842901529693208.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7660842901529693208.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7687454336212814873.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687454336212814873.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第35季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687454336212814873.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687454336212814873.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7687454336212814873",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687454336212814873.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第35季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687454336212814873.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687454336212814873.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7686033393183624216.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686033393183624216.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第33季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686033393183624216.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686033393183624216.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7686033393183624216",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686033393183624216.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第33季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686033393183624216.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686033393183624216.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7686444695785835582.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686444695785835582.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第34季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686444695785835582.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686444695785835582.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7686444695785835582",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686444695785835582.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第34季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686444695785835582.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686444695785835582.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7683423440740551705.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683423440740551705.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第32季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683423440740551705.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7683423440740551705.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7682726101671496729.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682726101671496729.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第31季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682726101671496729.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682726101671496729.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7682726101671496729",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682726101671496729.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第31季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682726101671496729.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682726101671496729.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7680858311981288473.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680858311981288473.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第30季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680858311981288473.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680858311981288473.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7680858311981288473",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680858311981288473.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第30季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680858311981288473.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680858311981288473.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7680504223506631704.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680504223506631704.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第29季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680504223506631704.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680504223506631704.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7680504223506631704",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680504223506631704.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第29季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680504223506631704.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680504223506631704.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7680431585128090648.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680431585128090648.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第28季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680431585128090648.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7680431585128090648.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7680431585128090648",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680431585128090648.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第28季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680431585128090648.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7680431585128090648.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7679476009350990873.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7679476009350990873.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第27季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7679476009350990873.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7679476009350990873.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7679476009350990873",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7679476009350990873.html",
+    "candidate_title": "谁说没灵根不能修仙的？之无灵证道第27季",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-08_红果_061.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7679476009350990873.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7679476009350990873.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7687570310979128382.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687570310979128382.html",
+    "candidate_title": "贵妃将我赎身钱送乞丐，重生后我夺回一切",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_040.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687570310979128382.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7687570310979128382.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7687570310979128382",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687570310979128382.html",
+    "candidate_title": "贵妃将我赎身钱送乞丐，重生后我夺回一切",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_040.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687570310979128382.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7687570310979128382.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7682803412609551385.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682803412609551385.html",
+    "candidate_title": "九皇子究竟何时登基！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682803412609551385.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682803412609551385.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7682803412609551385",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682803412609551385.html",
+    "candidate_title": "九皇子究竟何时登基！",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682803412609551385.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682803412609551385.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7676440852566133822.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676440852566133822.html",
+    "candidate_title": "九皇子究竟何时登基",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676440852566133822.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7676440852566133822.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7676440852566133822",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676440852566133822.html",
+    "candidate_title": "九皇子究竟何时登基",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_048.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676440852566133822.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7676440852566133822.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7692068207640710169.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7692068207640710169.html",
+    "candidate_title": "穿成恶毒后娘，五个娃偏说我最好",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_055.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7692068207640710169.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7692068207640710169.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7692068207640710169",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7692068207640710169.html",
+    "candidate_title": "穿成恶毒后娘，五个娃偏说我最好",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_055.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7692068207640710169.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7692068207640710169.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7682800334460161049.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682800334460161049.html",
+    "candidate_title": "穿成恶毒后娘，七个反派争着喊娘",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_055.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682800334460161049.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7682800334460161049.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7682800334460161049",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682800334460161049.html",
+    "candidate_title": "穿成恶毒后娘，七个反派争着喊娘",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_055.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682800334460161049.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7682800334460161049.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7689020628812172313.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7689020628812172313.html",
+    "candidate_title": "宿雪归离第六季：一纸契缘缚白发大结局篇",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_066.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7689020628812172313.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7689020628812172313.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7689020628812172313",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7689020628812172313.html",
+    "candidate_title": "宿雪归离第六季：一纸契缘缚白发大结局篇",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_066.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7689020628812172313.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7689020628812172313.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7690470964605226008.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690470964605226008.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强3",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690470964605226008.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7690470964605226008.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7690470964605226008",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690470964605226008.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强3",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690470964605226008.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7690470964605226008.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7686800309741423678.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686800309741423678.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686800309741423678.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7686800309741423678.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7686800309741423678",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686800309741423678.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强2",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686800309741423678.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7686800309741423678.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "百科",
+    "url": "https://www.duanjubaike.net/manju/info-7678638019280112702.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678638019280112702.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678638019280112702.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科作品_7678638019280112702.html.search_pages_r4.part.result.json"
+  },
+  {
+    "kind": "红果",
+    "url": "https://hongguoduanju.com/player/7678638019280112702",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678638019280112702.html",
+    "candidate_title": "末日宿舍求生：从刷广告开始变强",
+    "discovered_from": "data/补采/raw/百科搜索2_2026-09_红果_090.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678638019280112702.html.search_pages_r4.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7678638019280112702.html.search_pages_r4.part.result.json"
+  }
+]

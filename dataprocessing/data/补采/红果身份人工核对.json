@@ -1,0 +1,99 @@
+{
+  "2026-08_红果_035": {
+    "platform_work_id": "7677874167550594110",
+    "method": "核对同出品方及788集基准作品的平台系列组；排除另一同名系列",
+    "series_anchor_id": "7673067074104593432",
+    "expected_producer": "半亩文剧社",
+    "evidence_files": [
+      "data/补采/raw/788集制作报道.html",
+      "data/raw/work_catalogs/player_7673067074104593432.html",
+      "data/raw/work_catalogs/player_7677874167550594110.html"
+    ],
+    "confidence_note": "基准作品集数与报道一致，同系列group_id且对应季数一致；其他同名系列另存"
+  },
+  "2026-09_红果_030": {
+    "platform_work_id": "7687237883010223166",
+    "method": "核对同出品方及788集基准作品的平台系列组；排除另一同名系列",
+    "series_anchor_id": "7673067074104593432",
+    "expected_producer": "半亩文剧社",
+    "evidence_files": [
+      "data/补采/raw/788集制作报道.html",
+      "data/raw/work_catalogs/player_7673067074104593432.html",
+      "data/raw/work_catalogs/player_7687237883010223166.html"
+    ],
+    "confidence_note": "基准作品集数与报道一致，同系列group_id且对应季数一致；其他同名系列另存"
+  },
+  "2026-09_红果_049": {
+    "platform_work_id": "7682239041630129214",
+    "method": "核对同出品方及788集基准作品的平台系列组；排除另一同名系列",
+    "series_anchor_id": "7673067074104593432",
+    "expected_producer": "半亩文剧社",
+    "evidence_files": [
+      "data/补采/raw/788集制作报道.html",
+      "data/raw/work_catalogs/player_7673067074104593432.html",
+      "data/raw/work_catalogs/player_7682239041630129214.html"
+    ],
+    "confidence_note": "基准作品集数与报道一致，同系列group_id且对应季数一致；其他同名系列另存"
+  },
+  "2026-09_红果_086": {
+    "platform_work_id": "7677874167550594110",
+    "method": "核对同出品方及788集基准作品的平台系列组；排除另一同名系列",
+    "series_anchor_id": "7673067074104593432",
+    "expected_producer": "半亩文剧社",
+    "evidence_files": [
+      "data/补采/raw/788集制作报道.html",
+      "data/raw/work_catalogs/player_7673067074104593432.html",
+      "data/raw/work_catalogs/player_7677874167550594110.html"
+    ],
+    "confidence_note": "基准作品集数与报道一致，同系列group_id且对应季数一致；其他同名系列另存"
+  },
+  "2026-07_红果_064": {
+    "platform_work_id": "7664157941179632665",
+    "method": "公开目录旧名与当前红果元数据名称不同；按同一作品编号、季数/集数及剧情核对",
+    "alias_evidence_file": "data/补采/raw/百科作品_7664157941179632665.html",
+    "evidence_files": [
+      "data/补采/raw/百科作品_7664157941179632665.html",
+      "data/raw/work_catalogs/player_7664157941179632665.html"
+    ],
+    "confidence_note": "保留榜单原名与当前名称，旧名来源为第三方目录；不按文字相似度自动合并"
+  },
+  "2026-07_红果_067": {
+    "platform_work_id": "7666761718860631065",
+    "method": "公开目录旧名与当前红果元数据名称不同；按同一作品编号、季数/集数及剧情核对",
+    "alias_evidence_file": "data/补采/raw/百科作品_7666761718860631065.html",
+    "evidence_files": [
+      "data/补采/raw/百科作品_7666761718860631065.html",
+      "data/raw/work_catalogs/player_7666761718860631065.html"
+    ],
+    "confidence_note": "保留榜单原名与当前名称，旧名来源为第三方目录；不按文字相似度自动合并"
+  },
+  "2026-08_红果_078": {
+    "platform_work_id": "7666761718860631065",
+    "method": "公开目录旧名与当前红果元数据名称不同；按同一作品编号、季数/集数及剧情核对",
+    "alias_evidence_file": "data/补采/raw/百科作品_7666761718860631065.html",
+    "evidence_files": [
+      "data/补采/raw/百科作品_7666761718860631065.html",
+      "data/raw/work_catalogs/player_7666761718860631065.html"
+    ],
+    "confidence_note": "保留榜单原名与当前名称，旧名来源为第三方目录；不按文字相似度自动合并"
+  },
+  "2026-09_红果_068": {
+    "platform_work_id": "7687217786178784281",
+    "method": "公开目录旧名与当前红果元数据名称不同；按同一作品编号、季数/集数及剧情核对",
+    "alias_evidence_file": "data/补采/raw/百科作品_7687217786178784281.html",
+    "evidence_files": [
+      "data/补采/raw/百科作品_7687217786178784281.html",
+      "data/raw/work_catalogs/player_7687217786178784281.html"
+    ],
+    "confidence_note": "保留榜单原名与当前名称，旧名来源为第三方目录；不按文字相似度自动合并"
+  },
+  "2026-07_红果_065": {
+    "platform_work_id": "7660485739494263832",
+    "method": "榜单出品署名扶摇上，与作品详情页具名制作更新及平台系列组交叉核对",
+    "evidence_files": [
+      "data/补采/raw/红果优先详情_7660485739494263832.html",
+      "data/raw/work_catalogs/player_7660485739494263832.html"
+    ],
+    "confidence_note": "该页扶摇上账号于7月15日发布第二季制作更新；封面为3D画风，符合榜图3D漫分类；保留其他同名版本"
+  }
+}

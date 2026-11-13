@@ -1,0 +1,4 @@
+qa/
+node_modules/
+*.log
+.env*

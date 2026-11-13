@@ -1,0 +1,1029 @@
+[
+  {
+    "series_id": "HG_7649963398494440510",
+    "anonymous_series": "S009",
+    "title": "花茶人偶苗疆少主他又争又抢",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "其他／未交代",
+      "response_path": "谋略设局",
+      "assignment_reason": "追查灭门与巫蛊旧案的行动明确，但主导转机机制未交代"
+    },
+    "after": {
+      "cluster_id": "C071",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "采用用户确认的关系支持；以同伴协力追查灭门、巫蛊旧案的行动为主。"
+    },
+    "user_decision": "转机为“关系支持”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "转机为“关系支持”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7654215277525077016",
+    "anonymous_series": "S013",
+    "title": "夫人一个过肩摔，瘫子总裁站起来了",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "仅介绍应聘及拆屋扛人，未交代可稳定归纳的冲突应对链"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "采用用户指定的冲突0；缺少可确定的主要冲突，排除结构指标。"
+    },
+    "user_decision": "冲突编号设为0",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "冲突编号设为0"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7655969486985514008",
+    "anonymous_series": "S016",
+    "title": "烛九阴",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "背叛陷害",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "武力对抗",
+      "assignment_reason": "多季在朱九阴复仇、苍雪成长、韩香骨治县之间转换，无法固定一个共同核心"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "其他／未交代",
+      "response_path": "其他／未交代",
+      "assignment_reason": "采用用户确认的各季核心不同；保留逐季标签，系列共同簇留空。"
+    },
+    "user_decision": "不同季核心不同",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "不同季核心不同"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7657127556528753688",
+    "anonymous_series": "S020",
+    "title": "逆流重生",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "重生预知",
+      "response_path": "其他／未交代",
+      "assignment_reason": "仅交代亲情背叛和重生，未交代重生后的应对行为"
+    },
+    "after": {
+      "cluster_id": "C008",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "采用用户补充梗概：海底透视直接提高渔获经营能力，重生背景保留为次要机制。"
+    },
+    "user_decision": "补充:渔村青年秦俊海钓遇难重生回1996年，同时获得听懂兽语、海底透视的异能，就此扭转悲剧人生的故事。重生当日，他便阻止卷走全家拆迁款偷渡的父亲，截获蛇头藏匿的赃款挖到第一桶金。凭借海底透视异能，他精准定位高端渔获，和发小张虎将极品海鲜销往城中酒楼，快速积累资本；忠犬大黄、百年玳瑁、深海虎鲸都成了他的海上帮手，上演一幕幕新奇的海上奇遇。他一改前世无底线付出的性格，立规矩引导弟妹自立，解救不幸婚姻。",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "补充:渔村青年秦俊海钓遇难重生回1996年，同时获得听懂兽语、海底透视的异能，就此扭转悲剧人生的故事。重生当日，他便阻止卷走全家拆迁款偷渡的父亲，截获蛇头藏匿的赃款挖到第一桶金。凭借海底透视异能，他精准定位高端渔获，和发小张虎将极品海鲜销往城中酒楼，快速积累资本；忠犬大黄、百年玳瑁、深海虎鲸都成了他的海上帮手，上演一幕幕新奇的海上奇遇。他一改前世无底线付出的性格，立规矩引导弟妹自立，解救不幸婚姻。"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7657863530753821721",
+    "anonymous_series": "S023",
+    "title": "为他守棺，出世即金眼",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "简介写守护与重生但未具体交代共同应对行为，保留完整候选标签供审"
+    },
+    "after": {
+      "cluster_id": "C072",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "女友以守护、闯险地和寻奇物救伴侣；共同核心是为伴侣复生协力化险。"
+    },
+    "user_decision": "补充“沉睡的林辰在爱意滋养下悄然觉醒，携守护之心归来，两人共赴前路，以真情冲破重重阻碍，书写一段温柔相守的传奇。”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "补充“沉睡的林辰在爱意滋养下悄然觉醒，携守护之心归来，两人共赴前路，以真情冲破重重阻碍，书写一段温柔相守的传奇。”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7662264724901334040",
+    "anonymous_series": "S043",
+    "title": "傻女重生记，睁眼后盖房发家",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "其他／未交代",
+      "response_path": "公开揭露与正名",
+      "assignment_reason": "身份穿越明确，未交代建筑设计知识是否实际用于破局，主导机制未定"
+    },
+    "after": {
+      "cluster_id": "C073",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "穿越带来的知识技能",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "采用用户确认的建筑设计知识实际用于破局；不把普通争执替代专业安家路径。"
+    },
+    "user_decision": "用于破局",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "用于破局"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7662667624169344024",
+    "anonymous_series": "S048",
+    "title": "逃跑男友",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "其他／未交代",
+      "assignment_reason": "简介停在进入恐怖游戏，尚未交代应对路径"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "其他／未交代",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7663110396244397081",
+    "anonymous_series": "S052",
+    "title": "我竟是道祖之狩猎气运之子",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "仅写过人见识和历练成长，主要冲突与路径不足以确定细结构"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7664167384596352024",
+    "anonymous_series": "S058",
+    "title": "我以童言号令八王",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "武力对抗",
+      "assignment_reason": "追父失踪同时发展地下权力，秘力如何推动主要寻踪未交代"
+    },
+    "after": {
+      "cluster_id": "C074",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "武力对抗",
+      "assignment_reason": "采用用户确认的超常秘力；寻父为动机，清除敌对势力与建立力量为实际行动。"
+    },
+    "user_decision": "秘力属于超常能力或体质",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "秘力属于超常能力或体质"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7665932561306111000",
+    "anonymous_series": "S062",
+    "title": "屠龙归来：捧我成天下第一婿",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "背叛陷害",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "武力对抗",
+      "assignment_reason": "复仇与龙家护婿并行，主导为自身武力还是岳家支持待审"
+    },
+    "after": {
+      "cluster_id": "C075",
+      "core_conflict": "背叛陷害",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "武力对抗",
+      "assignment_reason": "采用用户确认的自身武力主导；岳家支持为背景，灭门旧仇与护家靠自身战力应对。"
+    },
+    "user_decision": "自身武力",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "自身武力"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7667170646199110681",
+    "anonymous_series": "S064",
+    "title": "错把闪婚老公的微信当成AI网恋",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "其他／未交代",
+      "assignment_reason": "简介只写误把丈夫账号当AI，未交代主要应对行动"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "其他／未交代",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7674610687179492376",
+    "anonymous_series": "S079",
+    "title": "坤仪",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "权力与家国冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "新政、后宫与储位多线并行，主要冲突及转机无法固定"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "权力与家国冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7675600333963267096",
+    "anonymous_series": "S082",
+    "title": "不朽仙秦",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "其他／未交代",
+      "assignment_reason": "仅有穿越功法与替始皇求长生的愿望，未交代行动链"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "采用用户指定的专业知识破局；主要冲突仍未具体呈现，排除结构指标。"
+    },
+    "user_decision": "应对路径算为“专业知识破局”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "应对路径算为“专业知识破局”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7676064749108349977",
+    "anonymous_series": "S084",
+    "title": "六零真千金，沈青梧回家了。",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "其他／未交代",
+      "assignment_reason": "仅写决心反击，实际应对行为未交代"
+    },
+    "after": {
+      "cluster_id": "C076",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "谋略设局",
+      "assignment_reason": "采用用户确认的谋略设局；家庭排斥与养女算计为冲突，未另引入特殊能力。"
+    },
+    "user_decision": "“谋略设局”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "“谋略设局”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7677170418364451864",
+    "anonymous_series": "S089",
+    "title": "零号小队:北辰揽星河",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "身份与权势揭示",
+      "response_path": "协作互助",
+      "assignment_reason": "身份误解、真假千金与守护家国并列，主导机制及路径待审"
+    },
+    "after": {
+      "cluster_id": "C077",
+      "core_conflict": "权力与家国冲突",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "谋略设局",
+      "assignment_reason": "采用用户确认的超常能力与谋略设局；以调查异常、保护人族家园为共同核心。"
+    },
+    "user_decision": "“超常能力或体质” “谋略设局”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "“超常能力或体质” “谋略设局”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7680889691972848664",
+    "anonymous_series": "S096",
+    "title": "三天后穿越古代，我贷款搬空商城！",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "其他／未交代",
+      "assignment_reason": "只交代备货穿越与强制婚配开局，古代主要应对路径未交代"
+    },
+    "after": {
+      "cluster_id": "C024",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "采用用户确认的经营与资源配置；仓库和现代储备支撑乱世求生。"
+    },
+    "user_decision": "“经营与资源配置”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "“经营与资源配置”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7681640646347590680",
+    "anonymous_series": "S100",
+    "title": "遇棠方知涉：被偏执大佬黏上了",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "只用命运规则、束缚与并肩抗争概括，具体转机和行为不足"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7681676634155404312",
+    "anonymous_series": "S101",
+    "title": "错绑良配",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "探案与爱情两线并行，解谜主导机制未具体呈现"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "探案解谜",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7683465671992167486",
+    "anonymous_series": "S107",
+    "title": "美颜系统开挂，大佬全跪下",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "其他／未交代",
+      "response_path": "谋略设局",
+      "assignment_reason": "只写外形蜕变和情感博弈，外形改变来源未说明"
+    },
+    "after": {
+      "cluster_id": "C078",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "系统奖励",
+      "response_path": "谋略设局",
+      "assignment_reason": "采用用户确认的系统奖励；外形非议转为美貌优势，通过手腕周旋关系，区别于C048的构陷自证。"
+    },
+    "user_decision": "“系统奖励”",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "“系统奖励”"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7684621284428254232",
+    "anonymous_series": "S115",
+    "title": "曝光神话班级,全班大佬藏不住了",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "其他／未交代",
+      "assignment_reason": "只有天幕挖出马甲的设定，主要冲突与应对未交代"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "其他／未交代",
+      "assignment_reason": "用户指定忽略。"
+    },
+    "user_decision": "忽略",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "type": "用户校审意见",
+        "source": "review/具体待判断问题.md",
+        "text": "忽略"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7686411617113738264",
+    "anonymous_series": "S121",
+    "title": "剑神归来:我和驴子的十万年",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "系统奖励",
+      "response_path": "武力对抗",
+      "assignment_reason": "系统困练造成超强剑术，与苟老反差设定的核心边界待审"
+    },
+    "after": {
+      "cluster_id": "C079",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "系统奖励",
+      "response_path": "武力对抗",
+      "assignment_reason": "系统提供十万年封闭修炼条件，所得剑力用于对抗秘境与魔域强敌；不并入收徒开宗簇。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7688265718504098878",
+    "anonymous_series": "S131",
+    "title": "我本是魔之阴阳魔帝",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "修炼与实力竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "协作互助",
+      "assignment_reason": "简介仅概括修行成长，未具体呈现应对主要冲突"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "修炼与实力竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "其他／未交代",
+      "assignment_reason": "同名页面仍只有成长概括；其他版本灭门情节未确认属于本版本，不挪用，排除。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7689107151679147032",
+    "anonymous_series": "S133",
+    "title": "桃源十年归，初恋变权臣",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "两份简介使用不同主人公且都停在寻回记忆，系列共同应对路径待审"
+    },
+    "after": {
+      "cluster_id": "C054",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "两季是不同人物的时差回归故事；补充人物关系显示旧情延续，按长期分离与记忆隔阂后的关系重建归簇。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "evidence_id": "E001",
+        "series": "S133",
+        "title": "桃源十年归，初恋变权臣第二季：人物与公开剧情拆解",
+        "url": "https://52juben.com/show/learn/j/study-8a26ba0179ea272e0d5c",
+        "retrieved_at": "2026-11-13",
+        "material_type": "第三方剧集梗概与公开文字稿页面",
+        "identity_match": "宋小满、沈愈白与原第二季简介一致；同时列辛鸢、郑伯安为夫妻，确认两对人物处于同一故事世界",
+        "summary": "女方跨越时间后回归，旧爱已成为权臣；两代人物线通过原有情缘和旧人支持相连，核心是时差及失忆后的关系重建。",
+        "quote": "郑伯安之妻，宋小满的好友",
+        "used": true,
+        "use": "核对跨季人物关系；不把两季不同主角当作同一人"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7689115198329736216",
+    "anonymous_series": "S134",
+    "title": "夕阳红顶流，大爷大妈助我乐坛封神",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "系统奖励",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "系统老歌与观众投票共同推动出圈，转机与应对的主导边界待审"
+    },
+    "after": {
+      "cluster_id": "C080",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "系统奖励",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "系统任务先提供老歌与激励，演唱赢得长辈投票支持；主导机制为系统，主要路径为专业演唱。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "evidence_id": "E002",
+        "series": "S134",
+        "title": "夕阳红顶流，大爷大妈助我乐坛封神：公开剧情拆解",
+        "url": "https://52juben.com/show/learn/j/study-ed9dc94f249a46494e62",
+        "retrieved_at": "2026-11-13",
+        "material_type": "第三方公开文字稿页面",
+        "identity_match": "杨枫、老年歌神系统、老歌任务与原简介一致",
+        "summary": "杨枫在选秀受排斥时绑定歌神系统，系统发布演唱老歌的奖励任务；观众投票是演唱获得支持后的结果，因此主导转机归系统，应对归专业演唱。",
+        "quote": "任务已发布，为这方世界带来一首地球上的老歌",
+        "used": true,
+        "use": "确认系统奖励与观众支持的先后因果"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7689840609309248536",
+    "anonymous_series": "S138",
+    "title": "蒙冤二十五年，归来举世皆惊",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "仅交代嫌弃与退婚，科研身份是否揭示及后续应对未交代"
+    },
+    "after": {
+      "cluster_id": "C081",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "无特殊转机",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "原简介已明确受辱后主动退婚；保留关系边界行动，不推定后来公开科研身份的情节。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7690107600024636441",
+    "anonymous_series": "S140",
+    "title": "我合成了全世界",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "其他／未交代",
+      "assignment_reason": "仅交代合成能力与垃圾场世界，主要冲突和实际应对未交代"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "其他／未交代",
+      "assignment_reason": "第一季补充页面仍仅介绍合成设定；原著和第二季行为不补写进样本第一季，排除。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7690139407063485465",
+    "anonymous_series": "S141",
+    "title": "诱情染指之黎野入怀",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "囚禁求生与爱情并行，主导机制和核心立场待审"
+    },
+    "after": {
+      "cluster_id": "C082",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "谋略设局",
+      "assignment_reason": "平台梗概确认逃离控制的诉求；样本第二季写借乔骁及祁野的关系周旋夺筹码，不预设最终爱情结局。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "evidence_id": "E003",
+        "series": "S141",
+        "title": "诱情染指之黎野入怀：爱奇艺节目简介",
+        "url": "https://www.iqiyi.com/a_2124da7t2sd.html",
+        "retrieved_at": "2026-11-13",
+        "material_type": "视频平台节目简介",
+        "identity_match": "祁野、黎晚、逃离被误作情爱游戏，与现有第二季叙事相连",
+        "summary": "主角的首要诉求是摆脱控制，控制者把逃离理解为情爱博弈；以生存脱困而非既定甜宠结局确定主要冲突。",
+        "quote": "她惶恐，害怕，想要逃脱",
+        "used": true,
+        "use": "确认主要冲突；具体周旋路径仍依据样本内第二季简介"
+      }
+    ]
+  },
+  {
+    "series_id": "HG_7690426815780752408",
+    "anonymous_series": "S143",
+    "title": "天道余途：苍途问道",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "修炼与实力竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "其他／未交代",
+      "assignment_reason": "只有求索历练与道心概括，主要应对路径未交代"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "修炼与实力竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "其他／未交代",
+      "assignment_reason": "检索后仍缺乏具体主导转机及应对链，不把通用历练概括编码为特殊套路，排除。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7692730550871657496",
+    "anonymous_series": "S147",
+    "title": "穿越七零:家主是修仙者",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "权力与家国冲突",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "空间、气运与时间线切换并列，主要冲突与应对未定"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "权力与家国冲突",
+      "turning_mechanism": "特殊器物或资源",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "空间、气运、族谱与时空阶段切换尚无稳定共同冲突；保留材料与细标签，排除共同簇。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7696396072456817688",
+    "anonymous_series": "S156",
+    "title": "让你当保安，没让你镇压SSS级诡异",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "系统奖励",
+      "response_path": "经营与资源配置",
+      "assignment_reason": "赚钱升级与敲诈诡异互为因果，系统成长及暴力经营的归簇边界待审"
+    },
+    "after": {
+      "cluster_id": "C083",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "系统奖励",
+      "response_path": "武力对抗",
+      "assignment_reason": "赚钱转战力的系统构成循环转机；敲诈和强行收缴诡异是武力敛财路径，区别于常规经营致富。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7699857554641275966",
+    "anonymous_series": "S166",
+    "title": "退役归来，这个保镖不好惹",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "超常能力或体质",
+      "response_path": "其他／未交代",
+      "assignment_reason": "只有应聘保镖、展露本事与往事设问，主要应对路径未交代"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "资源与事业竞争",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "其他／未交代",
+      "assignment_reason": "补充介绍仍笼统写展露本领、化险；不因保镖职业直接推定武力路径，排除。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7702344943003503641",
+    "anonymous_series": "S168",
+    "title": "真千金她真没有背景通天",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "身份与权势揭示",
+      "response_path": "其他／未交代",
+      "assignment_reason": "只有身份误认与他人畏惧，主要冲突和应对未交代"
+    },
+    "after": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "身份与权势揭示",
+      "response_path": "其他／未交代",
+      "assignment_reason": "原文仅有他人误认背景与畏惧，未取得主角具体应对行为，排除。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "TMP_3862b19b90fd17e7",
+    "anonymous_series": "S175",
+    "title": "灵宠不乖直接换",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "更换灵宠和生死契修复灵脉并行，主导属于关系修复还是资源改命待审"
+    },
+    "after": {
+      "cluster_id": "C084",
+      "core_conflict": "婚恋家庭冲突",
+      "turning_mechanism": "关系支持",
+      "response_path": "关系协商与修复",
+      "assignment_reason": "主要行动是解除偏心旧契、更换守护者并重建亲密关系；疗愈灵脉是新关系支持的结果。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "TMP_cd25e4271d02d35e",
+    "anonymous_series": "S189",
+    "title": "这个神医会功夫！",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "其他／未交代",
+      "turning_mechanism": "其他／未交代",
+      "response_path": "其他／未交代",
+      "assignment_reason": "原始简介为空"
+    },
+    "after": {
+      "cluster_id": "C069",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "公开视频简介题名一致；原评论仅辅助匹配向风身份，以公开简介明确的救落水者和医术救治为依据，归入医术解困簇。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": [
+      {
+        "evidence_id": "E004",
+        "series": "S189",
+        "title": "这个神医会功夫！：心願劇社视频公开简介",
+        "url": "https://www.youtube.com/watch?v=dX7zbnlw53Q",
+        "retrieved_at": "2026-11-13",
+        "material_type": "视频公开简介，未观看或转录视频",
+        "identity_match": "题名完全一致；原评论R0823提向风，R0827至R0829提柳家、柳如云，与补充简介的下山神医及柳家线索一致",
+        "summary": "神医向风下山行医，救起落水女子后凭医术识病救人，并与她携手处理都市危机。现有评论补充了柳家关系冲突，依照医术解困的核心归簇。",
+        "quote": "一代神醫下山準備弘揚中醫",
+        "used": true,
+        "use": "补足原简介空白，主要路径采用明确描述的医术救助，不由标题推测武打情节"
+      }
+    ]
+  },
+  {
+    "series_id": "TMP_eef05655c1315441",
+    "anonymous_series": "S193",
+    "title": "为他守棺,出世即金眼",
+    "before": {
+      "cluster_id": "",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "与另一既有系列共享同一简介，但既有系列编号保持不变；本简介具体行动信息不足"
+    },
+    "after": {
+      "cluster_id": "C072",
+      "core_conflict": "生存威胁",
+      "turning_mechanism": "关系支持",
+      "response_path": "协作互助",
+      "assignment_reason": "与S023采用同一守护复生逻辑；沿用既有独立系列编号，不重新合并系列。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7662638045216132121",
+    "anonymous_series": "S047",
+    "title": "宿雪归离",
+    "before": {
+      "cluster_id": "C055",
+      "core_conflict": "背叛陷害",
+      "turning_mechanism": "身份与权势揭示",
+      "response_path": "公开揭露与正名",
+      "assignment_reason": "该系列候选核心为“背叛陷害→身份与权势揭示→公开揭露与正名”；与候选簇共享“尘封身份及往事真相被揭开，化解关系阻隔并实现家庭团聚或名誉修复”。原文及逐季差异分别保留，可逐成员核对。"
+    },
+    "after": {
+      "cluster_id": "C085",
+      "core_conflict": "背叛陷害",
+      "turning_mechanism": "身份与权势揭示",
+      "response_path": "公开揭露与正名",
+      "assignment_reason": "从C055拆出：身份真相用于洗冤正名，区别于身份揭开后重建家庭关系。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  },
+  {
+    "series_id": "HG_7690481355477486654",
+    "anonymous_series": "S144",
+    "title": "我突破炼气期开始暴富",
+    "before": {
+      "cluster_id": "C019",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "该系列候选核心为“受辱排斥→常规知识与训练→专业知识技术破局”；与候选簇共享“表面普通或受轻视，隐藏的高阶医武实力在冲突中发挥作用并击退对手”。原文及逐季差异分别保留，可逐成员核对。"
+    },
+    "after": {
+      "cluster_id": "C069",
+      "core_conflict": "受辱排斥",
+      "turning_mechanism": "常规知识与训练",
+      "response_path": "专业知识技术破局",
+      "assignment_reason": "从C019移至C069：当前简介呈现学得医术和医术解困，未明确隐藏超常修为；据实际行为归类。"
+    },
+    "user_decision": "",
+    "decided_by": "执行会话（用户授权）",
+    "date": "2026-11-13",
+    "evidence": []
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "reviewed_new_rows": 261,
+  "reviewed_by_month": {
+    "2026-07": 48,
+    "2026-08": 74,
+    "2026-09": 64,
+    "2026-10": 75
+  },
+  "changed_rows": 1,
+  "changed_fields": 2,
+  "source_anomaly_notes": [
+    {
+      "ranking_id": "2026-09_红果_027",
+      "review_status": "已对照原图行裁片逐字段核查",
+      "before_rank_ocr": "27",
+      "before_title_raw": "末世来临，我靠囤货种田丰衣足食",
+      "before_producer_raw": "",
+      "before_maker_rights_raw": "",
+      "before_content_type_raw": "3D漫",
+      "before_metric_raw": "6566.0万",
+      "after_rank_ocr": "27",
+      "after_title_raw": "末世来临，我靠囤货种田丰衣足食",
+      "after_producer_raw": "",
+      "after_maker_rights_raw": "",
+      "after_content_type_raw": "3D漫",
+      "after_metric_raw": "6566.0万",
+      "changed_fields": "",
+      "review_notes": "已核对：原图出品方栏为鱼形图标，未见可转录文字；保留空值，不推定企业或账号名称。",
+      "source_image": "data/raw/monthly_rankings/2026-09_红果.jpg",
+      "source_image_sha256": "955465f654dff283f0dd3525d522a7bd809109def8af35c926fbc902a4d537be",
+      "contact_sheet": "data/补采/OCR全核_2026-09_2.png",
+      "crop_center_y": 2428,
+      "review_method": "逐图视觉比对原榜图行裁片与现表，非仅复跑OCR",
+      "reviewed_at": "2026-11-12T10:40:25.142751+00:00"
+    },
+    {
+      "ranking_id": "2026-10_红果_039",
+      "review_status": "已对照原图行裁片逐字段核查",
+      "before_rank_ocr": "",
+      "before_title_raw": "蒙冤二十五年，归来举世皆惊",
+      "before_producer_raw": "岐吱漫剧场",
+      "before_maker_rights_raw": "",
+      "before_content_type_raw": "AI仿真人剧",
+      "before_metric_raw": "6382.0万",
+      "after_rank_ocr": "39",
+      "after_title_raw": "蒙冤二十五年，归来举世皆惊",
+      "after_producer_raw": "吱吱漫剧场",
+      "after_maker_rights_raw": "",
+      "after_content_type_raw": "AI仿真人剧",
+      "after_metric_raw": "6382.0万",
+      "changed_fields": "rank_ocr；producer_raw",
+      "review_notes": "已对照原图放大核查：该行原图名次39，补回OCR漏识的名次；出品署名为吱吱漫剧场，原表将首字吱误识为岐，已修正。",
+      "source_image": "data/raw/monthly_rankings/2026-10_红果.jpg",
+      "source_image_sha256": "c94ab6985318d298786b61845088e53f71a6f6d979debb06c9d6792ae98ca226",
+      "contact_sheet": "data/补采/OCR全核_2026-10_2.png",
+      "crop_center_y": 3061,
+      "review_method": "逐图视觉比对原榜图行裁片与现表，非仅复跑OCR",
+      "reviewed_at": "2026-11-12T10:45:50.259040+00:00"
+    }
+  ],
+  "scope": "红果7—10月剩余261条；既有139条已核，合计400条。",
+  "limits": "核查确认榜图文字转录，不确认作品历史版本、出品企业主体或改编授权。已有原榜第84行印为83的注释不改。"
+}

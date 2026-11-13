@@ -1,0 +1,26 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://lf-fe.fqnovelstatic.com/obj/novel-fanqie-fe/growth/incentive-h5-monorepo/apps/hongguo/static/js/j.5d1f4b76d6.js"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_j.5d1f4b76d6.js.hg_comment_ui_components.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_j.5d1f4b76d6.js.hg_comment_ui_components.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://lf-fe.fqnovelstatic.com/obj/novel-fanqie-fe/growth/incentive-h5-monorepo/apps/hongguo/static/js/yv.6780044d9e.js"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_yv.6780044d9e.js.hg_comment_ui_components.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/评论公开前端_yv.6780044d9e.js.hg_comment_ui_components.part.result.json}%{json}\n"

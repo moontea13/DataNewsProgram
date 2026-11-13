@@ -1,0 +1,34 @@
+[
+  {
+    "month": "2026-07",
+    "ranking_rows": 100,
+    "work_count": 100,
+    "known_platform_series": 59,
+    "pending_series_units": 11,
+    "provisional_series_units": 70
+  },
+  {
+    "month": "2026-08",
+    "ranking_rows": 100,
+    "work_count": 100,
+    "known_platform_series": 42,
+    "pending_series_units": 1,
+    "provisional_series_units": 43
+  },
+  {
+    "month": "2026-09",
+    "ranking_rows": 100,
+    "work_count": 100,
+    "known_platform_series": 65,
+    "pending_series_units": 3,
+    "provisional_series_units": 68
+  },
+  {
+    "month": "2026-10",
+    "ranking_rows": 100,
+    "work_count": 100,
+    "known_platform_series": 66,
+    "pending_series_units": 13,
+    "provisional_series_units": 79
+  }
+]

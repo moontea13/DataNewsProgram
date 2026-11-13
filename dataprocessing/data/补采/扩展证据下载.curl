@@ -1,0 +1,7 @@
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+rate = "1/s"

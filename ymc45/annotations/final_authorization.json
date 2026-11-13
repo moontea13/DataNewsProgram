@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-13",
+  "reviewer": "ymc",
+  "trial_confirmed_file": "review/试标确认.json",
+  "bulk_review_confirmed": true,
+  "bulk_review_scope": ["系列校审表.csv", "簇校审表.csv", "评论校审表.csv"],
+  "bulk_review_provenance": "用户在本次会话声明：三个校审表默认已经全部人工审核完毕。",
+  "codebook_boundaries": "按现有默认口径确认",
+  "subsequent_decisions_authorized": true,
+  "additional_materials_authorized": "允许检索补充梗概或查看剧集；仍无法确定则忽略",
+  "subsequent_review_method": "执行会话自主复核；不记为新增逐条人工审核",
+  "user_original_instruction": "试标确认.json我已填写，编码手册.md中‘试标中需要确认的边界’按你默认的就可以，三个校审表默认已经全部人工审核完毕。具体待判断的问题.md我只判断了一部分内容，如果只从简介难以判断你可以通过其它渠道检索/看某个剧集看能否找到更详细的内容梗概。之后的内容无需我审核，你自行决定即可，实在无法确定就忽略"
+}

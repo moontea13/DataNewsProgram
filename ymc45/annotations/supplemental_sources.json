@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "E001",
+    "series": "S133",
+    "title": "桃源十年归，初恋变权臣第二季：人物与公开剧情拆解",
+    "url": "https://52juben.com/show/learn/j/study-8a26ba0179ea272e0d5c",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方剧集梗概与公开文字稿页面",
+    "identity_match": "宋小满、沈愈白与原第二季简介一致；同时列辛鸢、郑伯安为夫妻，确认两对人物处于同一故事世界",
+    "summary": "女方跨越时间后回归，旧爱已成为权臣；两代人物线通过原有情缘和旧人支持相连，核心是时差及失忆后的关系重建。",
+    "quote": "郑伯安之妻，宋小满的好友",
+    "used": true,
+    "use": "核对跨季人物关系；不把两季不同主角当作同一人"
+  },
+  {
+    "evidence_id": "E002",
+    "series": "S134",
+    "title": "夕阳红顶流，大爷大妈助我乐坛封神：公开剧情拆解",
+    "url": "https://52juben.com/show/learn/j/study-ed9dc94f249a46494e62",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方公开文字稿页面",
+    "identity_match": "杨枫、老年歌神系统、老歌任务与原简介一致",
+    "summary": "杨枫在选秀受排斥时绑定歌神系统，系统发布演唱老歌的奖励任务；观众投票是演唱获得支持后的结果，因此主导转机归系统，应对归专业演唱。",
+    "quote": "任务已发布，为这方世界带来一首地球上的老歌",
+    "used": true,
+    "use": "确认系统奖励与观众支持的先后因果"
+  },
+  {
+    "evidence_id": "E003",
+    "series": "S141",
+    "title": "诱情染指之黎野入怀：爱奇艺节目简介",
+    "url": "https://www.iqiyi.com/a_2124da7t2sd.html",
+    "retrieved_at": "2026-11-13",
+    "material_type": "视频平台节目简介",
+    "identity_match": "祁野、黎晚、逃离被误作情爱游戏，与现有第二季叙事相连",
+    "summary": "主角的首要诉求是摆脱控制，控制者把逃离理解为情爱博弈；以生存脱困而非既定甜宠结局确定主要冲突。",
+    "quote": "她惶恐，害怕，想要逃脱",
+    "used": true,
+    "use": "确认主要冲突；具体周旋路径仍依据样本内第二季简介"
+  },
+  {
+    "evidence_id": "E004",
+    "series": "S189",
+    "title": "这个神医会功夫！：心願劇社视频公开简介",
+    "url": "https://www.youtube.com/watch?v=dX7zbnlw53Q",
+    "retrieved_at": "2026-11-13",
+    "material_type": "视频公开简介，未观看或转录视频",
+    "identity_match": "题名完全一致；原评论R0823提向风，R0827至R0829提柳家、柳如云，与补充简介的下山神医及柳家线索一致",
+    "summary": "神医向风下山行医，救起落水女子后凭医术识病救人，并与她携手处理都市危机。现有评论补充了柳家关系冲突，依照医术解困的核心归簇。",
+    "quote": "一代神醫下山準備弘揚中醫",
+    "used": true,
+    "use": "补足原简介空白，主要路径采用明确描述的医术救助，不由标题推测武打情节"
+  },
+  {
+    "evidence_id": "Q001",
+    "series": "S131",
+    "title": "我本是魔之阴阳魔帝：同名简介检索",
+    "url": "https://aiyushort.com/video/123829",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方节目简介",
+    "identity_match": "剧名和方凌一致，但内容仍为修行成长概括",
+    "summary": "未补足主导转机及具体应对行为；另一部《我本是魔》的灭门故事未确认属于本样本版本，不采用。",
+    "used": false,
+    "use": "检索后仍排除结构统计"
+  },
+  {
+    "evidence_id": "Q002",
+    "series": "S140",
+    "title": "我合成了全世界第1季：节目简介",
+    "url": "https://duanjubaike.org/zh-Hans/drama/47134",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方节目简介",
+    "identity_match": "题名、程乞、STC与样本一致",
+    "summary": "第一季页面仍只介绍世界与能力。检索到的第二季及原著具体事件未用于补写样本第一季行为，主导冲突与应对仍不足。",
+    "used": false,
+    "use": "检索后仍排除结构统计"
+  },
+  {
+    "evidence_id": "Q003",
+    "series": "S143",
+    "title": "天道余途：苍途问道：梗概检索",
+    "url": "https://tvlab.ai/short/tian-dao-yu-tu-cang-tu-wen-dao/",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方剧情介绍",
+    "identity_match": "余羡、白云宗、天道崩毁与样本一致",
+    "summary": "内容仍以试炼求索概括，未取得足以固定主导转机与应对的具体叙事链；其他版本事件不挪用。",
+    "used": false,
+    "use": "检索后仍排除结构统计"
+  },
+  {
+    "evidence_id": "Q004",
+    "series": "S166",
+    "title": "退役归来，这个保镖不好惹：补充简介检索",
+    "url": "https://2h7a5h.lol/drama/featured-018/",
+    "retrieved_at": "2026-11-13",
+    "material_type": "第三方作品介绍",
+    "identity_match": "题名、陈云东、总裁保镖身份一致",
+    "summary": "页面仍以化险与追查往事概括，未取得具体行为链，未据此把保镖职业直接编码为武力对抗。",
+    "used": false,
+    "use": "检索后仍排除结构统计"
+  }
+]

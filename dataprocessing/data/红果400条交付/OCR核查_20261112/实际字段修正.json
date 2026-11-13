@@ -1,0 +1,20 @@
+[
+  {
+    "ranking_id": "2026-10_红果_039",
+    "field": "rank_ocr",
+    "before": "",
+    "after": "39",
+    "source_image": "data/raw/monthly_rankings/2026-10_红果.jpg",
+    "source_image_sha256": "c94ab6985318d298786b61845088e53f71a6f6d979debb06c9d6792ae98ca226",
+    "review_notes": "已对照原图放大核查：该行原图名次39，补回OCR漏识的名次；出品署名为吱吱漫剧场，原表将首字吱误识为岐，已修正。"
+  },
+  {
+    "ranking_id": "2026-10_红果_039",
+    "field": "producer_raw",
+    "before": "岐吱漫剧场",
+    "after": "吱吱漫剧场",
+    "source_image": "data/raw/monthly_rankings/2026-10_红果.jpg",
+    "source_image_sha256": "c94ab6985318d298786b61845088e53f71a6f6d979debb06c9d6792ae98ca226",
+    "review_notes": "已对照原图放大核查：该行原图名次39，补回OCR漏识的名次；出品署名为吱吱漫剧场，原表将首字吱误识为岐，已修正。"
+  }
+]

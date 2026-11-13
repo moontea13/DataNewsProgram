@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://shortdramacast.com/dramas/the-heiress-everyone-overestimates",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果新入口_真千金_SceneTrace.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果新入口_真千金_SceneTrace.html.hg_new_entry.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果新入口_真千金_SceneTrace.html.hg_new_entry.part.result.json",
+    "finalized_at": "2026-11-12T05:44:49.775454+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "665b0614a1770b8acf339ede5948992f09ffef4e12a068da5d98e6430c31c634",
+    "http_code": 200
+  },
+  {
+    "url": "https://hongguoduanju.com/player/7698313218652916798",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7698313218652916798.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7698313218652916798.html.hg_new_entry.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/raw/work_catalogs/player_7698313218652916798.html.hg_new_entry.part.result.json",
+    "finalized_at": "2026-11-12T05:44:49.775859+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "23e833d5f9ed58ca8333bb30bf5e9a21910dc77afdd8f3c4ae87259bb48fa9a6",
+    "http_code": 200
+  }
+]

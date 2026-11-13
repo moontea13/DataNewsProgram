@@ -1,0 +1,37 @@
+[
+  {
+    "kind": "网文新剧",
+    "url": "https://novelcatch.com/drama/new",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/网文新剧.html"
+  },
+  {
+    "kind": "万妖剧评",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33710649",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/万妖剧评.html"
+  },
+  {
+    "kind": "AI用户白皮书",
+    "url": "https://www.iimedia.cn/c400/119676.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/AI用户白皮书.html"
+  },
+  {
+    "kind": "用户调查",
+    "url": "https://www.csm.com.cn/Content/2026/08-11/20260811-01.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/用户调查.html"
+  },
+  {
+    "kind": "反向改编",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34096819",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/反向改编.html"
+  },
+  {
+    "kind": "长线漫剧",
+    "url": "https://www.jiemian.com/article/15102604.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/长线漫剧.html"
+  },
+  {
+    "kind": "红果站点索引",
+    "url": "https://hongguoduanju.com/sitemap/hongguoduanju/index.xml",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/红果站点索引.html"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-11-12T11:32:47.246688+00:00",
+  "ranking_rows": 400,
+  "material_targets_including_ambiguous_versions": 369,
+  "native_id_targets": 367,
+  "material_targets_with_validated_pages": 363,
+  "material_targets_with_comments": 363,
+  "unique_native_works_with_comments": 363,
+  "ranking_rows_with_any_candidate_comments": 394,
+  "ranking_rows_with_selected_candidate_comments": 393,
+  "comments": 3260,
+  "ranking_comment_links": 3548,
+  "unresolved_or_failed_material_targets": 6,
+  "pages_without_visible_comments": 0,
+  "possible_creator_promo_comments": 181,
+  "source_methods": {
+    "原始HTML公开热评卡片": 3251,
+    "网页工具文本快照，非原始HTML": 9
+  },
+  "comments_per_material_distribution": {
+    "9": 362,
+    "2": 1
+  },
+  "limits": "全部上榜作品均列入目标，但入口未定位/不可读不能当作零评论；网页通常只展示9条热评。全作品覆盖不是全历史评论；不是随机观众样本。版本未定、疑似主创及原始OCR状态均保留。缓存复用，各页采集时间不同。"
+}

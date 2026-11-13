@@ -1,0 +1,10 @@
+{
+  "evidence_rows": 140,
+  "ranking_rows_with_candidate": 131,
+  "distinct_candidate_book_ids": 77,
+  "candidate_links_with_official_book": 140,
+  "official_books_linked_to_monthly_candidates": 77,
+  "official_authors_linked_to_monthly_candidates": 76,
+  "confirmed_season_adaptation_links": 0,
+  "limits": "书目核实不等于具体季改编确认；第三方关系不作为原创/改编比例的确认分子。"
+}

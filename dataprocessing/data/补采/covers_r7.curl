@@ -1,0 +1,195 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/771b2e5af84fe0724de81f3630e4c802~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7655548770100202520.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7655548770100202520.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/dba0c32e4f3aa0d479fda90c687fdc4b~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7652685222005181464.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7652685222005181464.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/e5a3f570482913b42d25d1984ad7db2f~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7652558434977451070.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7652558434977451070.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/50497cf2cefae7d78f257355eddf2602~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7665645392955968537.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7665645392955968537.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/80088f72d676160dc62022b4b76aae68~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7656318751582735384.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7656318751582735384.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/51ef5b98b6fa7b53aaae7be11c6605ac~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7675746610449501209.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7675746610449501209.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/70755e5ccf56fdac46a32d2780faaf2c~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7676408387281636414.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7676408387281636414.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/6e699f70a2f7a79abc2c43cc028a4510~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7673512389072931865.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7673512389072931865.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/95cf5ec67bccd5f971159f58dc977635~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7677592804603726873.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7677592804603726873.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/149366e911a4c86fea327eb024116488~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7670540606669589566.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7670540606669589566.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/d5f2909734fd70493f2a9910a792a8dc~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7670172622344178713.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7670172622344178713.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/26a8f6c529a69a7271186681499b6b26~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7678591589773478936.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7678591589773478936.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/a5578cf012c48e90e8097dbd65a12f1b~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7676309431444851737.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7676309431444851737.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/1c9a6c90a140b19f31bd861084e333db~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7675590448932473881.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7675590448932473881.jpg.covers_r7.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://p6-novel.byteimg.com/novel-pic/10b10cd90aa646371af5b950068fbe4b~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7674274641149430808.jpg.covers_r7.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7674274641149430808.jpg.covers_r7.part.result.json}%{json}\n"

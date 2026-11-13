@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://szbuming.com/images/works/deep-love-s4.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_1.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_1.jpg.producer_covers_r1.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_1.jpg.producer_covers_r1.part.result.json",
+    "finalized_at": "2026-11-12T04:50:49.914655+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "3a97cf992ade335cb0f9df102493342660da1cdec876a8d032c984a5f2355195",
+    "http_code": 200
+  },
+  {
+    "url": "https://szbuming.com/images/works/school-legend.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_2.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_2.jpg.producer_covers_r1.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_2.jpg.producer_covers_r1.part.result.json",
+    "finalized_at": "2026-11-12T04:50:49.915550+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "d1bd44be04395bb354241c3a0b36910d0e646917b676112c7a77c5469eb34224",
+    "http_code": 200
+  },
+  {
+    "url": "https://szbuming.com/images/works/deep-love-s3.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_3.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_3.jpg.producer_covers_r1.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_3.jpg.producer_covers_r1.part.result.json",
+    "finalized_at": "2026-11-12T04:50:49.916193+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "649a14249ec451939cd9b7fa949fb5840f6de4db9a467cc913074d49f6f6ffec",
+    "http_code": 200
+  },
+  {
+    "url": "https://szbuming.com/images/works/moon-heart.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_4.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_4.jpg.producer_covers_r1.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_4.jpg.producer_covers_r1.part.result.json",
+    "finalized_at": "2026-11-12T04:50:49.916614+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "781cbd8fd49a342825a082ada611fcaceef81ac6a788e1ae05470e1b2d948034",
+    "http_code": 200
+  },
+  {
+    "url": "https://szbuming.com/images/works/deep-love-s2.jpg",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_5.jpg",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_5.jpg.producer_covers_r1.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/producer_buming_5.jpg.producer_covers_r1.part.result.json",
+    "finalized_at": "2026-11-12T04:50:49.917040+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "7c044392e1d24153671e44891eae8673c652e46ffe441a2adf2e0a1c038d95ee",
+    "http_code": 200
+  }
+]

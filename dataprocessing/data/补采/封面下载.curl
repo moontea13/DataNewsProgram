@@ -1,0 +1,13 @@
+fail
+silent
+show-error
+location
+ipv4
+connect-timeout = 10
+max-time = 40
+max-filesize = 12582912
+rate = "1/s"
+proto = "=https"
+proto-redir = "=https"
+url = "https://p3-novel.byteimg.com/novel-pic/bc4661ec73daf0f67b16886ddbeabcb3~tplv-shrink:640:0.image"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/covers/7698313218652916798.jpg"

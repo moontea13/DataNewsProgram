@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://m.iqiyi.com/a_1obvyq53av9.html",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_爱奇艺移动页.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_爱奇艺移动页.html.hg_gaokao_priority.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_爱奇艺移动页.html.hg_gaokao_priority.part.result.json"
+  },
+  {
+    "url": "https://sofatv.vip/home/detail/5af61d77141164b5",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_公开补充页.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_公开补充页.html.hg_gaokao_priority.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/高考落榜_公开补充页.html.hg_gaokao_priority.part.result.json"
+  }
+]

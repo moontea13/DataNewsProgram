@@ -1,0 +1,30 @@
+[
+  {
+    "month": "2026-07",
+    "article_url": "https://www.thepaper.cn/newsDetail_forward_33750460",
+    "status": "红果完整榜图已保存，400条转录已核查",
+    "expected_rows": 100,
+    "acquired_rows": 100
+  },
+  {
+    "month": "2026-08",
+    "article_url": "https://www.thepaper.cn/newsDetail_forward_34022517",
+    "status": "红果完整榜图已保存，400条转录已核查",
+    "expected_rows": 100,
+    "acquired_rows": 100
+  },
+  {
+    "month": "2026-09",
+    "article_url": "https://www.thepaper.cn/newsDetail_forward_34223675",
+    "status": "红果完整榜图已保存，400条转录已核查",
+    "expected_rows": 100,
+    "acquired_rows": 100
+  },
+  {
+    "month": "2026-10",
+    "article_url": "https://www.thepaper.cn/newsDetail_forward_34442821",
+    "status": "红果完整榜图已保存，400条转录已核查",
+    "expected_rows": 100,
+    "acquired_rows": 100
+  }
+]

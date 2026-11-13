@@ -1,0 +1,112 @@
+[
+  {
+    "book_id_candidate": "6854444703740333059",
+    "url": "https://fanqienovel.com/page/6854444703740333059",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_6854444703740333059.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_6854444703740333059.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_6854444703740333059.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.951644+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "4a06467772a73d0062a41d557790084e752309d2ae6cd38e8d4aaff1057ae343",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7158715952123612199",
+    "url": "https://fanqienovel.com/page/7158715952123612199",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7158715952123612199.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7158715952123612199.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7158715952123612199.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.952555+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "8a73c30ac1459c2b729d57e8e81f3d8f314bca70e39a15ebc83a10b62d420183",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7485991648128666648",
+    "url": "https://fanqienovel.com/page/7485991648128666648",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7485991648128666648.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7485991648128666648.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7485991648128666648.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.953081+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "c522d6b2036e0ed9d6fa8977d0f2ea7a9c7fd295f10c6878ebf1e4e6fc0306d8",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7494610378991602713",
+    "url": "https://fanqienovel.com/page/7494610378991602713",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7494610378991602713.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7494610378991602713.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7494610378991602713.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.953567+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "2bf1622ccf3abf690e21d756aacad58423bad5be15dfa93bd86de8090fa38634",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7521018796295851033",
+    "url": "https://fanqienovel.com/page/7521018796295851033",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7521018796295851033.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7521018796295851033.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7521018796295851033.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.954185+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "16aba18532c80523b01b71296b4b7332605d94a364be39c4a1bf46b752893c7e",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7554031144186940478",
+    "url": "https://fanqienovel.com/page/7554031144186940478",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7554031144186940478.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7554031144186940478.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7554031144186940478.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.954695+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "8d76c1b5770b2a54d4a4f0c8e6fda68a3ea47574316325330615efa8dcb4c811",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7585898274167475225",
+    "url": "https://fanqienovel.com/page/7585898274167475225",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7585898274167475225.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7585898274167475225.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7585898274167475225.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.955302+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "47cbc4d070f62460af087010b498239555879041a708aefe19ca48d100eef9cb",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7615258948341353534",
+    "url": "https://fanqienovel.com/page/7615258948341353534",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7615258948341353534.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7615258948341353534.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7615258948341353534.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.955813+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "986ee3eea388e27913d84ddfe5e69fcf483b81e816f42c688c7b9b7344a361e5",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7630067790849788953",
+    "url": "https://fanqienovel.com/page/7630067790849788953",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7630067790849788953.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7630067790849788953.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7630067790849788953.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.956356+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "cba14966cb67cb029bdf350a82d397808b71ff6b69c04d881da522b6cd8013c9",
+    "http_code": 200
+  },
+  {
+    "book_id_candidate": "7660376951940451353",
+    "url": "https://fanqienovel.com/page/7660376951940451353",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7660376951940451353.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7660376951940451353.html.books_r7.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/原著_7660376951940451353.html.books_r7.part.result.json",
+    "finalized_at": "2026-11-11T17:59:09.956965+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "7163bf818e117cd262872eb15f95f1e932dc06176a22e717d53353c6c3844a61",
+    "http_code": 200
+  }
+]

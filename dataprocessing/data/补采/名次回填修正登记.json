@@ -1,0 +1,104 @@
+[
+  {
+    "ranking_id": "2026-08_红果_007",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "7",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-08_红果_033",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "33",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-08_红果_039",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "39",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-08_红果_090",
+    "rank_ocr_before": "06",
+    "rank_corrected_from_image": "90",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-08_红果_098",
+    "rank_ocr_before": "86",
+    "rank_corrected_from_image": "98",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-08_红果_099",
+    "rank_ocr_before": "66",
+    "rank_corrected_from_image": "99",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_007",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "7",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_039",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "39",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_089",
+    "rank_ocr_before": "68",
+    "rank_corrected_from_image": "89",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_090",
+    "rank_ocr_before": "06",
+    "rank_corrected_from_image": "90",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_098",
+    "rank_ocr_before": "86",
+    "rank_corrected_from_image": "98",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-09_红果_099",
+    "rank_ocr_before": "66",
+    "rank_corrected_from_image": "99",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-10_红果_007",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "7",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-10_红果_033",
+    "rank_ocr_before": "",
+    "rank_corrected_from_image": "33",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-10_红果_090",
+    "rank_ocr_before": "06",
+    "rank_corrected_from_image": "90",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-10_红果_098",
+    "rank_ocr_before": "86",
+    "rank_corrected_from_image": "98",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  },
+  {
+    "ranking_id": "2026-10_红果_099",
+    "rank_ocr_before": "66",
+    "rank_corrected_from_image": "99",
+    "evidence_contact_sheet": "OCR疑点_*.png对应记录"
+  }
+]

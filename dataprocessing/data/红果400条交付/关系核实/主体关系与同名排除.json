@@ -1,0 +1,45 @@
+[
+  {
+    "relation": "股权关系资料，非同一公司别名",
+    "subject": "深圳不鸣文化科技有限公司",
+    "object": "深圳惊人科技有限公司",
+    "as_reported": "2026-05-15展商资料标注不鸣文化90%控股；仅按该期资料保存，不认定当前股权",
+    "source_url": "https://www.sznews.com/news/content/2026-05/15/content_32051419.htm",
+    "source_file": "data/补采/raw/出品_惊人文博会.html",
+    "source_sha256": "912272fbf1b22227786449efd41172f22c2b58937ae6aa8dbf5099af6b773eca",
+    "captured_at": "2026-11-12T06:28:37.565750+00:00",
+    "validation_terms": [
+      "深圳惊人科技有限公司"
+    ]
+  },
+  {
+    "relation": "媒体报道的候选主体，未强选一家",
+    "subject": "半亩文剧社/孤灵剧场",
+    "object": [
+      "宜春孤灵文化有限公司",
+      "宜春半亩文网络科技有限公司"
+    ],
+    "source_url": "https://www.thepaper.cn/newsDetail_forward_34001023",
+    "source_file": "data/补采/raw/出品_半亩文报道.html",
+    "source_sha256": "205e7d7b1be4ae48730f006026525a1bbd4afa6554178297a007b8e68061739d",
+    "captured_at": "2026-11-12T06:28:38.503554+00:00",
+    "validation_terms": [
+      "半亩文剧社",
+      "宜春孤灵文化有限公司",
+      "宜春半亩文网络科技有限公司"
+    ]
+  },
+  {
+    "relation": "同名公司不能直接合并",
+    "subject": "榜单陈柯文化",
+    "object": "杭州陈柯文化创意有限公司",
+    "as_reported": "搜到同名企业官网，但未见聚宝仙盆项目或创作者身份交叉证据，未回填为该剧出品主体",
+    "source_url": "https://www.chenkecc.com/post/64.html",
+    "source_file": "data/补采/raw/出品_陈柯同名公司待排除.html",
+    "source_sha256": "9fbb74d2316bb472232c7abea09aa8fb367d209b271674ca6b53fdf9637112e2",
+    "captured_at": "2026-11-12T06:28:42.286719+00:00",
+    "validation_terms": [
+      "杭州陈柯文化创意有限公司"
+    ]
+  }
+]

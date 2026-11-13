@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://hongguoduanju.com/detail?series_id=7695360003212856344",
+    "file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/关系核实详情_7695360003212856344.html",
+    "part_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/关系核实详情_7695360003212856344.html.hg_relations_retry.part",
+    "result_file": "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/关系核实详情_7695360003212856344.html.hg_relations_retry.part.result.json",
+    "finalized_at": "2026-11-12T06:43:34.172879+00:00",
+    "status": "成功传输并入库；内容身份仍须解析核验",
+    "sha256": "ef63ba5fb773f779e799bd0a8980bc1a4f02c0acf7d4f3ebb7ba20e22af5ef5f",
+    "http_code": 200
+  }
+]

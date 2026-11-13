@@ -1,0 +1,624 @@
+rate = "1/s"
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B0%81%E8%AF%B4%E6%B2%A1%E7%81%B5%E6%A0%B9%E4%B8%8D&page=2"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科翻页_6ae68d535fdb.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科翻页_6ae68d535fdb.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B0%81%E8%AF%B4%E6%B2%A1%E7%81%B5%E6%A0%B9%E4%B8%8D&page=3"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科翻页_30ca34342adc.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科翻页_30ca34342adc.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E9%87%8D%E7%94%9F%E5%A4%A7%E4%BD%AC"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b6d914229bac.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b6d914229bac.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B5%A0%E7%89%A9%E5%BE%97%E9%95%BF"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_11c5c0f34798.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_11c5c0f34798.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%88%91%E8%A2%AB%E5%BD%93%E6%88%90"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7b261c41ba3b.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7b261c41ba3b.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%87%BA%E4%B8%96%E5%8D%B3%E9%87%91"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c9a4a731ad91.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c9a4a731ad91.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E7%A6%8F%E6%98%9F%E5%A5%B6%E5%9B%A2"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_34a068c4ab64.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_34a068c4ab64.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%B2%88%E9%9D%92%E6%A2%A7%E5%9B%9E"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0158e186d684.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0158e186d684.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%88%91%E9%9D%A0%E7%B3%BB%E7%BB%9F"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_bb83b9ebc4e4.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_bb83b9ebc4e4.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E7%A9%BF%E8%B6%8A%E6%97%A0%E4%BA%BA"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c18510cdf0e8.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c18510cdf0e8.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%9D%90%E7%AD%89%E4%BA%B2%E5%A7%90"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_576be2125cde.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_576be2125cde.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%88%91%E9%9D%A0%E9%80%8F%E8%A7%86"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_8764f0f69a3e.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_8764f0f69a3e.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%BC%80%E5%B1%80%E7%9C%8B%E8%A7%81"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_1e89c07aeb21.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_1e89c07aeb21.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%91%86%E6%91%8A%E4%B8%8D%E7%95%99"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_e12f53104983.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_e12f53104983.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%8D%A7%E6%88%91%E6%88%90%E5%A4%A9"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a1ff93230421.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a1ff93230421.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%B8%80%E5%91%B3%E6%8B%BF%E5%A4%A7"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d594aa408d18.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d594aa408d18.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%95%B4%E4%B8%AA%E5%A4%A7%E6%B5%B7"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_ba13525ce222.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_ba13525ce222.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%8D%8A%E7%94%9F%E4%BA%88%E4%BA%BA"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f7fa542a78b9.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f7fa542a78b9.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%80%81%E5%AD%90%E5%8F%AF%E6%98%AF"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_47873cc1e8a0.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_47873cc1e8a0.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B0%81%E4%B9%9F%E5%88%AB%E8%B7%9F"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c8079794d972.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_c8079794d972.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B0%81%E8%AF%B4%E6%B2%A1%E7%81%B5"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_cd467a56938f.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_cd467a56938f.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%85%BB%E7%9A%84%E4%BA%94%E5%8F%AA"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b3c79d30ceda.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b3c79d30ceda.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%A4%A7%E5%B0%86%E5%86%9B%E6%89%93"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f6e259d13c34.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f6e259d13c34.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%BA%8F%E5%88%97%E8%B6%85%E5%87%A1"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d090770afe6b.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d090770afe6b.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%B4%B5%E5%A6%83%E5%B0%86%E6%88%91"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_683cd8c1ee0e.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_683cd8c1ee0e.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%B9%9D%E7%9A%87%E5%AD%90%E7%A9%B6"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_200db2b0c244.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_200db2b0c244.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E9%9D%9E%E8%A6%81%E8%AE%A9%E6%88%91"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7b02d6fa9ba0.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7b02d6fa9ba0.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%A1%83%E6%BA%90%E5%8D%81%E5%B9%B4"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a372dd95764c.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a372dd95764c.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%B8%83%E4%B8%AA%E5%8F%8D%E6%B4%BE"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f0d7eba0d0e4.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f0d7eba0d0e4.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%B8%80%E7%BA%B8%E5%A5%91%E7%BC%98"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_300deb246e35.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_300deb246e35.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%8A%A2%E4%B8%AA%E6%96%B0%E5%A8%98"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d36b27d76c60.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_d36b27d76c60.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%BA%BA%E5%9C%A8%E5%8F%A4%E4%BB%A3"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a19333f470ec.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a19333f470ec.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%A4%A7%E4%BD%AC%E5%93%A5%E5%93%A5"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_93bfbb8b7bcb.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_93bfbb8b7bcb.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%85%AB%E5%B2%81%E9%89%B4%E7%9C%9F"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_672cb8420fa0.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_672cb8420fa0.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%BB%8E%E5%88%B7%E5%B9%BF%E5%91%8A"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_e53c1d67a338.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_e53c1d67a338.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%9C%95%E6%9C%89%E5%8D%8E%E5%A4%8F"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0e059306cfe8.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0e059306cfe8.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%88%91%E5%8F%AA%E5%85%BB%E6%9C%80"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b6c3cec1ed7f.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b6c3cec1ed7f.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%90%8E%E5%A6%88%E5%8F%AA%E6%83%B3"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a4d44e23bc1b.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a4d44e23bc1b.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E8%80%81%E5%85%AC%E9%9D%9E%E8%A6%81"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_8a6e3a9dd9a3.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_8a6e3a9dd9a3.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%B8%9C%E5%8C%97%E5%90%8E%E5%A6%88"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_305e01b3e632.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_305e01b3e632.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E4%BB%96%E9%AB%98%E8%B0%83%E6%B1%82"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7e69c8038df3.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_7e69c8038df3.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%88%9D%E6%81%8B%E5%8F%98%E6%9D%83"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a1d0e0cfa1d1.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_a1d0e0cfa1d1.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E9%83%BD%E5%B8%82%E8%B5%B7%E9%A3%8E"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_866aacbb39ac.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_866aacbb39ac.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E7%8E%A9%E5%87%BA%E4%B8%87%E4%BA%BF"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_cda2d81bf956.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_cda2d81bf956.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E7%B3%BB%E7%BB%9F%E9%80%BC%E6%88%91"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b01987b9efbb.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_b01987b9efbb.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E5%AE%B6%E4%B8%BB%E6%98%AF%E4%BF%AE"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_72160d30d2ed.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_72160d30d2ed.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E7%9C%9F%E5%8D%83%E9%87%91%E5%A5%B9"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f7e5b9af1875.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_f7e5b9af1875.html.search_pagewords_r3.part.result.json}%{json}\n"
+next
+fail
+silent
+show-error
+location
+connect-timeout = 8
+max-time = 30
+max-filesize = 12582912
+proto = "=https"
+proto-redir = "=https"
+url = "https://www.duanjubaike.net/so.html?keyword=%E6%B2%A1%E8%AE%A9%E4%BD%A0%E9%95%87"
+output = "/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0472e88d1dab.html.search_pagewords_r3.part"
+write-out = "%output{/Users/yuemingxing/codefiles/course/新闻安全分析课程PPT/dataNews_final/dataprocessing/data/补采/raw/百科短词_0472e88d1dab.html.search_pagewords_r3.part.result.json}%{json}\n"

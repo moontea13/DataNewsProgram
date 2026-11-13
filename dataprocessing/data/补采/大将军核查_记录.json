@@ -1,0 +1,24 @@
+[
+  {
+    "ranking_id": "2026-09_红果_035",
+    "month": "2026-09",
+    "platform": "红果",
+    "rank": "35",
+    "rank_ocr": "35",
+    "title_raw": "大将军打楼养活百万大军第二季",
+    "producer_raw": "蓝天剧场",
+    "affiliate_raw": "",
+    "maker_rights_raw": "",
+    "content_type_raw": "3D漫",
+    "metric_raw": "6297.0万",
+    "metric_name": "月内峰值热度",
+    "source_url": "https://www.thepaper.cn/newsDetail_forward_34223675",
+    "source_image": "data/raw/monthly_rankings/2026-09_红果.jpg",
+    "review_status": "已对照原图逐行核对",
+    "review_notes": "核对近名、季数及联合出品署名；原图保留",
+    "work_id": "",
+    "contact_sheet": "data/补采/大将军核查_0.png",
+    "crop_center_y": 2850,
+    "source_image_sha256": "955465f654dff283f0dd3525d522a7bd809109def8af35c926fbc902a4d537be"
+  }
+]

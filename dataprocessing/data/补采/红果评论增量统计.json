@@ -1,0 +1,8 @@
+{
+  "new_stratified_sample_works": 20,
+  "new_stratified_comments": 180,
+  "union_comments_deduplicated": 351,
+  "union_works": 39,
+  "new_comments_beyond_old_sample": 171,
+  "limits": "正式分层比较使用本轮样本；合并索引仅作资料库，不能把不同抽样规则直接混算。身份仍须核实。"
+}

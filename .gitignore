@@ -1,22 +1,27 @@
+# 课程资料仅保留在本地。
+/课件/
+/数据梳理/
+
+# 本地环境、缓存与部署配置。
 __pycache__/
 *.py[cod]
+.venv/
+node_modules/
+.openai/
+.codex/
+.env
+.env.*
+!.env.example
 .DS_Store
+Thumbs.db
 *.part
 *.tmp
 *.inspect.ndjson
 
-# 数据与原始来源通过独立交接包分发，不进入Git历史。
-/dataprocessing/data/
-/dataprocessing/outputs/
-/dataprocessing/资料/目录整理记录.json
-/交接包/
-*.zip
-*.tar.gz
-
-# 用户自己的课程文档仅保留本地。
-/AI短剧同质化数据新闻方案.md
-/*.docx
-.venv/
-.env
-.env.*
-!.env.example
+# 凭据文件。
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
