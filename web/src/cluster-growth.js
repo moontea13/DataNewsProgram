@@ -1,5 +1,6 @@
 import * as d3 from './vendor/d3.js';
 import { month } from './components.js';
+import { autoWindow } from './motion.js';
 
 export function clusterGrowthData(data) {
   const firstSeen = new Map();
@@ -21,6 +22,7 @@ export function clusterGrowthHTML() {
     <div class="cluster-growth-summary" aria-live="polite"></div>
     <div class="cluster-growth-filters" role="group" aria-label="突出显示新增结构或已有结构"></div>
     <div class="cluster-growth-stage"></div>
+    <div class="growth-playback"><span class="growth-playback-status">每5秒自动换月 · 可点击月份查看</span><button type="button" class="growth-playback-toggle" aria-pressed="false">暂停轮播</button></div>
   </section>`;
 }
 
@@ -29,9 +31,16 @@ export function initClusterGrowth(data) {
   const model = clusterGrowthData(data);
   const stage = root.querySelector('.cluster-growth-stage');
   const svg = d3.select(stage).append('svg').attr('role', 'group');
-  let selectedMonth = 0, filter = 'all';
+  let selectedMonth = 0, filter = 'all', paused = false;
   let positions = new Map(), chartWidth, chartHeight;
   const reduced = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const playbackButton = root.querySelector('.growth-playback-toggle');
+  function syncPlayback() {
+    const stopped = paused || reduced();
+    playbackButton.textContent = stopped ? '开始轮播' : '暂停轮播';
+    playbackButton.setAttribute('aria-pressed', String(stopped));
+    root.querySelector('.growth-playback-status').textContent = stopped ? '轮播已暂停 · 可点击月份查看' : filter !== 'all' ? '筛选查看中 · 返回“全部”继续轮播' : '每5秒自动换月 · 可点击月份查看';
+  }
 
   function layout() {
     chartWidth = stage.clientWidth;
@@ -121,10 +130,17 @@ export function initClusterGrowth(data) {
       selectedMonth = +monthButton.dataset.growthMonth;
       filter = 'all';
       render();
+      playback.setIndex(selectedMonth);
+      playback.refresh();
     } else if (filterButton) {
       filter = filterButton.dataset.growthFilter;
       render(false);
     }
+    if (event.target.closest('.growth-playback-toggle')) {
+      paused = !paused;
+      playback.refresh();
+    }
+    syncPlayback();
   });
   root.addEventListener('keydown', event => {
     if (event.target.matches('.growth-dot') && ['Enter', ' '].includes(event.key)) {
@@ -134,6 +150,12 @@ export function initClusterGrowth(data) {
   });
   layout();
   render(false);
+  const playback = autoWindow({
+    root, count: model.months.length, duration: 5000, pauseOnHover: false, pauseOnFocus: false,
+    active: () => !paused && filter === 'all' && !root.querySelector('.growth-dot:focus'),
+    onChange: index => { selectedMonth = index; render(); }
+  });
+  syncPlayback();
   const resize = new ResizeObserver(() => {
     if (stage.clientWidth !== chartWidth) { layout(); render(false); }
   });
