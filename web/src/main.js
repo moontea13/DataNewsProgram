@@ -1,10 +1,11 @@
 import * as d3 from './vendor/d3.js';
 import { coverBoardsHTML } from './cover-boards.js';
-import { autoWindow, initMotion } from './motion.js';
+import { initMotion } from './motion.js';
 import { exhibitHTML, initExhibits } from './exhibits.js';
+import { clusterGrowthHTML, initClusterGrowth } from './cluster-growth.js';
 import { esc, pct, month, source, chapter, scrolly, placeholder, barRows } from './components.js';
 import { chapters, coverSteps, renewalSteps, feedbackSteps } from './story.js';
-import { initScenes, drawHeatmap, drawConcentration, kitBar } from './visuals.js';
+import { initScenes, drawHeatmap, kitBar } from './visuals.js';
 
 const $ = selector => document.querySelector(selector);
 const names = ['gallery','part45','story','sequels','producers','adaptations','phrases','aigc','audience','governance','title_style','cover_models','cover_layout','cases','metrics','provenance','cover_groups'];
@@ -15,11 +16,10 @@ async function start() {
   render();
   interactions();
   initExhibits(D);
+  initClusterGrowth(D.part45);
   initScenes(D, { coverSteps, renewalSteps, feedbackSteps });
   drawHeatmap($('#genre-heatmap'), D.story.genre_reversal_matrix);
   kitBar($('#producer-bars'), D.producers.ranking.slice(0,6).map(row=>({category:row.brand,value:row.confirmed_series_count})), '出品署名覆盖了多少个系列？', '按169个固定代表系列统计；联合署名分别计入各方');
-  renderConcentrationMonths();
-  initMonthWindows();
   renderGallery(); renderTitles(); renderClusters(); renderFeedback(); renderSeasonCase(); renderMonthly(); renderProducerMatrix();
   const sections = chapters.map(([id])=>document.getElementById(id));
   const observer = new IntersectionObserver(entries => {
@@ -72,28 +72,28 @@ function render() {
         <div class="section-wrap adaptation-panel"><div class="split-heading"><div><span class="eyebrow">原著与作者</span><h3>原著改编，<br>留下了多少线索？</h3></div><p>169个代表系列中，改编声明、书目关联与未知来源分别留下了不同的线索。</p></div><div class="adaptation-bars">${barRows(D.adaptations.confirmed_series_distribution.map(row=>({label:row.label.replace('身份或别名待核','身份待核'),value:row.count})),169)}</div><p class="figure-note">具体作品改编声明1个，系列级官方或媒体证据7个</p><details class="editorial-detail"><summary><span>打开作者—原著—系列的关系线索</span><span>查看关系 ＋</span></summary><div class="detail-body" id="adaptation-network"></div></details></div>
       </section>
 
-      <section class="chapter renewal-chapter" aria-labelledby="renewal-heading">${chapter('renewal','四','榜单在换新，<br>故事也在换新吗？','把“新”拆成三个层次，答案开始发生变化。')}
-        ${scrolly('renewal',renewalSteps,`<div class="chart-eyebrow">每月首次出现的数量</div><div class="renewal-chart" id="renewal-chart" role="img" aria-label="按作品、系列与结构簇切换的月度新增数量"></div><div class="chart-stage-label" id="renewal-stage">分季作品</div>`,`红果7—10月月榜 · 7月为观察期基线`)}
-        <div class="section-wrap reuse-panel"><div><span class="eyebrow">新系列，也可能用着此前的结构</span><h3>10月，30个新系列<br>走进了熟悉的叙事逻辑。</h3><p>在当月49个可分簇的新系列中，30个归入此前月份已出现过的结构簇。另有6个新系列未分簇，不计入这一分母。</p><strong class="big-ratio">${(D.part45.reuse.at(-1).reuse_ratio*100).toFixed(1)}<small>%</small></strong></div><div class="reuse-bars">${D.part45.reuse.filter(row=>!row.baseline).map(row=>`<div class="reuse-row"><div><span>${month(row.month)}</span><strong>${pct(row.reuse_ratio)}</strong></div><div class="reuse-track"><i style="width:${row.reuse_ratio*100}%"></i></div><small>沿用此前结构 ${row.reused_series_count} / ${row.codable_new_series_count} 个可分簇新系列</small></div>`).join('')}</div></div>
+      <section class="chapter renewal-chapter" aria-labelledby="renewal-heading">${chapter('renewal','四','热榜在更新，<br>故事却趋于同质','作品、系列、结构簇三个层次探究')}
+        ${scrolly('renewal',renewalSteps,`<div class="chart-eyebrow">每月的新作品数量</div><div class="renewal-chart" id="renewal-chart" role="img" aria-label="按作品、系列与结构簇切换的月度新增数量"></div><div class="chart-stage-label" id="renewal-stage">分季作品</div>`,`7月份的数据作为为观察期基线`)}
+        ${clusterGrowthHTML()}
+        <div class="section-wrap reuse-panel"><div><span class="eyebrow">新系列可能有相似的故事结构</span><h3>10月，30个新系列<br>走进了熟悉的叙事逻辑。</h3><strong class="big-ratio">${(D.part45.reuse.at(-1).reuse_ratio*100).toFixed(1)}<small>%</small></strong></div><div class="reuse-bars">${D.part45.reuse.filter(row=>!row.baseline).map(row=>`<div class="reuse-row"><div><span>${month(row.month)}</span><strong>${pct(row.reuse_ratio)}</strong></div><div class="reuse-track"><i style="width:${row.reuse_ratio*100}%"></i></div><small>沿用此前结构 ${row.reused_series_count} / ${row.codable_new_series_count} 个可分簇新系列</small></div>`).join('')}</div></div>
         ${exhibitHTML('timeline')}
-        <div class="section-wrap concentration-panel"><div class="split-heading"><div><span class="eyebrow">头部与尾部</span><h3>更靠前的榜位，<br>就更集中于同一种故事吗？</h3></div><p>比较每月第1—20名与第81—100名。月份依次轮换，再比较合并续季前后的结构集中度。</p></div><div class="concentration-controls"><div class="auto-month-heading"><strong id="concentration-current">7月</strong><span>2026</span><div class="auto-month-progress" aria-hidden="true">${D.part45.novelty.map(()=>'<i></i>').join('')}</div><button type="button" data-auto-pause>暂停</button></div><div class="segmented" id="concentration-basis"><button data-basis="榜位" class="active" aria-pressed="true">按榜位</button><button data-basis="系列去重" aria-pressed="false">系列去重</button></div></div><div id="concentration-chart"></div><p class="figure-note">头部第1—20名，尾部第81—100名 · 同簇配对比例衡量结构集中度</p></div>
 
       </section>
 
       <section class="chapter" aria-labelledby="audience-heading">${chapter('audience','五','观众看见了相似，<br>然后呢？','相似是结构上的归纳，感受却藏在一句句具体的评论里。')}
-        ${scrolly('feedback',feedbackSteps,`<div class="chart-eyebrow">3,049 条有效热评 · 每一点是一条</div><div class="comment-dot-field" id="comment-dot-field" role="img" aria-label="3049条评论中27条明确提及跨系列相似"></div><div class="feedback-figure-stat"><strong id="feedback-figure-number">3,049</strong><span id="feedback-figure-label">条有效观众热评</span></div>`,`3,049条公开页有效观众热评`)}
-        <div class="section-wrap feedback-panel"><div class="split-heading"><div><span class="eyebrow">重复的对象 × 评价的态度</span><h3>“像”与“不喜欢”，<br>并不是同一句话。</h3></div><p>评论里的相似，指向剧情、人物、画风，也伴随着不同态度。</p></div><div class="feedback-tools"><div class="segmented" id="feedback-relation"><button data-relation="指出相似" class="active" aria-pressed="true">指出相似</button><button data-relation="强调不同" aria-pressed="false">强调不同</button></div><label>比较范围<select id="feedback-scope"><option>不同系列</option><option>同剧内部</option><option>未说明</option></select></label></div><div class="attitude-legend" id="attitude-legend"></div><div id="attitude-chart" aria-live="polite"></div><div class="case-heading"><span class="eyebrow">让原句说话</span><button class="text-button" id="more-comments">再读几条 ↻</button></div><div class="comment-cards" id="comment-cards" aria-live="polite"></div><p class="figure-note">点击“阅读全文”，查看观众的完整表达与评论来源</p></div>
+        ${scrolly('feedback',feedbackSteps,`<div class="comment-dot-field" id="comment-dot-field" role="img" aria-label="3049条评论中27条明确提及跨系列相似"></div><div class="feedback-figure-stat"><strong id="feedback-figure-number">3,049</strong><span id="feedback-figure-label">条有效观众热评</span></div>`,'')}
+        <div class="section-wrap feedback-panel"><div class="split-heading"><div><h3>重复的对象 × 评价的态度</h3></div></div><div class="feedback-tools"><div class="segmented" id="feedback-relation"><button data-relation="指出相似" class="active" aria-pressed="true">指出相似</button><button data-relation="强调不同" aria-pressed="false">强调不同</button></div><label>比较范围<select id="feedback-scope"><option>不同系列</option><option>同剧内部</option><option>未说明</option></select></label></div><div class="attitude-legend" id="attitude-legend"></div><div id="attitude-chart" aria-live="polite"></div><div class="case-heading"><span class="eyebrow">让原句说话</span><button class="text-button" id="more-comments">再读几条 ↻</button></div><div class="comment-cards" id="comment-cards" aria-live="polite"></div></div>
       </section>
 
-      <section class="ending" id="ending"><div class="ending-mark" aria-hidden="true">终</div><span class="eyebrow">回到开头的那个问题</span><h2>我们想看的，<br>是下一部，<span>还是不一样的一部？</span></h2><div class="prose"><p>封面、剧名、题材、结构，分别给出了不同层次的答案。排版会重复，常见的翻盘机制会再现，新入榜的系列也可能落在熟悉的叙事逻辑里。</p><p>但这些相似，并不能直接抹去人物、细节和观看感受的差别。观众会识别套路，也会为熟悉配方里的改变留下好评。</p><p class="ending-final">榜单提供了很多选择。<br><strong>故事的不同，还需要在选择之后被看见。</strong></p></div><div class="ending-stats">${[['400','条记录','观察的起点'],['85','个结构簇','180个可分簇系列'],['61.2%','10月结构沿用','30 / 49个可分簇新系列'],['0.89%','相似评论提及','27 / 3,049条有效热评']].map(([value,label,note])=>`<div><strong>${value}</strong><span>${label}</span><small>${note}</small></div>`).join('')}</div></section>
+      <section class="ending" id="ending"><div class="ending-mark" aria-hidden="true">终</div><h2>我们想看的，<br>是下一部，<span>还是不一样的一部？</span></h2><div class="prose"><p>封面、剧名、题材、结构，分别给出了不同层次的答案。排版会重复，常见的翻盘机制会再现，新入榜的系列也可能落在熟悉的叙事逻辑里。</p><p>但这些相似，并不能直接抹去人物、细节和观看感受的差别。观众会识别套路，也会为熟悉配方里的改变留下好评。</p></div><div class="ending-stats">${[['400','条记录','观察的起点'],['85','个结构簇','180个可分簇系列'],['61.2%','10月结构沿用','30 / 49个可分簇新系列']].map(([value,label,note])=>`<div><strong>${value}</strong><span>${label}</span><small>${note}</small></div>`).join('')}</div></section>
 
       <section class="methods section-wrap" id="methods"><div class="split-heading"><div><span class="eyebrow">报道说明</span><h2>数据与来源</h2></div></div><details><summary>样本与计数</summary><p>2026年7—10月红果月榜，每月100条，共400条上榜记录；对应368部分季作品、196个系列。简介结构分析纳入180个系列，归为85个全局结构簇。7月作为观察期基线，后续月份的“首次出现”与此前观察月份累计集合比较。</p></details><details><summary>封面、剧名与简介</summary><p>封面、剧名与词项分析使用169个固定代表系列。封面展示组固定采用DINOv2中心裁剪特征、相似度0.70；组内每一对均达到该阈值，再逐图核对构图、标题排版和色彩。这里展示5组、17个系列，不是全样本的同质化比例。外观描述来自编辑查看，未使用字体家族识别模型。简介词项按规则编码，结构标签采用AI辅助、人工校审。文本检测图展示模型输出，不作真实作者来源认定。</p></details><details><summary>出品、改编与评论</summary><p>出品方以榜单署名品牌计数，联合署名分别保留。改编证据分为具体声明、系列级报道、候选线索与未知；书目关联不自动视为确认改编。3,260条公开页热评筛选出3,049条有效观众评论，按评论编号去重；27条明确提及跨系列相似，涉及24部作品，作品覆盖率分母为361部。热评是可见页面样本，不代表全体观众；单条评论可涉及多个对象。</p></details><details><summary>来源</summary><div class="source-list">${['33750460','34022517','34223675','34442821'].map((id,i)=>`<a href="https://www.thepaper.cn/newsDetail_forward_${id}" target="_blank" rel="noopener noreferrer">DataEye · ${i+7}月榜单报告 ↗</a>`).join('')}<a href="https://www.nrta.gov.cn/art/2026/11/6/art_114_74410.html" target="_blank" rel="noopener noreferrer">专项治理原文 ↗</a></div></details></section>
-    </main><footer class="site-footer"><a class="brand" href="#top"><span class="brand-stamp">叙</span><span>数说故事</span></a><p>AI 短剧，究竟有多少不同的故事？<small>武汉大学 · 新闻安全分析课程作品</small></p><a href="#top">回到故事开头 ↑</a></footer><dialog id="detail-dialog" aria-labelledby="detail-title"><button class="dialog-close" id="dialog-close" aria-label="关闭详情">×</button><div id="detail-content"></div></dialog>
+    </main><footer class="site-footer"><a href="#top">回到故事开头 ↑</a></footer><dialog id="detail-dialog" aria-labelledby="detail-title"><button class="dialog-close" id="dialog-close" aria-label="关闭详情">×</button><div id="detail-content"></div></dialog>
   `;
   renderAdaptations();
 }
 
-const state = {genre:'全部',galleryExpanded:false,template:0,clustersExpanded:false,concentrationMonth:'2026-07',basis:'榜位',relation:'指出相似',scope:'不同系列',commentPage:0};
+const state = {genre:'全部',galleryExpanded:false,template:0,clustersExpanded:false,relation:'指出相似',scope:'不同系列',commentPage:0};
 let lastFocus;
 function openDialog(body) { lastFocus=document.activeElement;$('#detail-content').innerHTML=body;const dialog=$('#detail-dialog');if(!dialog.open)dialog.showModal();dialog.scrollTop=0;document.body.classList.add('dialog-open'); }
 function showSeries(id) {
@@ -140,24 +140,6 @@ function renderMonthly() {
     return `<div><span class="eyebrow">${month(row.month)}</span><div class="monthly-measure"><strong>${selected?.percent?.toFixed(1) ?? '—'}<small>%</small></strong><span>${esc(genre)}<small>${selected?.count ?? 0} / ${row.series_with_description} 个有简介系列</small></span></div><div class="monthly-track"><i style="width:${selected?.percent || 0}%;background:var(--sage)"></i></div><div class="monthly-measure reversal"><strong>${reversal.percent?.toFixed(1) ?? '—'}<small>%</small></strong><span>三类翻盘表述覆盖<small>${reversal.numerator} / ${reversal.denominator} 个有明确词项系列</small></span></div><div class="monthly-track"><i style="width:${reversal.percent || 0}%;background:var(--accent)"></i></div></div>`;
   }).join('');
 }
-function setConcentrationMonth(index) {
-  const root=$('.concentration-panel'),monthValue=D.part45.novelty[index].month;
-  state.concentrationMonth=monthValue;
-  $('#concentration-current').textContent=month(monthValue);
-  root.querySelector('.month-window-track').style.transform=`translateX(-${index*100}%)`;
-  root.querySelectorAll('.auto-month-progress i').forEach((mark,i)=>mark.classList.toggle('active',i===index));
-  root.querySelectorAll('.month-window-slide').forEach((slide,i)=>{slide.inert=i!==index;slide.setAttribute('aria-hidden',String(i!==index));slide.dataset.active=String(i===index);});
-}
-function renderConcentrationMonths() {
-  $('#concentration-chart').innerHTML=`<div class="month-window"><div class="month-window-track">${D.part45.novelty.map(row=>{
-    const node=document.createElement('div');drawConcentration(node,D.part45,row.month,state.basis);
-    return `<div class="month-window-slide" aria-label="${month(row.month)}头尾结构比较">${node.innerHTML}</div>`;
-  }).join('')}</div></div>`;
-  setConcentrationMonth(Math.max(0,D.part45.novelty.findIndex(row=>row.month===state.concentrationMonth)));
-}
-function initMonthWindows() {
-  autoWindow({root:$('.concentration-panel'),count:D.part45.novelty.length,onChange:setConcentrationMonth});
-}
 function renderProducerMatrix() {
   const producers=D.producers.ranking.slice(0,6),genres=D.story.genres.filter(row=>row.label!=='未知').slice(0,7);
   $('#producer-matrix').innerHTML=`<table><caption>前6家出品署名的题材分布 · 单位：系列</caption><thead><tr><th scope="col">出品署名</th>${genres.map(row=>`<th scope="col">${esc(row.label)}</th>`).join('')}</tr></thead><tbody>${producers.map(row=>`<tr><th scope="row">${esc(row.brand)}</th>${genres.map(genre=>{const item=D.producers.genre_matrix.find(item=>item.brand===row.brand&&item.genre===genre.label);const count=item?.count || 0;return `<td style="--cell-alpha:${count?Math.min(.85,.12+count*.15):0}" title="${esc(row.brand)} · ${esc(genre.label)}：${count}个系列">${count || '·'}</td>`;}).join('')}</tr>`).join('')}</tbody></table>`;
@@ -200,7 +182,6 @@ function interactions() {
   $('#expand-clusters').addEventListener('click',()=>{state.clustersExpanded=!state.clustersExpanded;renderClusters();});
   $('#season-select').addEventListener('change',renderSeasonCase);
   $('#monthly-genre').addEventListener('change',renderMonthly);
-  $('#concentration-basis').addEventListener('click',event=>{const button=event.target.closest('[data-basis]');if(!button)return;state.basis=button.dataset.basis;activateButtons(event.currentTarget,button);renderConcentrationMonths();});
   $('#feedback-relation').addEventListener('click',event=>{const button=event.target.closest('[data-relation]');if(!button)return;state.relation=button.dataset.relation;state.commentPage=0;activateButtons(event.currentTarget,button);renderFeedback();});
   $('#feedback-scope').addEventListener('change',event=>{state.scope=event.target.value;state.commentPage=0;renderFeedback();});
   $('#more-comments').addEventListener('click',()=>{state.commentPage++;renderFeedback();});
