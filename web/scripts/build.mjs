@@ -11,5 +11,5 @@ await cp(path.join(root,'src'), path.join(dist,'src'), { recursive:true, filter:
 await cp(path.join(root,'index.html'), path.join(dist,'index.html'));
 const gallery = JSON.parse(await readFile(path.join(dist,'data/gallery.json'),'utf8'));
 await Promise.all(gallery.map(item => stat(path.join(dist,item.cover))));
-execFileSync('python3', [path.join(root,'scripts/bundle.py')], { stdio:'inherit' });
+execFileSync(process.platform === 'win32' ? 'python' : 'python3', [path.join(root,'scripts/bundle.py')], { stdio:'inherit' });
 console.log(`静态构建完成：dist/，已核对 ${gallery.length} 张本地封面。`);

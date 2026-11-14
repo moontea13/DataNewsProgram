@@ -1,0 +1,33 @@
+.cluster-growth{margin:35px auto 85px;padding:38px 38px 22px;border:1px solid var(--border);background:#fffdf74d;scroll-margin-top:100px}
+.cluster-growth-header{display:flex;justify-content:space-between;align-items:center;gap:25px}
+.cluster-growth-header h3{font:32px/1.5 var(--serif);font-weight:400}
+.cluster-growth-months{display:flex;gap:6px;flex-shrink:0}
+.cluster-growth-months button{padding:10px 17px;border:1px solid transparent;font-size:16px;color:var(--ink-2);transition:background .2s,color .2s}
+.cluster-growth-months button[aria-pressed=true]{color:var(--paper);background:var(--ink)}
+.cluster-growth-summary{display:flex;align-items:baseline;gap:32px;margin:28px 0 24px;font-size:17px;color:var(--ink-2)}
+.cluster-growth-summary strong{font:44px/1.2 var(--serif);color:var(--accent);margin-right:5px}
+.cluster-growth-filters{display:flex;flex-wrap:wrap;gap:12px}
+.cluster-growth-filters button{display:flex;align-items:center;gap:12px;padding:9px 15px;font-size:15px;border:1px solid var(--border);color:var(--ink-2);transition:background .2s,border-color .2s}
+.cluster-growth-filters button[aria-pressed=true]{border-color:var(--sage);background:#6c817514;color:var(--ink)}
+.cluster-growth-filters button:disabled{opacity:.35;cursor:default}
+.cluster-growth-filters b{font-weight:500;color:var(--accent)}
+.cluster-growth button:focus-visible,.growth-dot:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.cluster-growth-stage{margin-top:20px;width:100%}
+.cluster-growth-stage svg{display:block;max-width:100%;overflow:visible}
+.growth-halo{fill-opacity:.06;stroke-opacity:.18;stroke-width:1;pointer-events:none}
+.is-new-cluster .growth-halo{fill-opacity:.1;stroke-opacity:.5;stroke-dasharray:3 4}
+.growth-dot{cursor:pointer;stroke:var(--paper);stroke-width:1.5}
+.growth-dot.is-current{stroke-width:2.5}
+.growth-dot:hover,.growth-dot:focus-visible{stroke:var(--ink);stroke-width:2;opacity:1}
+@media(max-width:760px){
+  .cluster-growth{padding:24px 15px 15px;margin:20px auto 50px}
+  .cluster-growth-header{align-items:start;flex-direction:column;gap:20px}
+  .cluster-growth-header h3{font-size:26px}
+  .cluster-growth-months{width:100%;justify-content:space-between}
+  .cluster-growth-months button{padding:9px 16px;font-size:16px}
+  .cluster-growth-summary{gap:22px;margin:24px 0;font-size:15px}
+  .cluster-growth-summary strong{font-size:36px}
+  .cluster-growth-filters{gap:8px}
+  .cluster-growth-filters button{padding:9px 10px;font-size:14px;gap:8px}
+  .cluster-growth-stage{margin-top:14px}
+}
