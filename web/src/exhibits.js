@@ -4,15 +4,6 @@ import { autoWindow } from './motion.js';
 import { esc, month, source } from './components.js';
 
 const sequences = {
-  recipe: {
-    theme:'mint',title:'这些故事，共用了什么？',
-    steps:[
-      ['把封面下面的故事打开。','同一种故事结构，落在了不同剧名之下。沿着这组简介，看看人物面对什么困境，又凭什么走出困境。','先看这组作品'],
-      ['先看主角遇到了什么。','保留同一组作品，换到“核心冲突”这一层。时代和人物可以不同，简介中的困境却可能相近。','核心冲突'],
-      ['再看改变处境的那一下。','重生、系统、特殊资源，各自能提供怎样的优势？不同设定，把人物送到了相近的转折点。','关键转机'],
-      ['最后，主角怎样应对？','把冲突、转机和应对路径接起来，再读共同结构。人物的设定在变化，故事前进的方式逐渐重合。','应对与共同结构'],
-    ],
-  },
   origins:{
     theme:'butter',title:'顺着一部剧，找到它的来处',
     steps:[
@@ -46,26 +37,17 @@ function poster(row, extra='', label='') {
 
 export function initExhibits(D) {
   const gallery=new Map(D.gallery.map(row=>[row.series_id,row]));
-  const series=new Map(D.part45.series.map(row=>[row.series_id,row]));
   const sceneStates=new Map();
-  let recipeId='C031',originId='HG_7640040862889544729';
-  const availableClusters=[...D.part45.clusters].filter(row=>row.member_series_ids.filter(id=>gallery.has(id)).length>=2).sort((a,b)=>b.member_count-a.member_count);
-  function recipeMembers(){const cluster=D.part45.clusters.find(row=>row.cluster_id===recipeId);return{cluster,members:cluster.member_series_ids.filter(id=>gallery.has(id)).slice(0,4)};}
-  function drawRecipe(){
-    const {cluster,members}=recipeMembers();
-    const fields=[['作品简介',null],['核心冲突','core_conflict'],['关键转机','turning_mechanism'],['应对路径','response_path']];
-    document.getElementById('exhibit-body-recipe').innerHTML=`<div class="recipe-selector"><label>换一组故事<select id="recipe-cluster">${availableClusters.map(row=>`<option value="${row.cluster_id}" ${row.cluster_id===recipeId?'selected':''}>${esc(row.cluster_name)} · ${row.member_count}个系列</option>`).join('')}</select></label><button class="change-shelf" data-cluster="${cluster.cluster_id}">读简介 ↗</button></div><div class="recipe-stage"><div class="recipe-shelf">${members.map(id=>poster(gallery.get(id),'recipe-book')).join('')}</div><div class="dimension-window"><div class="dimension-track">${fields.map(([label,field],index)=>`<div class="dimension-slide" data-dimension="${index}"><span class="dimension-heading">${label}</span><div class="dimension-labels">${members.map(id=>`<span>${esc(field?series.get(id)[field]:gallery.get(id).genre)}</span>`).join('')}</div><p>${index===0?'这些作品的外表各不相同。往下读，逐层看简介。':index===3?esc(cluster.common_chain):index===1?'人名和世界观先退后，让困境留在画面里。':'继续沿着同一组简介，找到推动行动的优势。'}</p></div>`).join('')}</div></div></div><p class="exhibit-evidence-note">${cluster.cluster_name} · ${cluster.member_count}个系列</p>`;
-    document.getElementById('recipe-cluster').addEventListener('change',event=>{recipeId=event.target.value;drawRecipe();applyPhase('recipe',sceneStates.get('recipe')?.index||0);});
-    applyPhase('recipe',sceneStates.get('recipe')?.index||0);
-  }
+  let originId='HG_7624475539960499262';
   function drawOrigins(){
-    const row=gallery.get(originId),nodeRows=D.part45.nodes.filter(n=>n.series_id===originId),works=[...new Map(nodeRows.map(n=>[n.work_id,n])).values()].sort((a,b)=>a.rank-b.rank),brand=row.producer_brands[0];
+    const row=gallery.get(originId),nodeRows=D.part45.nodes.filter(n=>n.series_id===originId).sort((a,b)=>a.month.localeCompare(b.month)||a.rank-b.rank),works=[...new Map(nodeRows.map(n=>[n.work_id,n])).values()],brand=row.producer_brands[0];
     const peers=D.gallery.filter(r=>r.series_id!==originId&&r.producer_brands.includes(brand)).slice(0,3);
     const status=D.adaptations.statuses.find(r=>r.series_id===originId);
     const bookId=status?.book_ids?.[0],book=D.adaptations.nodes.find(r=>r.id===`book:${bookId}`),authorEdge=book&&D.adaptations.edges.find(r=>r.target===book.id&&r.source.startsWith('author:')),author=authorEdge&&D.adaptations.nodes.find(r=>r.id===authorEdge.source);
-    const options=D.sequels.series_ranking.filter(r=>gallery.has(r.series_id)).slice(0,10);
+    const options=D.sequels.series_ranking.filter(r=>gallery.has(r.series_id)&&(r.series_id==='HG_7624475539960499262'||D.sequels.series_ranking.indexOf(r)<10));
     const confirmed=status&&['具体作品有直接改编声明','系列有官方或媒体改编证据'].includes(status.category);
-    document.getElementById('exhibit-body-origins').innerHTML=`<div class="origin-selector"><label>沿着这个系列看<select id="origin-series">${options.map(r=>`<option value="${r.series_id}" ${r.series_id===originId?'selected':''}>${esc(r.title)}</option>`).join('')}</select></label></div><div class="origin-scene"><div class="origin-reference">${poster(row,'origin-book','系列代表封面')}</div><div class="origin-connector" aria-hidden="true"><svg viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M5 50 H40 Q50 50 50 35 V15 H95 M50 35 V80 Q50 90 60 90 H95"/></svg></div><div class="origin-slide-window"><div class="origin-slide-track"><div class="origin-slide"><div class="season-paper-stack">${works.slice(0,6).map((work,i)=>`<button class="season-paper" data-node="${work.ranking_id}" style="--paper:${i}"><small>${month(work.month)} · 第${work.rank}名</small><strong>${esc(work.title)}</strong></button>`).join('')}</div><p class="origin-slide-caption">${works.length}部分季作品 · ${nodeRows.length}条上榜记录</p></div><div class="origin-slide"><div class="publisher-name"><small>榜单出品署名</small><strong>${esc(brand||'署名缺失')}</strong></div><div class="publisher-shelf">${peers.length?peers.map(r=>poster(r,'publisher-book')).join(''):'<p class="shelf-empty">169个代表材料中，暂无其他同署名系列。</p>'}</div></div><div class="origin-slide"><div class="book-source ${confirmed?'confirmed':'candidate'}"><span class="source-book-spine" aria-hidden="true"></span><small>${confirmed?'已有改编证据':'书目线索'}</small><strong>${esc(book?.label||'尚未找到明确书目')}</strong><span>${esc(author?.label||'作者信息未齐')}</span></div><p class="book-evidence">${esc(status?.category||'未知')}${!confirmed&&book?' · 仅作线索展示':''}</p>${book?source(book.source_url,'打开原著书目'):''}</div></div></div></div><p class="exhibit-evidence-note">${esc(row.title)} · ${esc(brand || '出品资料')}</p>`;
+    const evidence=D.editorial.adaptation_evidence.find(r=>r.series_id===originId);
+    document.getElementById('exhibit-body-origins').innerHTML=`<div class="origin-selector"><label>沿着这个系列看<select id="origin-series">${options.map(r=>`<option value="${r.series_id}" ${r.series_id===originId?'selected':''}>${esc(r.title)}</option>`).join('')}</select></label></div><div class="origin-scene"><div class="origin-reference">${poster(row,'origin-book','系列代表封面')}</div><div class="origin-connector" aria-hidden="true"><svg viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M5 50 H40 Q50 50 50 35 V15 H95 M50 35 V80 Q50 90 60 90 H95"/></svg></div><div class="origin-slide-window"><div class="origin-slide-track"><div class="origin-slide"><div class="season-record-list">${nodeRows.map(work=>`<button data-node="${work.ranking_id}"><span>${month(work.month)}<strong>第${work.rank}名</strong></span><span>${esc(work.title)}</span></button>`).join('')}</div><p class="origin-slide-caption">${works.length}部分季作品 · ${nodeRows.length}条上榜记录，按月份排列</p></div><div class="origin-slide"><div class="publisher-name"><small>榜单出品署名</small><strong>${esc(brand||'署名缺失')}</strong></div><div class="publisher-shelf">${peers.length?peers.map(r=>poster(r,'publisher-book')).join(''):'<p class="shelf-empty">169个代表材料中，暂无其他同署名系列。</p>'}</div></div><div class="origin-slide"><div class="book-source ${confirmed?'confirmed':'candidate'}"><span class="source-book-spine" aria-hidden="true"></span><small>${confirmed?'有证据支持的关联书目':'待核书目线索'}</small><strong>${esc(book?.label||'尚未找到明确书目')}</strong><span>${esc(author?.label||'作者信息未齐')}</span></div><p class="book-evidence">${esc(status?.category||'未知')}${!confirmed&&book?' · 仅作线索展示':''}</p>${evidence?`<blockquote class="origin-claim">“${esc(evidence.claim_excerpt)}”</blockquote>${source(evidence.source_url,'核对改编证据')}`:''}${book?source(book.source_url,'打开书目'):''}</div></div></div></div>`;
     document.getElementById('origin-series').addEventListener('change',event=>{originId=event.target.value;drawOrigins();applyPhase('origins',sceneStates.get('origins')?.index||0);});
     applyPhase('origins',sceneStates.get('origins')?.index||0);
   }
@@ -113,16 +95,16 @@ export function initExhibits(D) {
     root.querySelector('.exhibit-page').textContent=`${String(index+1).padStart(2,'0')} / ${String(sequences[id].steps.length).padStart(2,'0')}`;
     root.querySelector('.exhibit-progress i').style.width=`${(index+1)/sequences[id].steps.length*100}%`;
     root.querySelector('[data-exhibit-prev]').disabled=index===0;root.querySelector('[data-exhibit-next]').disabled=index===sequences[id].steps.length-1;
-    if(id==='recipe'){root.querySelector('.dimension-track')?.style.setProperty('--dimension',index);root.querySelectorAll('.dimension-slide').forEach((slide,i)=>{slide.inert=i!==index;slide.setAttribute('aria-hidden',String(i!==index));});}
     if(id==='origins'){root.querySelector('.origin-slide-track')?.style.setProperty('--origin',index);root.querySelectorAll('.origin-slide').forEach((slide,i)=>{slide.inert=i!==index;slide.setAttribute('aria-hidden',String(i!==index));});}
     if(id==='timeline'&&updateTimeline){updateTimeline(index,sceneStates.get(id)?.month??3);updateTimeline.sync();}
   }
   for(const id of Object.keys(sequences))sceneStates.set(id,{index:0,month:3});
-  drawRecipe();drawOrigins();updateTimeline=createTimeline();
+  drawOrigins();updateTimeline=createTimeline();
   function go(id,index,scroll=false){const count=sequences[id].steps.length,i=Math.max(0,Math.min(count-1,index)),s=sceneStates.get(id);if(id==='timeline'&&i===3&&s.index!==3)s.month=0;s.index=i;applyPhase(id,i);if(scroll)document.querySelectorAll(`#exhibit-${id} .exhibit-step`)[i].scrollIntoView({block:'center',behavior:'instant'});}
   const scrollers=[];
   for(const [id,config] of Object.entries(sequences)){
-    go(id,0);const root=document.getElementById(`exhibit-${id}`),frame=root.querySelector('.exhibit-frame');
+    const root=document.getElementById(`exhibit-${id}`);if(!root)continue;
+    go(id,0);const frame=root.querySelector('.exhibit-frame');
     const scroller=scrollama().setup({step:root.querySelectorAll('.exhibit-step'),offset:innerWidth<760?.78:.53,progress:true}).onStepEnter(({index})=>go(id,index)).onStepProgress(({index,progress})=>{if(id==='timeline'&&sceneStates.get(id).index===index){if(index===0)updateTimeline(index,3,progress);}});
     scrollers.push(scroller);
     frame.addEventListener('keydown',event=>{if(event.target.matches('input,select'))return;if(['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();go(id,sceneStates.get(id).index+(event.key==='ArrowRight'?1:-1),true);}});
@@ -130,5 +112,5 @@ export function initExhibits(D) {
   }
   document.addEventListener('click',event=>{const next=event.target.closest('[data-exhibit-next]'),prev=event.target.closest('[data-exhibit-prev]'),target=event.target.closest('[data-exhibit-goto]');if(next)go(next.dataset.exhibitNext,sceneStates.get(next.dataset.exhibitNext).index+1,true);if(prev)go(prev.dataset.exhibitPrev,sceneStates.get(prev.dataset.exhibitPrev).index-1,true);if(target)go(target.dataset.exhibitGoto,+target.dataset.position,true);});
   window.addEventListener('resize',()=>scrollers.forEach(scroller=>scroller.resize()));
-  window.exhibits={go,list:()=>Object.keys(sequences),state:sceneStates};
+  window.exhibits={go,list:()=>Object.keys(sequences).filter(id=>document.getElementById(`exhibit-${id}`)),state:sceneStates};
 }
