@@ -107,7 +107,7 @@ export function initScenes(D, configs) {
 export function drawHeatmap(container,rows) {
   const genres=[...new Set(rows.map(row=>row.genre))];
   const reversals=[...new Set(rows.map(row=>row.reversal))].slice(0,7);
-  const w=850,left=104,top=85,cellW=(w-left-20)/reversals.length,cellH=43,h=top+genres.length*cellH+40;
+  const w=1050,left=130,top=85,cellW=(w-left-20)/reversals.length,cellH=43,h=top+genres.length*cellH+40;
   const svg=d3.select(container).append('svg').attr('viewBox',`0 0 ${w} ${h}`).attr('role','img').attr('aria-label','不同题材中翻盘表述的占比热力图');
   const color=d3.scaleSequential().domain([0,100]).interpolator(d3.interpolateRgb('#eee8dd',accent));
   genres.forEach((genre,i)=>svg.append('text').attr('x',left-15).attr('y',top+i*cellH+cellH/2+4).attr('text-anchor','end').text(genre));

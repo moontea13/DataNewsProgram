@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "build": "node scripts/build.mjs",
+    "check:editorial": "node scripts/check_editorial.mjs",
     "preview": "node scripts/serve.mjs --dist",
     "data": "python3 scripts/prepare_data.py"
   }
