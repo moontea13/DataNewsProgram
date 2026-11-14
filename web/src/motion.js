@@ -2,17 +2,13 @@ const reduced = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 /** 轮换只在窗口进入视野时推进；悬停、键盘聚焦及读详情时停留。 */
 export function autoWindow({root, count, onChange, duration=5500, active=()=>true}) {
-  let index=0,visible=false,hovered=false,focused=false,paused=reduced(),timer;
-  const button=root.querySelector('[data-auto-pause]');
-  function buttonState(){if(button){button.textContent=paused?'继续轮换':'暂停';button.setAttribute('aria-label',paused?'继续自动轮换':'暂停自动轮换');button.setAttribute('aria-pressed',String(paused));}}
-  function sync(){clearInterval(timer);buttonState();if(visible&&!paused&&!hovered&&!focused&&!document.hidden)timer=setInterval(()=>{if(active()&&!document.querySelector('dialog[open]')){index=(index+1)%count;onChange(index);}},duration);}
+  let index=0,visible=false,hovered=false,focused=false,timer;
+  function sync(){clearInterval(timer);if(visible&&!reduced()&&!hovered&&!focused&&!document.hidden)timer=setInterval(()=>{if(active()&&!document.querySelector('dialog[open]')){index=(index+1)%count;onChange(index);}},duration);}
   const observer=new IntersectionObserver(entries=>{visible=entries.some(entry=>entry.isIntersecting);sync();},{threshold:.25});observer.observe(root);
   root.addEventListener('mouseenter',()=>{hovered=true;sync();});root.addEventListener('mouseleave',()=>{hovered=false;sync();});
-  root.addEventListener('focusin',event=>{if(event.target===button)return;focused=true;sync();});root.addEventListener('focusout',event=>{focused=Boolean(event.relatedTarget&&root.contains(event.relatedTarget)&&event.relatedTarget!==button);sync();});
-  button?.addEventListener('click',()=>{paused=!paused;sync();});
+  root.addEventListener('focusin',()=>{focused=true;sync();});root.addEventListener('focusout',event=>{focused=Boolean(event.relatedTarget&&root.contains(event.relatedTarget));sync();});
   document.addEventListener('visibilitychange',sync);
   window.addEventListener('pagehide',()=>{clearInterval(timer);observer.disconnect();},{once:true});
-  buttonState();
   return {setIndex(value){index=Math.max(0,Math.min(count-1,value));},refresh:sync};
 }
 

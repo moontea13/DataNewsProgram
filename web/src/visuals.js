@@ -3,7 +3,7 @@ import scrollama from './vendor/scrollama.js';
 import { applyTheme, deepMerge, INK, showTip, hideTip, DUR } from './vendor/scrollytelling-kit/util.js';
 import { createWaffle } from './vendor/scrollytelling-kit/charts/waffle.js';
 import { createBar } from './vendor/scrollytelling-kit/charts/bar.js';
-import { esc, pct, month } from './components.js';
+import { esc, month } from './components.js';
 
 const accent='#bc412f', sage='#6c8175', ink='#292c28', gold='#b39a68';
 const resolve=value=>value;
@@ -59,17 +59,35 @@ export function initScenes(D, configs) {
     bars.select('rect').attr('x',r=>x(r.month)).attr('width',x.bandwidth()).attr('fill',state.level==='work'?ink:state.level==='series'?sage:accent).interrupt().transition().duration(immediate?0:DUR()).attr('y',r=>y(r[fields[state.level]])).attr('height',r=>y(0)-y(r[fields[state.level]]));
     bars.select('.bar-value').attr('x',r=>x(r.month)+x.bandwidth()/2).attr('text-anchor','middle').text(r=>r[fields[state.level]]).interrupt().transition().duration(immediate?0:DUR()).attr('y',r=>y(r[fields[state.level]])-13);
     bars.select('.bar-month').attr('x',r=>x(r.month)+x.bandwidth()/2).attr('y',h-31).attr('text-anchor','middle').text(r=>month(r.month));
-    document.getElementById('renewal-stage').innerHTML=`<i style="background:${state.level==='work'?ink:state.level==='series'?sage:accent}"></i>${labels[state.level]}<small>7月作为基线，图中呈现8—10月</small>`;
+    document.getElementById('renewal-stage').innerHTML=`<i style="background:${state.level==='work'?ink:state.level==='series'?sage:accent}"></i>${labels[state.level]}`;
   }
   const renewalObserver=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting)){const baseline=Math.max(300,renewalContainer.getBoundingClientRect().height)-62;renewalSvg.selectAll('g.renewal-bar rect').interrupt().attr('y',baseline).attr('height',0);renewalRender({level:currentLevel},false);}},{threshold:.2});
   renewalObserver.observe(renewalContainer);
   window.addEventListener('pagehide',()=>renewalObserver.disconnect(),{once:true});
   const field=document.getElementById('comment-dot-field');
-  const dotSvg=d3.select(field).append('svg').attr('viewBox','0 0 610 500').attr('aria-hidden','true');
-  const dots=dotSvg.selectAll('circle').data(d3.range(D.part45.counts.validComments)).join('circle').attr('cx',value=>(value%61)*10+5).attr('cy',value=>Math.floor(value/61)*10+5).attr('r',3);
+  // 点阵只绘制一次，滚动切换只改变两个画布层的透明度。
+  const pixelRatio=Math.min(window.devicePixelRatio,2);
+  for(const [className,count,color] of [['comment-dots-base',D.part45.counts.validComments,'#b7b2a7'],['comment-dots-highlight',27,accent]]) {
+    const canvas=document.createElement('canvas');
+    canvas.className=className;
+    canvas.width=610*pixelRatio;
+    canvas.height=500*pixelRatio;
+    canvas.setAttribute('aria-hidden','true');
+    const context=canvas.getContext('2d');
+    context.scale(pixelRatio,pixelRatio);
+    context.fillStyle=color;
+    context.beginPath();
+    for(let index=0;index<count;index++) {
+      const x=(index%61)*10+5,y=Math.floor(index/61)*10+5;
+      context.moveTo(x+3,y);
+      context.arc(x,y,3,0,Math.PI*2);
+    }
+    context.fill();
+    field.append(canvas);
+  }
   function feedbackRender(state) {
+    if(field.dataset.mode===state.mode)return;
     field.dataset.mode=state.mode;
-    dots.classed('is-mention',value=>value<27);
     document.getElementById('feedback-figure-number').textContent=state.mode==='all'?'3,049':'27';
     document.getElementById('feedback-figure-label').textContent=state.mode==='all'?'条有效观众热评':'条跨系列相似反馈 · 占0.89%';
   }
@@ -107,7 +125,7 @@ export function initScenes(D, configs) {
 export function drawHeatmap(container,rows) {
   const genres=[...new Set(rows.map(row=>row.genre))];
   const reversals=[...new Set(rows.map(row=>row.reversal))].slice(0,7);
-  const w=850,left=104,top=85,cellW=(w-left-20)/reversals.length,cellH=43,h=top+genres.length*cellH+40;
+  const w=1050,left=130,top=85,cellW=(w-left-20)/reversals.length,cellH=43,h=top+genres.length*cellH+40;
   const svg=d3.select(container).append('svg').attr('viewBox',`0 0 ${w} ${h}`).attr('role','img').attr('aria-label','不同题材中翻盘表述的占比热力图');
   const color=d3.scaleSequential().domain([0,100]).interpolator(d3.interpolateRgb('#eee8dd',accent));
   genres.forEach((genre,i)=>svg.append('text').attr('x',left-15).attr('y',top+i*cellH+cellH/2+4).attr('text-anchor','end').text(genre));
@@ -132,18 +150,6 @@ export function drawNovelty(container,D) {
   const kinds=[['new_work_count','作品',ink],['new_series_count','系列',sage],['new_cluster_count','结构簇',accent]];
   D.novelty.forEach(row=>{kinds.forEach(([field,label,color],i)=>{const width=x.bandwidth()/3-5,xx=x(row.month)+i*(width+5);svg.append('rect').attr('x',xx).attr('y',y(row[field])).attr('width',width).attr('height',y(0)-y(row[field])).attr('fill',color).append('title').text(`${month(row.month)}新增${label}：${row[field]}`);svg.append('text').attr('x',xx+width/2).attr('y',y(row[field])-8).attr('text-anchor','middle').text(row[field]);});svg.append('text').attr('x',x(row.month)+x.bandwidth()/2).attr('y',h-21).attr('text-anchor','middle').text(`${month(row.month)}${row.baseline?' · 基线':''}`);});
   const legend=d3.select(container).append('div').attr('class','chart-html-legend');kinds.forEach(([,label,color])=>legend.append('span').html(`<i style="background:${color}"></i>${label}`));
-}
-
-export function drawConcentration(container,D,m,basis) {
-  const clusterMap=new Map(D.clusters.map(row=>[row.cluster_id,row]));
-  const clusterColor=id=>clusterMap.get(id)?.color || '#d9d5ca';
-  container.innerHTML=`<div class="node-panels">${['head','tail'].map(group=>{
-    let nodes=D.nodes.filter(row=>row.month===m&&row.rank_group===group).sort((a,b)=>a.rank-b.rank);
-    if(basis==='系列去重')nodes=nodes.filter((row,i,all)=>all.findIndex(other=>other.series_id===row.series_id)===i);
-    nodes.sort((a,b)=>(a.cluster_id||'ZZZ').localeCompare(b.cluster_id||'ZZZ')||a.rank-b.rank);
-    const stats=D.concentration.find(row=>row.month===m&&row.rank_group===group&&row.counting_basis===basis);
-    return `<div class="node-panel"><div class="node-heading"><h4>${group==='head'?'头部':'尾部'}<small>${group==='head'?'第1—20名':'第81—100名'}</small></h4><span>${nodes.length}个${basis==='榜位'?'榜位':'系列'}</span></div><div class="node-grid">${nodes.map(row=>`<button style="--node-color:${clusterColor(row.cluster_id)}" data-node="${esc(row.ranking_id)}" aria-label="第${row.rank}名，${esc(row.title)}，${esc(row.cluster_name||'未分簇')}" title="${esc(row.title)} · ${esc(row.cluster_name||'未分簇')}">${row.rank}</button>`).join('')}</div><div class="node-stat"><span><b>${stats.cluster_count}</b>结构簇</span><span><b>${pct(stats.pair_ratio)}</b>同簇配对</span><span><b>${pct(stats.top3_share,0)}</b>前三簇占比</span></div></div>`;
-  }).join('')}</div><div class="concentration-bottom"><p>同簇配对越多，简介核心结构越集中。<br>系列去重后，续季占据的多个榜位合并计一次。</p><div><span>四个月头部－尾部平均差</span><strong>${(D.meanDifferences.find(row=>row.counting_basis===basis).pair_ratio_mean_difference*100).toFixed(2)}<small>个百分点</small></strong></div></div>`;
 }
 
 export function drawModelCurve(container,D,key,threshold=.85) {
